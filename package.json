@@ -5,10 +5,10 @@
 , "version": "0.0.1alpha"
 , "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)"
 , "repository": { "type": "git", "url": "git://github.com/ajlopez/ChineseP.git" }
-  "scripts": {
+, "scripts": {
     "start": "node ./bin/www",
     "test": "simpleunit test -r"
-  },
+  }
 , "dependencies": {
   }
 , "devDependencies": {
