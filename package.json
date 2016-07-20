@@ -1,17 +1,25 @@
-{ "name": "chinesep"
-, "private": true
-, "description": "Chinese Practice Website"
-, "keywords": [ "chinese", "express" ]
-, "version": "0.0.1alpha"
-, "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)"
-, "repository": { "type": "git", "url": "git://github.com/ajlopez/ChineseP.git" }
-, "scripts": {
+{
+  "name": "chinesep",
+  "private": true,
+  "description": "Chinese Practice Website",
+  "keywords": [
+    "chinese",
+    "express"
+  ],
+  "version": "0.0.1alpha",
+  "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ajlopez/ChineseP.git"
+  },
+  "scripts": {
     "start": "node ./bin/www",
     "test": "simpleunit test -r"
-  }
-, "dependencies": {
-  }
-, "devDependencies": {
+  },
+  "dependencies": {
+    "simplelists": "0.0.6"
+  },
+  "devDependencies": {
     "simpleunit": "0.0.7"
   }
 }
