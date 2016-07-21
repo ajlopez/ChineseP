@@ -39,3 +39,13 @@ exports['add and retrieve element'] = function(test) {
     test.equal(list.length, 1);
     test.equal(list[0].translation, "wo");
 }
+
+exports['clear and get empty list'] = function(test) {
+    elements.clear();
+    
+    var list = elements.list();
+    
+    test.ok(list);
+    test.ok(Array.isArray(list));
+    test.equal(list.length, 0);
+}
