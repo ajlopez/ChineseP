@@ -49,3 +49,25 @@ exports['clear and get empty list'] = function(test) {
     test.ok(Array.isArray(list));
     test.equal(list.length, 0);
 }
+
+exports['add elements'] = function(test) {
+    var elems = [
+        {
+            translation: "I'm fine"
+        },
+        {
+            translation: "You are fine"
+        }
+    ];
+    
+    elements.add(elems);
+    
+    var list = elements.list();
+    
+    test.ok(list);
+    test.ok(Array.isArray(list));
+    test.equal(list.length, 2);
+    test.equal(list[0].translation, "I'm fine");
+    test.equal(list[1].translation, "You are fine");
+}
+
