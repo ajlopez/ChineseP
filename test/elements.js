@@ -1,5 +1,6 @@
 
 var elements = require('../lib/elements');
+var sl = require('simplelists');
 
 exports['get empty list'] = function(test) {
     var list = elements.list();
@@ -71,3 +72,17 @@ exports['add elements'] = function(test) {
     test.equal(list[1].translation, "You are fine");
 }
 
+exports['select elements'] = function(test) {
+    elements.clear();
+    
+    for (var k = 1; k < 20; k++)
+        elements.add({ title: 'Element ' + k, value: k });
+    
+    var result = elements.select(function (el) { return el.value % 2 == 0 }, 4);
+    
+    test.ok(result);
+    test.ok(Array.isArray(result));
+    test.equal(result.length, 4);
+    
+    test.ok(sl.all(result, function (el) { return el.value % 2 == 0 }));
+}
