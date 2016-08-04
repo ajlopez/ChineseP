@@ -25,3 +25,12 @@ exports['get coffee element'] = function(test) {
     test.ok(Array.isArray(list));
     test.equal(list.length, 1);
 }
+
+exports['get elements by category'] = function(test) {
+    var list = chinese.list({ category: 'beverage' });
+    
+    test.ok(list);
+    test.ok(Array.isArray(list));
+    test.equal(list.length, 2);
+}
+
