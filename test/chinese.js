@@ -34,3 +34,12 @@ exports['get elements by category'] = function(test) {
     test.equal(list.length, 2);
 }
 
+exports['select elements'] = function(test) {
+    var list = chinese.select({ category: 'beverage' }, 1);
+    
+    test.ok(list);
+    test.ok(Array.isArray(list));
+    test.equal(list.length, 1);
+	test.equal(list[0].category, 'beverage');
+}
+
