@@ -43,3 +43,12 @@ exports['select elements'] = function(test) {
 	test.equal(list[0].category, 'beverage');
 }
 
+exports['clear elements'] = function(test) {
+    chinese.clear();
+    var list = chinese.list();
+    
+    test.ok(list);
+    test.ok(Array.isArray(list));
+    test.equal(list.length, 0);
+}
+
