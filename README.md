@@ -18,6 +18,10 @@ TBD
 
 TBD
 
+## References
+
+- [Chinese English Pinyin Dictionary](https://chinese.yabla.com/chinese-english-pinyin-dictionary.php)
+
 ## Contribution
 
 Feel free to [file issues](https://github.com/ajlopez/ChineseP) and submit
