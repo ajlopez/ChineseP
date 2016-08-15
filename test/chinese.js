@@ -31,15 +31,15 @@ exports['get elements by category'] = function(test) {
     
     test.ok(list);
     test.ok(Array.isArray(list));
-    test.equal(list.length, 2);
+    test.ok(list.length > 0);
 }
 
 exports['select elements'] = function(test) {
-    var list = chinese.select({ category: 'beverage' }, 1);
+    var list = chinese.select({ category: 'beverage' }, 3);
     
     test.ok(list);
     test.ok(Array.isArray(list));
-    test.equal(list.length, 1);
+    test.equal(list.length, 3);
 	test.equal(list[0].category, 'beverage');
 }
 

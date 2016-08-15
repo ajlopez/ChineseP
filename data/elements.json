@@ -12,5 +12,158 @@
 		"translation": "beer",
 		"category": "beverage",
 		"type": "noun"
+	},
+	{
+		"chinese": "虎牌",
+		"pinyin": "Hǔ pái",
+		"translation": "Tiger beer",
+		"category": "beer",
+		"type": "noun"
+	},
+	{
+		"chinese": "百威",
+		"pinyin": "Bǎi wēi",
+		"translation": "Budweiser (beer)",
+		"category": "beer",
+		"type": "noun"
+	},
+	{
+		"chinese": "扎",
+		"pinyin": "zhā",
+		"translation": "jug (a classifier for liquids such as beer)",
+		"category": "beer",
+		"type": "classifier"
+	},
+	{
+		"chinese": "茶",
+		"pinyin": "chá",
+		"translation": "tea",
+		"category": "beverage",
+		"type": "noun"
+	},
+	{
+		"chinese": "茶会",
+		"pinyin": "chá huì",
+		"translation": "tea party",
+		"category": "tea",
+		"type": "noun"
+	},
+	{
+		"chinese": "茶树",
+		"pinyin": "chá shù",
+		"translation": "tea tree",
+		"category": "tree",
+		"type": "noun"
+	},
+	{
+		"chinese": "茶叶",
+		"pinyin": "chá yè",
+		"translation": "tea leaves",
+		"category": "tea",
+		"type": "noun"
+	},
+	{
+		"chinese": "绿茶",
+		"pinyin": "lǜ chá",
+		"translation": "green tea",
+		"category": "beverage",
+		"type": "noun"
+	},
+	{
+		"chinese": "红茶",
+		"pinyin": "hóng chá",
+		"translation": "black tea",
+		"category": "beverage",
+		"type": "noun"
+	},
+	{
+		"chinese": "清茶",
+		"pinyin": "qīng chá",
+		"translation": "only tea (without food)",
+		"category": "beverage",
+		"type": "noun"
+	},
+	{
+		"chinese": "茶点",
+		"pinyin": "chá diǎn",
+		"translation": "tea and cake",
+		"category": "food",
+		"type": "noun"
+	},
+	{
+		"chinese": "奶茶",
+		"pinyin": "nǎi chá",
+		"translation": "milk tea",
+		"category": "beverage",
+		"type": "noun"
+	},
+	{
+		"chinese": "茶具",
+		"pinyin": "chá jù",
+		"translation": "tea set",
+		"category": "tea",
+		"type": "noun"
+	},
+	{
+		"chinese": "茶杯",
+		"pinyin": "chá bēi",
+		"translation": "tea cup",
+		"category": "tea",
+		"type": "noun"
+	},
+	{
+		"chinese": "烘焙",
+		"pinyin": "hōng bèi",
+		"translation": "to bake",
+		"type": "verb"
+	},
+	{
+		"chinese": "茶艺",
+		"pinyin": "chá yì",
+		"translation": "the art of tea",
+		"category": "tea",
+		"type": "noun"
+	},
+	{
+		"chinese": "沏",
+		"pinyin": "qī",
+		"translation": "to steep (tea)",
+		"category": "tea",
+		"type": "verb"
+	},
+	{
+		"chinese": "面包",
+		"pinyin": "miàn bāo",
+		"translation": "bread",
+		"category": "food",
+		"type": "noun"
+	},
+	{
+		"chinese": "馍",
+		"pinyin": "mó",
+		"translation": "small loaf of steamed bread",
+		"category": "food",
+		"type": "noun"
+	},
+	{
+		"chinese": "起子",
+		"pinyin": "qǐ zi",
+		"translation": "screwdriver",
+		"category": "tool",
+		"type": "noun"
+	},
+	{
+		"chinese": "法棍",
+		"pinyin": "Fǎ gùn",
+		"translation": "baguette (bread)",
+		"category": "food",
+		"type": "noun"
+	},
+	{
+		"chinese": "猴面包树",
+		"pinyin": "hóu miàn bāo shù",
+		"translation": "boabab tree",
+		"category": "tree",
+		"type": "noun"
 	}
 ]
