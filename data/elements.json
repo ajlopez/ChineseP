@@ -1,5 +1,50 @@
 [
 	{
+		"chinese": "水",
+		"pinyin": "shuǐ",
+		"translation": "water",
+		"category": "beverage",
+		"type": "noun"
+	},
+	{
+		"chinese": "水源",
+		"pinyin": "shuǐ yuán",
+		"translation": "water source",
+		"category": "water",
+		"type": "noun"
+	},
+	{
+		"chinese": "流",
+		"pinyin": "liú",
+		"translation": "to flow",
+		"type": "verb"
+	},
+	{
+		"chinese": "冲",
+		"pinyin": "chōng",
+		"translation": "to mix with water",
+		"type": "verb"
+	},
+	{
+		"chinese": "冲",
+		"pinyin": "chōng",
+		"translation": "to infuse",
+		"type": "verb"
+	},
+	{
+		"chinese": "冲",
+		"pinyin": "chōng",
+		"translation": "to flush",
+		"type": "verb"
+	},
+	{
+		"chinese": "浇灌",
+		"pinyin": "jiāo guàn",
+		"translation": "to irrigate",
+		"category": "water",
+		"type": "verb"
+	},
+	{
 		"chinese": "啤酒",
 		"pinyin": "kā fēi",
 		"translation": "coffee",
@@ -7,9 +52,64 @@
 		"type": "noun"
 	},
 	{
+		"chinese": "kā",
+		"pinyin": "kā",
+		"translation": "class, grade",
+		"type": "noun"
+	},
+	{
+		"chinese": "咖啡店",
+		"pinyin": "kā fēi diàn",
+		"translation": "coffee shop",
+		"category": "coffee",
+		"type": "noun"
+	},
+	{
+		"chinese": "咖啡屋",
+		"pinyin": "kā fēi wū",
+		"translation": "coffee house",
+		"category": "coffee",
+		"type": "noun"
+	},
+	{
+		"chinese": "咖啡豆",
+		"pinyin": "kā fēi dòu",
+		"translation": "coffee beans",
+		"category": "coffee",
+		"type": "noun"
+	},
+	{
+		"chinese": "咖啡馆",
+		"pinyin": "kā fēi guǎn",
+		"translation": "coffee shop",
+		"category": "coffee",
+		"type": "noun"
+	},
+	{
+		"chinese": "咖啡机",
+		"pinyin": "kā fēi jī",
+		"translation": "coffee machine",
+		"category": "coffee",
+		"type": "noun"
+	},
+	{
+		"chinese": "提拉米苏",
+		"pinyin": "tí lā mǐ sū",
+		"translation": "tiramisu (Italian dessert)",
+		"category": "food",
+		"type": "noun"
+	},
+	{
 		"chinese": "咖啡",
 		"pinyin": "pí jiǔ",
 		"translation": "beer",
+		"category": "beverage",
+		"type": "noun"
+	},
+	{
+		"chinese": "鲁特啤酒",
+		"pinyin": "lǔ tè pí jiǔ",
+		"translation": "root beer",
 		"category": "beverage",
 		"type": "noun"
 	},
