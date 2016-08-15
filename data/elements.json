@@ -38,6 +38,40 @@
 		"type": "verb"
 	},
 	{
+		"chinese": "灌输",
+		"pinyin": "guàn shū",
+		"translation": "to teach",
+		"type": "verb"
+	},
+	{
+		"chinese": "注水",
+		"pinyin": "zhù shuǐ",
+		"translation": "to pour water into",
+		"category": "water",
+		"type": "verb"
+	},
+	{
+		"chinese": "汤",
+		"pinyin": "tāng",
+		"translation": "soup",
+		"category": "food",
+		"type": "noun"
+	},
+	{
+		"chinese": "沸水",
+		"pinyin": "fèi shuǐ",
+		"translation": "boiling water",
+		"category": "water",
+		"type": "noun"
+	},
+	{
+		"chinese": "水球",
+		"pinyin": "shuǐ qiú",
+		"translation": "water polo",
+		"category": "sport",
+		"type": "noun"
+	},
+	{
 		"chinese": "浇灌",
 		"pinyin": "jiāo guàn",
 		"translation": "to irrigate",
@@ -265,5 +299,157 @@
 		"translation": "boabab tree",
 		"category": "tree",
 		"type": "noun"
+	},
+	{
+		"chinese": "中国",
+		"pinyin": "Zhōng guó",
+		"translation": "China",
+		"category": "country",
+		"type": "noun"
+	},
+	{
+		"chinese": "美国",
+		"pinyin": "Měi guó",
+		"translation": "United States",
+		"category": "country",
+		"type": "noun"
+	},
+	{
+		"chinese": "英国",
+		"pinyin": "Yīng guó",
+		"translation": "United Kingdom",
+		"category": "country",
+		"type": "noun"
+	},
+	{
+		"chinese": "韩国",
+		"pinyin": "Hán guó",
+		"translation": "South Korea",
+		"category": "country",
+		"type": "noun"
+	},
+	{
+		"chinese": "德国",
+		"pinyin": "Dé guó",
+		"translation": "Germany",
+		"category": "country",
+		"type": "noun"
+	},
+	{
+		"chinese": "法国",
+		"pinyin": "Fǎ guó",
+		"translation": "France",
+		"category": "country",
+		"type": "noun"
+	},
+	{
+		"chinese": "国籍",
+		"pinyin": "guó jí",
+		"translation": "nationality",
+		"type": "noun"
+	},
+	{
+		"chinese": "家",
+		"pinyin": "jiā",
+		"translation": "home",
+		"type": "noun"
+	},
+	{
+		"chinese": "家",
+		"pinyin": "jiā",
+		"translation": "family",
+		"type": "noun"
+	},
+	{
+		"chinese": "番",
+		"pinyin": "fān",
+		"translation": "foreign (non-Chinese)",
+		"type": "noun"
+	},
+	{
+		"chinese": "北京",
+		"pinyin": "Běi jīng",
+		"translation": "Beijing",
+		"category": "city",
+		"type": "noun"
+	},
+	{
+		"chinese": "上海",
+		"pinyin": "Shàng hǎi",
+		"translation": "Shanghai",
+		"category": "city",
+		"type": "noun"
+	},
+	{
+		"chinese": "史",
+		"pinyin": "shǐ",
+		"translation": "history",
+		"type": "noun"
+	},
+	{
+		"chinese": "我的",
+		"pinyin": "wǒ de",
+		"translation": "my, mine",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "他们的",
+		"pinyin": "tā men de",
+		"translation": "their, theirs",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "我们的",
+		"pinyin": "wǒ men de",
+		"translation": "our, ours",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "你的",
+		"pinyin": "nǐ de",
+		"translation": "your, yours",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "别的",
+		"pinyin": "bié de",
+		"translation": "else",
+		"type": "adverb"
+	},
+	{
+		"chinese": "什么的",
+		"pinyin": "shén me de",
+		"translation": "and so on",
+		"type": "connector"
+	},
+	{
+		"chinese": "是的",
+		"pinyin": "shì de",
+		"translation": "yes, that's right",
+		"type": "phrase"
+	},
+	{
+		"chinese": "的确",
+		"pinyin": "dí què",
+		"translation": "really",
+		"type": "adverb"
+	},
+	{
+		"chinese": "似的",
+		"pinyin": "shì de",
+		"translation": "seems as if, rather like",
+		"type": "connector"
+	},
+	{
+		"chinese": "标的",
+		"pinyin": "biāo dì",
+		"translation": "target",
+		"type": "name"
+	},
+	{
+		"chinese": "的",
+		"pinyin": "de",
+		"translation": "of, 's (possesive article)",
+		"type": "article"
 	}
 ]
