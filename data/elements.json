@@ -537,6 +537,13 @@
 		"type": "noun"
 	},
 	{
+		"chinese": "星期",
+		"pinyin": "xīng qī",
+		"translation": "week",
+		"category": "time",
+		"type": "noun"
+	},
+	{
 		"chinese": "月",
 		"pinyin": "yuè",
 		"translation": "month",
@@ -556,5 +563,54 @@
 		"translation": "year",
 		"category": "time",
 		"type": "noun"
+	},
+	{
+		"chinese": "每天",
+		"pinyin": "měi tiān",
+		"translation": "every day",
+		"category": "time",
+		"type": "expression"
+	},
+	{
+		"chinese": "日日",
+		"pinyin": "rì rì",
+		"translation": "every day",
+		"category": "time",
+		"type": "expression"
+	},
+	{
+		"chinese": "第二天",
+		"pinyin": "dì èr tiān",
+		"translation": "next day",
+		"category": "time",
+		"type": "expression"
+	},
+	{
+		"chinese": "每日",
+		"pinyin": "měi rì",
+		"translation": "daily",
+		"category": "time",
+		"type": "expression"
+	},
+	{
+		"chinese": "一号",
+		"pinyin": "yī hào",
+		"translation": "first day of the month",
+		"category": "time",
+		"type": "expression"
+	},
+	{
+		"chinese": "日前",
+		"pinyin": "rì qián",
+		"translation": "the other day",
+		"category": "time",
+		"type": "expression"
+	},
+	{
+		"chinese": "日前",
+		"pinyin": "rì qián",
+		"translation": "a few days ago",
+		"category": "time",
+		"type": "expression"
 	}
 ]
