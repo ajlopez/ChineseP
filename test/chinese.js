@@ -1,5 +1,6 @@
 
 var chinese = require('../lib/chinese');
+var sl = require('simplelists');
 
 exports['get empty list'] = function(test) {
     var list = chinese.list();
@@ -41,6 +42,17 @@ exports['select elements'] = function(test) {
     test.ok(Array.isArray(list));
     test.equal(list.length, 3);
 	test.equal(list[0].category, 'beverage');
+}
+
+exports['select by character'] = function(test) {
+    var list = chinese.select({ character: '水' }, 3);
+    
+    test.ok(list);
+    test.ok(Array.isArray(list));
+    test.equal(list.length, 3);
+	test.ok(sl.all(list, function (item) {
+		return item.chinese && item.chinese.indexOf('水') >= 0;
+	}));
 }
 
 exports['clear elements'] = function(test) {
