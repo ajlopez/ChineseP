@@ -507,5 +507,54 @@
 		"translation": "color",
 		"category": "color",
 		"type": "noun"
+	},
+	{
+		"chinese": "天",
+		"pinyin": "tiān",
+		"translation": "day",
+		"category": "time",
+		"type": "noun"
+	},
+	{
+		"chinese": "号",
+		"pinyin": "hào",
+		"translation": "day of a month",
+		"category": "time",
+		"type": "noun"
+	},
+	{
+		"chinese": "天",
+		"pinyin": "tiān",
+		"translation": "sky",
+		"category": "nature",
+		"type": "noun"
+	},
+	{
+		"chinese": "日",
+		"pinyin": "rì",
+		"translation": "sun",
+		"category": "nature",
+		"type": "noun"
+	},
+	{
+		"chinese": "月",
+		"pinyin": "yuè",
+		"translation": "month",
+		"category": "time",
+		"type": "noun"
+	},
+	{
+		"chinese": "月",
+		"pinyin": "yuè",
+		"translation": "moon",
+		"category": "nature",
+		"type": "noun"
+	},
+	{
+		"chinese": "年",
+		"pinyin": "nián",
+		"translation": "year",
+		"category": "time",
+		"type": "noun"
 	}
 ]
