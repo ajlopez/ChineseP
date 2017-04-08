@@ -451,5 +451,61 @@
 		"pinyin": "de",
 		"translation": "of, 's (possesive article)",
 		"type": "article"
+	},
+	{
+		"chinese": "苹果",
+		"pinyin": "píng guǒ",
+		"translation": "apple",
+		"category": "fruit",
+		"type": "noun"
+	},
+	{
+		"chinese": "橙子",
+		"pinyin": "chéng zi",
+		"translation": "orange",
+		"category": "fruit",
+		"type": "noun"
+	},
+	{
+		"chinese": "草莓",
+		"pinyin": "cǎo méi",
+		"translation": "strawberry",
+		"category": "fruit",
+		"type": "noun"
+	},
+	{
+		"chinese": "红",
+		"pinyin": "hóng",
+		"translation": "red",
+		"category": "color",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "白",
+		"pinyin": "bái",
+		"translation": "white",
+		"category": "color",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "白",
+		"pinyin": "hēi",
+		"translation": "black",
+		"category": "color",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "灰",
+		"pinyin": "huī",
+		"translation": "gray",
+		"category": "color",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "色",
+		"pinyin": "sè",
+		"translation": "color",
+		"category": "color",
+		"type": "noun"
 	}
 ]
