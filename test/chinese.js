@@ -55,6 +55,17 @@ exports['select by character'] = function(test) {
 	}));
 }
 
+exports['select by text'] = function(test) {
+    var list = chinese.select({ text: 'water' }, 3);
+    
+    test.ok(list);
+    test.ok(Array.isArray(list));
+    test.equal(list.length, 3);
+	test.ok(sl.all(list, function (item) {
+		return item.translation && item.translation.indexOf('water') >= 0;
+	}));
+}
+
 exports['clear elements'] = function(test) {
     chinese.clear();
     var list = chinese.list();
