@@ -38,6 +38,18 @@
 		"type": "verb"
 	},
 	{
+		"chinese": "有",
+		"pinyin": "yǒu",
+		"translation": "to have",
+		"type": "verb"
+	},
+	{
+		"chinese": "只",
+		"pinyin": "zhǐ",
+		"translation": "only/but",
+		"type": "adverb"
+	},
+	{
 		"chinese": "冲",
 		"pinyin": "chōng",
 		"translation": "to mix with water",
@@ -60,6 +72,30 @@
 		"pinyin": "guàn shū",
 		"translation": "to teach",
 		"type": "verb"
+	},
+	{
+		"chinese": "好",
+		"pinyin": "hào",
+		"translation": "good",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "友",
+		"pinyin": "yǒu",
+		"translation": "friend",
+		"type": "noun"
+	},
+	{
+		"chinese": "朋",
+		"pinyin": "péng",
+		"translation": "friend",
+		"type": "noun"
+	},
+	{
+		"chinese": "朋友",
+		"pinyin": "péng yǒu",
+		"translation": "friend",
+		"type": "noun"
 	},
 	{
 		"chinese": "注水",
@@ -441,6 +477,18 @@
 		"type": "connector"
 	},
 	{
+		"chinese": "是",
+		"pinyin": "shì",
+		"translation": "to be",
+		"type": "verb"
+	},
+	{
+		"chinese": "不",
+		"pinyin": "bù",
+		"translation": "no/not",
+		"type": "prefix"
+	},
+	{
 		"chinese": "是的",
 		"pinyin": "shì de",
 		"translation": "yes, that's right",
@@ -608,6 +656,18 @@
 		"pinyin": "nián",
 		"translation": "year",
 		"category": "time",
+		"type": "noun"
+	},
+	{
+		"chinese": "网",
+		"pinyin": "wǎng",
+		"translation": "network",
+		"type": "noun"
+	},
+	{
+		"chinese": "人",
+		"pinyin": "rén",
+		"translation": "people",
 		"type": "noun"
 	},
 	{
