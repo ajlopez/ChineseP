@@ -1,11 +1,18 @@
 <!DOCTYPE html>
 <html>
   <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title><%= title %></title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
     <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
+	<p style="font-size: 40pt"><%= items[selected].chinese %></p>
+	
+	<ul style="font-size: 20pt">
+	<% for (n in items) { %>
+		<li><%= items[n].translation %> (<%= items[n].pinyin %>) <%= n == selected ? "***" : "" %></li>
+	<% } %>
+	</ul>
   </body>
 </html>

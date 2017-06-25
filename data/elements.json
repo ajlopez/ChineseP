@@ -1,5 +1,23 @@
 [
 	{
+		"chinese": "我",
+		"pinyin": "wǒ",
+		"translation": "I",
+		"type": "pronoun"
+	},
+	{
+		"chinese": "你",
+		"pinyin": "nǐ",
+		"translation": "you",
+		"type": "pronoun"
+	},
+	{
+		"chinese": "他",
+		"pinyin": "tā",
+		"translation": "he/she",
+		"type": "pronoun"
+	},
+	{
 		"chinese": "水",
 		"pinyin": "shuǐ",
 		"translation": "water",
@@ -488,9 +506,30 @@
 		"type": "adjetive"
 	},
 	{
-		"chinese": "白",
+		"chinese": "黑",
 		"pinyin": "hēi",
 		"translation": "black",
+		"category": "color",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "蓝",
+		"pinyin": "lán",
+		"translation": "blue",
+		"category": "color",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "绿",
+		"pinyin": "lǜ",
+		"translation": "green",
+		"category": "color",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "黄",
+		"pinyin": "huáng",
+		"translation": "yellow",
 		"category": "color",
 		"type": "adjetive"
 	},
@@ -526,6 +565,13 @@
 		"chinese": "天",
 		"pinyin": "tiān",
 		"translation": "sky",
+		"category": "nature",
+		"type": "noun"
+	},
+	{
+		"chinese": "候",
+		"pinyin": "hòu",
+		"translation": "climate",
 		"category": "nature",
 		"type": "noun"
 	},
