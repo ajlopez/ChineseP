@@ -718,5 +718,624 @@
 		"translation": "a few days ago",
 		"category": "time",
 		"type": "expression"
+	},
+	{
+		"chinese": "第",
+		"pinyin": "dì",
+		"translation": "prefix indicating ordinal number",
+		"category": "number",
+		"type": "prefix"
+	},
+	{
+		"chinese": "一",
+		"pinyin": "yī",
+		"translation": "one",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "二",
+		"pinyin": "èr",
+		"translation": "two",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "三",
+		"pinyin": "sān",
+		"translation": "three",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "四",
+		"pinyin": "sì",
+		"translation": "four",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "四",
+		"pinyin": "sì",
+		"translation": "four",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "四",
+		"pinyin": "sì",
+		"translation": "four",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "五",
+		"pinyin": "wǔ",
+		"translation": "five",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "六",
+		"pinyin": "liù",
+		"translation": "six",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "七",
+		"pinyin": "qī",
+		"translation": "seven",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "八",
+		"pinyin": "bā",
+		"translation": "eight",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "九",
+		"pinyin": "jiǔ",
+		"translation": "nine",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "十",
+		"pinyin": "shí",
+		"translation": "ten",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "十一",
+		"pinyin": "shí yī",
+		"translation": "eleven",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "十二",
+		"pinyin": "shí èr",
+		"translation": "twelve",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "石",
+		"pinyin": "dàn",
+		"translation": "one hundred",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "千",
+		"pinyin": "qiān",
+		"translation": "one thousand",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "双",
+		"pinyin": "shuāng",
+		"translation": "pair",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "双",
+		"pinyin": "shuāng",
+		"translation": "even",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "奇",
+		"pinyin": "qí",
+		"translation": "odd",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "奇",
+		"pinyin": "jī",
+		"translation": "odd (number)",
+		"category": "number",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "奇数",
+		"pinyin": "jī shù",
+		"translation": "odd number",
+		"category": "number",
+		"type": "name"
+	},
+	{
+		"chinese": "土",
+		"pinyin": "tǔ",
+		"translation": "earth",
+		"category": "nature",
+		"type": "noun"
+	},
+	{
+		"chinese": "曜",
+		"pinyin": "yào",
+		"translation": "one of the seven planets of pre-modern astronomy",
+		"category": "nature",
+		"type": "noun"
+	},
+	{
+		"chinese": "金",
+		"pinyin": "jīn",
+		"translation": "gold",
+		"category": "nature",
+		"type": "noun"
+	},
+	{
+		"chinese": "金融",
+		"pinyin": "jīn róng",
+		"translation": "banking",
+		"category": "commerce",
+		"type": "noun"
+	},
+	{
+		"chinese": "基",
+		"pinyin": "jī",
+		"translation": "base",
+		"type": "noun"
+	},
+	{
+		"chinese": "木",
+		"pinyin": "mù",
+		"translation": "tree",
+		"category": "nature",
+		"type": "noun"
+	},
+	{
+		"chinese": "木",
+		"pinyin": "mù",
+		"translation": "woord",
+		"category": "nature",
+		"type": "noun"
+	},
+	{
+		"chinese": "对",
+		"pinyin": "duì",
+		"translation": "right, correct",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "案",
+		"pinyin": "àn",
+		"translation": "file",
+		"type": "noun"
+	},
+	{
+		"chinese": "案",
+		"pinyin": "àn",
+		"translation": "table",
+		"category": "mobiliary",
+		"type": "noun"
+	},
+	{
+		"chinese": "台",
+		"pinyin": "tái",
+		"translation": "table",
+		"category": "mobiliary",
+		"type": "noun"
+	},
+	{
+		"chinese": "桌子",
+		"pinyin": "zhuō zi",
+		"translation": "table",
+		"category": "mobiliary",
+		"type": "noun"
+	},
+	{
+		"chinese": "目",
+		"pinyin": "mù",
+		"translation": "eye",
+		"category": "body",
+		"type": "noun"
+	},
+	{
+		"chinese": "子",
+		"pinyin": "zǐ",
+		"translation": "son",
+		"category": "family",
+		"type": "noun"
+	},
+	{
+		"chinese": "子",
+		"pinyin": "zǐ",
+		"translation": "noun suffix",
+		"type": "suffix"
+	},
+	{
+		"chinese": "电",
+		"pinyin": "diàn",
+		"translation": "electricity",
+		"category": "technology",
+		"type": "noun"
+	},
+	{
+		"chinese": "电视",
+		"pinyin": "diàn shì",
+		"translation": "televisor",
+		"category": "technology",
+		"type": "noun"
+	},
+	{
+		"chinese": "电影",
+		"pinyin": "diàn yǐng",
+		"translation": "movie",
+		"category": "technology",
+		"type": "noun"
+	},
+	{
+		"chinese": "家电",
+		"pinyin": "jiā diàn",
+		"translation": "household electric appliance",
+		"category": "technology",
+		"type": "noun"
+	},
+	{
+		"chinese": "电话",
+		"pinyin": "diàn huà",
+		"translation": "telephone",
+		"category": "technology",
+		"type": "noun"
+	},
+	{
+		"chinese": "电脑",
+		"pinyin": "diàn nǎo",
+		"translation": "computer",
+		"category": "technology",
+		"type": "noun"
+	},
+	{
+		"chinese": "电信",
+		"pinyin": "diàn xìn",
+		"translation": "telecommunications",
+		"category": "technology",
+		"type": "noun"
+	},
+	{
+		"chinese": "信",
+		"pinyin": "xìn",
+		"translation": "letter",
+		"type": "noun"
+	},
+	{
+		"chinese": "信",
+		"pinyin": "xìn",
+		"translation": "to believe",
+		"type": "verb"
+	},
+	{
+		"chinese": "电子",
+		"pinyin": "diàn zǐ",
+		"translation": "electron",
+		"category": "physics",
+		"type": "noun"
+	},
+	{
+		"chinese": "米",
+		"pinyin": "mǐ",
+		"translation": "rice",
+		"category": "food",
+		"type": "noun"
+	},
+	{
+		"chinese": "酒",
+		"pinyin": "jiǔ",
+		"translation": "alcoholic beverage",
+		"category": "beverage",
+		"type": "noun"
+	},
+	{
+		"chinese": "饭",
+		"pinyin": "fàn",
+		"translation": "food",
+		"category": "food",
+		"type": "noun"
+	},
+	{
+		"chinese": "主",
+		"pinyin": "zhǔ",
+		"translation": "master",
+		"type": "noun"
+	},
+	{
+		"chinese": "自",
+		"pinyin": "zì",
+		"translation": "oneself",
+		"type": "pronoun"
+	},
+	{
+		"chinese": "自我",
+		"pinyin": "zì wǒ",
+		"translation": "ego",
+		"type": "noun"
+	},
+	{
+		"chinese": "自信",
+		"pinyin": "zì xìn",
+		"translation": "self-confidence",
+		"type": "noun"
+	},
+	{
+		"chinese": "独自",
+		"pinyin": "dú zì",
+		"translation": "alone",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "自",
+		"pinyin": "zì",
+		"translation": "from",
+		"type": "preposition"
+	},
+	{
+		"chinese": "来自",
+		"pinyin": "lái zì",
+		"translation": "to come from",
+		"type": "phrasal verb"
+	},
+	{
+		"chinese": "自由",
+		"pinyin": "zì yóu",
+		"translation": "freedom",
+		"type": "noun"
+	},
+	{
+		"chinese": "失",
+		"pinyin": "shī",
+		"translation": "to lose",
+		"type": "verb"
+	},
+	{
+		"chinese": "失去",
+		"pinyin": "shī qù",
+		"translation": "to lose",
+		"type": "verb"
+	},
+	{
+		"chinese": "损失",
+		"pinyin": "sǔn shī",
+		"translation": "damage",
+		"type": "noun"
+	},
+	{
+		"chinese": "消失",
+		"pinyin": "xiāo shī",
+		"translation": "to disappear",
+		"type": "verb"
+	},
+	{
+		"chinese": "失礼",
+		"pinyin": "shī lǐ",
+		"translation": "lacking in manners",
+		"type": "noun"
+	},
+	{
+		"chinese": "常",
+		"pinyin": "cháng",
+		"translation": "always",
+		"type": "adverb"
+	},
+	{
+		"chinese": "常",
+		"pinyin": "cháng",
+		"translation": "frequently",
+		"type": "adverb"
+	},
+	{
+		"chinese": "经常",
+		"pinyin": "jīng cháng",
+		"translation": "everyday",
+		"type": "adverb"
+	},
+	{
+		"chinese": "常",
+		"pinyin": "cháng cháng",
+		"translation": "frequently",
+		"type": "adverb"
+	},
+	{
+		"chinese": "失常",
+		"pinyin": "shī cháng",
+		"translation": "not normal",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "失",
+		"pinyin": "shī",
+		"translation": "to fail",
+		"type": "verb"
+	},
+	{
+		"chinese": "钱",
+		"pinyin": "qián",
+		"translation": "money, coin",
+		"category": "commerce",
+		"type": "name"
+	},
+	{
+		"chinese": "分",
+		"pinyin": "fēn",
+		"translation": "0.01 yuan (unit of money)",
+		"category": "commerce",
+		"type": "name"
+	},
+	{
+		"chinese": "分",
+		"pinyin": "fēn",
+		"translation": "fraction",
+		"type": "name"
+	},
+	{
+		"chinese": "分",
+		"pinyin": "fēn",
+		"translation": "to divide",
+		"type": "verb"
+	},
+	{
+		"chinese": "发",
+		"pinyin": "fā",
+		"translation": "to send out",
+		"type": "verb"
+	},
+	{
+		"chinese": "发",
+		"pinyin": "fā",
+		"translation": "to develop",
+		"type": "verb"
+	},
+	{
+		"chinese": "花",
+		"pinyin": "huā",
+		"translation": "flower",
+		"category": "nature",
+		"type": "name"
+	},
+	{
+		"chinese": "花",
+		"pinyin": "huā",
+		"translation": "blossom",
+		"category": "nature",
+		"type": "name"
+	},
+	{
+		"chinese": "砧木",
+		"pinyin": "zhēn mù",
+		"translation": "rootstock",
+		"category": "nature",
+		"type": "name"
+	},
+	{
+		"chinese": "砧",
+		"pinyin": "zhēn",
+		"translation": "anvil",
+		"category": "tool",
+		"type": "name"
+	},
+	{
+		"chinese": "锤",
+		"pinyin": "chuí",
+		"translation": "hammer",
+		"category": "tool",
+		"type": "name"
+	},
+	{
+		"chinese": "锤子",
+		"pinyin": "chuí zi",
+		"translation": "hammer",
+		"category": "tool",
+		"type": "name"
+	},
+	{
+		"chinese": "鎯",
+		"pinyin": "láng",
+		"translation": "large hammer",
+		"category": "tool",
+		"type": "name"
+	},
+	{
+		"chinese": "起子",
+		"pinyin": "qǐ zi",
+		"translation": "screwdriver",
+		"category": "tool",
+		"type": "name"
+	},
+	{
+		"chinese": "螺刀",
+		"pinyin": "luó dāo",
+		"translation": "screwdriver",
+		"category": "tool",
+		"type": "name"
+	},
+	{
+		"chinese": "改锥",
+		"pinyin": "gǎi zhuī",
+		"translation": "screwdriver",
+		"category": "tool",
+		"type": "name"
+	},
+	{
+		"chinese": "启",
+		"pinyin": "qǐ",
+		"translation": "to start",
+		"type": "verb"
+	},
+	{
+		"chinese": "启",
+		"pinyin": "qǐ",
+		"translation": "to enlighten or awaken",
+		"type": "verb"
+	},
+	{
+		"chinese": "重启",
+		"pinyin": "chóng qǐ",
+		"translation": "to reopen",
+		"type": "verb"
+	},
+	{
+		"chinese": "动",
+		"pinyin": "dòng",
+		"translation": "to set in movement",
+		"type": "verb"
+	},
+	{
+		"chinese": "动",
+		"pinyin": "dòng",
+		"translation": "to alter",
+		"type": "verb"
+	},
+	{
+		"chinese": "动",
+		"pinyin": "dòng",
+		"translation": "to touch",
+		"type": "verb"
+	},
+	{
+		"chinese": "行动",
+		"pinyin": "xíng dòng",
+		"translation": "action",
+		"type": "name"
+	},
+	{
+		"chinese": "行动",
+		"pinyin": "xíng dòng",
+		"translation": "operation",
+		"type": "name"
+	},
+	{
+		"chinese": "行动",
+		"pinyin": "xíng dòng",
+		"translation": "mobile",
+		"type": "adjetive"
 	}
 ]
