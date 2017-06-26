@@ -1337,5 +1337,11 @@
 		"pinyin": "xíng dòng",
 		"translation": "mobile",
 		"type": "adjetive"
+	},
+	{
+		"chinese": "启动",
+		"pinyin": "qǐ dòng",
+		"translation": "to start (a machine)",
+		"type": "verb"
 	}
 ]
