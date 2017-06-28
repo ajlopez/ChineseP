@@ -1,5 +1,59 @@
 [
 	{
+		"chinese": "要",
+		"pinyin": "yào",
+		"translation": "to want",
+		"type": "verb"
+	},
+	{
+		"chinese": "爱",
+		"pinyin": "ài",
+		"translation": "to love",
+		"type": "verb"
+	},
+	{
+		"chinese": "喜",
+		"pinyin": "xǐ",
+		"translation": "to like",
+		"type": "verb"
+	},
+	{
+		"chinese": "可喜",
+		"pinyin": "kě xǐ",
+		"translation": "making one happy",
+		"type": "verb"
+	},
+	{
+		"chinese": "可以",
+		"pinyin": "kě yǐ",
+		"translation": "can",
+		"type": "verb"
+	},
+	{
+		"chinese": "可",
+		"pinyin": "kě",
+		"translation": "can/able",
+		"type": "verb"
+	},
+	{
+		"chinese": "喜欢",
+		"pinyin": "xǐ huan",
+		"translation": "to like",
+		"type": "verb"
+	},
+	{
+		"chinese": "想",
+		"pinyin": "xiǎng",
+		"translation": "to wish",
+		"type": "verb"
+	},
+	{
+		"chinese": "想",
+		"pinyin": "xiǎng",
+		"translation": "to believe",
+		"type": "verb"
+	},
+	{
 		"chinese": "我",
 		"pinyin": "wǒ",
 		"translation": "I",
@@ -628,6 +682,75 @@
 		"pinyin": "rì",
 		"translation": "sun",
 		"category": "nature",
+		"type": "noun"
+	},
+	{
+		"chinese": "星",
+		"pinyin": "xīng",
+		"translation": "star",
+		"category": "nature",
+		"type": "noun"
+	},
+	{
+		"chinese": "星座",
+		"pinyin": "xīng zuò",
+		"translation": "constellation",
+		"category": "nature",
+		"type": "noun"
+	},
+	{
+		"chinese": "惑星",
+		"pinyin": "huò xīng",
+		"translation": "planet",
+		"category": "nature",
+		"type": "noun"
+	},
+	{
+		"chinese": "惑",
+		"pinyin": "huò",
+		"translation": "to confuse",
+		"type": "verb"
+	},
+	{
+		"chinese": "星期",
+		"pinyin": "xīng qī",
+		"translation": "week",
+		"category": "time",
+		"type": "noun"
+	},
+	{
+		"chinese": "星期",
+		"pinyin": "xīng qī",
+		"translation": "day of the week",
+		"category": "time",
+		"type": "noun"
+	},
+	{
+		"chinese": "星期四",
+		"pinyin": "xīng qī sì",
+		"translation": "thursday",
+		"category": "time",
+		"type": "noun"
+	},
+	{
+		"chinese": "星期日",
+		"pinyin": "xīng qī rì",
+		"translation": "sunday",
+		"category": "time",
+		"type": "noun"
+	},
+	{
+		"chinese": "落",
+		"pinyin": "luò",
+		"translation": "(of the sun) to set",
+		"category": "nature",
+		"type": "noun"
+	},
+	{
+		"chinese": "日",
+		"pinyin": "rì",
+		"translation": "day",
+		"category": "time",
 		"type": "noun"
 	},
 	{
