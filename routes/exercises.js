@@ -32,6 +32,13 @@ router.get('/verb', function(req, res, next) {
 	res.render('exercise', { title: 'Verbs', items: items, selected: selected });
 });
 
+/* Simple Verbs */
+router.get('/sverb', function(req, res, next) {
+	var items = chinese.select({ type: 'verb', character: true }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercise', { title: 'Verbs', items: items, selected: selected });
+});
+
 /* Nouns */
 router.get('/noun', function(req, res, next) {
 	var items = chinese.select({ type: 'noun' }, 5);
