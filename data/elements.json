@@ -1343,5 +1343,395 @@
 		"pinyin": "qǐ dòng",
 		"translation": "to start (a machine)",
 		"type": "verb"
+	},
+	{
+		"chinese": "吃",
+		"pinyin": "chī",
+		"translation": "to eat",
+		"type": "verb"
+	},
+	{
+		"chinese": "吃饭",
+		"pinyin": "chī fàn",
+		"translation": "to have a meal",
+		"type": "verb"
+	},
+	{
+		"chinese": "饭碗",
+		"pinyin": "fàn wǎn",
+		"translation": "rice bowl",
+		"type": "food"
+	},
+	{
+		"chinese": "车",
+		"pinyin": "chē",
+		"translation": "car",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "公车",
+		"pinyin": "gōng chē",
+		"translation": "bus",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "出租车",
+		"pinyin": "chū zū chē",
+		"translation": "taxi",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "开车",
+		"pinyin": "kāi chē",
+		"translation": "to drive a car",
+		"category": "transport",
+		"type": "verb"
+	},
+	{
+		"chinese": "轿车",
+		"pinyin": "jiào chē",
+		"translation": "motor carriage/closed carriage for carrying passengers",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "跑车",
+		"pinyin": "pǎo chē",
+		"translation": "racing bicycle",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "火车站",
+		"pinyin": "huǒ chē zhàn",
+		"translation": "train station",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "火车票",
+		"pinyin": "huǒ chē piào",
+		"translation": "train ticket",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "火车",
+		"pinyin": "huǒ chē",
+		"translation": "train",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "快车",
+		"pinyin": "kuài chē",
+		"translation": "express (train, bus etc)",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "发车",
+		"pinyin": "fā chē",
+		"translation": "to dispatch a vehicle",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "客车",
+		"pinyin": "kè chē",
+		"translation": "passenger train",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "机车",
+		"pinyin": "jī chē",
+		"translation": "locomotive",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "地铁",
+		"pinyin": "dì tiě",
+		"translation": "subway",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "飞机",
+		"pinyin": "fēi jī",
+		"translation": "airplane",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "坐",
+		"pinyin": "zuò",
+		"translation": "to take a seat",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "坐",
+		"pinyin": "zuò",
+		"translation": "to sit",
+		"type": "noun"
+	},
+	{
+		"chinese": "驾驶",
+		"pinyin": "jià shǐ",
+		"translation": "to drive",
+		"type": "verb"
+	},
+	{
+		"chinese": "船",
+		"pinyin": "chuán",
+		"translation": "ship/boat",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "航",
+		"pinyin": "háng",
+		"translation": "ship",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "船只",
+		"pinyin": "chuán zhī",
+		"translation": "ship",
+		"category": "transport",
+		"type": "noun"
+	},
+	{
+		"chinese": "下水",
+		"pinyin": "chuán zhī",
+		"translation": "to put into water",
+		"type": "noun"
+	},
+	{
+		"chinese": "脖",
+		"pinyin": "bó",
+		"translation": "neck",
+		"category": "body",
+		"type": "noun"
+	},
+	{
+		"chinese": "脖子",
+		"pinyin": "bó zi",
+		"translation": "neck",
+		"category": "body",
+		"type": "noun"
+	},
+	{
+		"chinese": "腹",
+		"pinyin": "fù",
+		"translation": "stomach",
+		"category": "body",
+		"type": "noun"
+	},
+	{
+		"chinese": "胃",
+		"pinyin": "wèi",
+		"translation": "stomach",
+		"category": "body",
+		"type": "noun"
+	},
+	{
+		"chinese": "肺",
+		"pinyin": "fèi",
+		"translation": "lung",
+		"category": "body",
+		"type": "noun"
+	},
+	{
+		"chinese": "肾",
+		"pinyin": "shèn",
+		"translation": "kidney",
+		"category": "body",
+		"type": "noun"
+	},
+	{
+		"chinese": "腰子",
+		"pinyin": "yāo zi",
+		"translation": "kidney",
+		"category": "body",
+		"type": "noun"
+	},
+	{
+		"chinese": "肾脏",
+		"pinyin": "shèn zàng",
+		"translation": "kidney",
+		"category": "body",
+		"type": "noun"
+	},
+	{
+		"chinese": "心",
+		"pinyin": "xīn",
+		"translation": "heart",
+		"category": "body",
+		"type": "noun"
+	},
+	{
+		"chinese": "心中",
+		"pinyin": "xīn zhōng",
+		"translation": "in one's heart",
+		"type": "noun"
+	},
+	{
+		"chinese": "血",
+		"pinyin": "xuè",
+		"translation": "blood",
+		"category": "body",
+		"type": "noun"
+	},
+	{
+		"chinese": "失血",
+		"pinyin": "shī xuè",
+		"translation": "blood loss",
+		"category": "body",
+		"type": "noun"
+	},
+	{
+		"chinese": "手",
+		"pinyin": "shǒu",
+		"translation": "hand",
+		"category": "body",
+		"type": "noun"
+	},
+	{
+		"chinese": "提",
+		"pinyin": "tí",
+		"translation": "to carry (hanging down from the hand)",
+		"type": "verb"
+	},
+	{
+		"chinese": "右",
+		"pinyin": "yòu",
+		"translation": "right (-hand)",
+		"category": "place",
+		"type": "adverb"
+	},
+	{
+		"chinese": "左",
+		"pinyin": "zuǒ",
+		"translation": "left (-hand)",
+		"category": "place",
+		"type": "adverb"
+	},
+	{
+		"chinese": "傍",
+		"pinyin": "zuǒ",
+		"translation": "near",
+		"category": "place",
+		"type": "adverb"
+	},
+	{
+		"chinese": "近",
+		"pinyin": "jìn",
+		"translation": "near",
+		"category": "place",
+		"type": "adverb"
+	},
+	{
+		"chinese": "近期",
+		"pinyin": "jìn qī",
+		"translation": "near in time",
+		"category": "time",
+		"type": "adverb"
+	},
+	{
+		"chinese": "迩",
+		"pinyin": "ěr",
+		"translation": "recently",
+		"category": "time",
+		"type": "adverb"
+	},
+	{
+		"chinese": "迩来",
+		"pinyin": "ěr lái",
+		"translation": "until now",
+		"category": "time",
+		"type": "adverb"
+	},
+	{
+		"chinese": "来",
+		"pinyin": "lái",
+		"translation": "to come",
+		"type": "verb"
+	},
+	{
+		"chinese": "出来",
+		"pinyin": "chū lái",
+		"translation": "to come out",
+		"type": "verb"
+	},
+	{
+		"chinese": "未来",
+		"pinyin": "wèi lái",
+		"translation": "future",
+		"category": "time",
+		"type": "noun"
+	},
+	{
+		"chinese": "未",
+		"pinyin": "wèi",
+		"translation": "not yet",
+		"category": "time",
+		"type": "adverb"
+	},
+	{
+		"chinese": "从未",
+		"pinyin": "cóng wèi",
+		"translation": "never",
+		"category": "time",
+		"type": "adverb"
+	},
+	{
+		"chinese": "未必",
+		"pinyin": "wèi bì",
+		"translation": "maybe not",
+		"type": "adverb"
+	},
+	{
+		"chinese": "必",
+		"pinyin": "bì",
+		"translation": "certainly",
+		"type": "adverb"
+	},
+	{
+		"chinese": "必须",
+		"pinyin": "bì xū",
+		"translation": "to have to",
+		"type": "verb"
+	},
+	{
+		"chinese": "必备",
+		"pinyin": "bì bèi",
+		"translation": "essential",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "不必",
+		"pinyin": "bù bì",
+		"translation": "does not have to",
+		"type": "verb"
+	},
+	{
+		"chinese": "必需",
+		"pinyin": "bì xū",
+		"translation": "to need",
+		"type": "verb"
+	},
+	{
+		"chinese": "何",
+		"pinyin": "hé",
+		"translation": "what/why/how",
+		"category": "grammar",
+		"type": "pronoun"
 	}
 ]
