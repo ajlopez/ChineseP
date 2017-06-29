@@ -1733,5 +1733,127 @@
 		"translation": "what/why/how",
 		"category": "grammar",
 		"type": "pronoun"
-	}
+	},
+	{
+		"chinese": "无",
+		"pinyin": "wú",
+		"translation": "not to have",
+		"type": "verb"
+	},
+	{
+		"chinese": "忧",
+		"pinyin": "yōu",
+		"translation": "to observe mourning",
+		"type": "verb"
+	},
+	{
+		"chinese": "由",
+		"pinyin": "yóu",
+		"translation": "because to",
+		"category": "grammar",
+		"type": "conjunction"
+	},
+	{
+		"chinese": "又",
+		"pinyin": "yòu",
+		"translation": "also",
+		"category": "grammar",
+		"type": "conjunction"
+	},
+	{
+		"chinese": "呢",
+		"pinyin": "ne",
+		"translation": "particle indicating that a previously asked question is to be applied to the preceding word",
+		"category": "grammar",
+		"type": "particle"
+	},
+	{
+		"chinese": "啊",
+		"pinyin": "à",
+		"translation": "ah, ok",
+		"category": "grammar",
+		"type": "particle"
+	},
+	{
+		"chinese": "谢谢",
+		"pinyin": "xiè xie",
+		"translation": "to thank",
+		"type": "verb"
+	},
+	{
+		"chinese": "谢",
+		"pinyin": "xiè",
+		"translation": "to apologize",
+		"type": "verb"
+	},
+	{
+		"chinese": "意",
+		"pinyin": "xiè yì",
+		"translation": "gratitude",
+		"type": "noun"
+	},
+	{
+		"chinese": "代",
+		"pinyin": "dài",
+		"translation": "to substitute",
+		"type": "verb"
+	},
+	{
+		"chinese": "代码",
+		"pinyin": "dài mǎ",
+		"translation": "code",
+		"type": "noun"
+	},
+	{
+		"chinese": "密码",
+		"pinyin": "mì mǎ",
+		"translation": "secret code/password",
+		"type": "noun"
+	},
+	{
+		"chinese": "码",
+		"pinyin": "mǎ",
+		"translation": "weight",
+		"type": "noun"
+	},
+	{
+		"chinese": "码",
+		"pinyin": "mǎ",
+		"translation": "number",
+		"type": "noun"
+	},
+	{
+		"chinese": "码",
+		"pinyin": "mǎ",
+		"translation": "classifier for length or distance",
+		"type": "classifier"
+	},
+	{
+		"chinese": "数码",
+		"pinyin": "shù mǎ",
+		"translation": "numerical code",
+		"category": "number",
+		"type": "noun"
+	},
+	{
+		"chinese": "数",
+		"pinyin": "shù",
+		"translation": "number",
+		"category": "number",
+		"type": "noun"
+	},
+	{
+		"chinese": "数",
+		"pinyin": "shù",
+		"translation": "to count",
+		"category": "number",
+		"type": "verb"
+	},
+	{
+		"chinese": "数字",
+		"pinyin": "shù zì",
+		"translation": "digit",
+		"category": "number",
+		"type": "noun"
+	}	
 ]
