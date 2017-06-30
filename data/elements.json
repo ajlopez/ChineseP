@@ -134,6 +134,36 @@
 		"type": "adjetive"
 	},
 	{
+		"chinese": "不好",
+		"pinyin": "bù hǎo",
+		"translation": "no good",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "好吃",
+		"pinyin": "hǎo chī",
+		"translation": "delicious",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "良好",
+		"pinyin": "liáng hǎo",
+		"translation": "favorable",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "好友",
+		"pinyin": "hǎo yǒu",
+		"translation": "close friend",
+		"type": "noun"
+	},
+	{
+		"chinese": "好",
+		"pinyin": "hào",
+		"translation": "to be fond of",
+		"type": "verb"
+	},
+	{
 		"chinese": "友",
 		"pinyin": "yǒu",
 		"translation": "friend",
@@ -1978,5 +2008,46 @@
 		"translation": "digit",
 		"category": "number",
 		"type": "noun"
+	},
+	{
+		"chinese": "还",
+		"pinyin": "hái",
+		"translation": "yet",
+		"category": "grammar",
+		"type": "adverb"
+	},
+	{
+		"chinese": "还",
+		"pinyin": "hái",
+		"translation": "also",
+		"category": "grammar",
+		"type": "adverb"
+	},
+	{
+		"chinese": "还是",
+		"pinyin": "hái shì",
+		"translation": "or",
+		"category": "grammar",
+		"type": "conjunction"
+	},
+	{
+		"chinese": "还有",
+		"pinyin": "hái yǒu",
+		"translation": "furthermore",
+		"category": "grammar",
+		"type": "conjunction"
+	},
+	{
+		"chinese": "还好",
+		"pinyin": "hái hǎo",
+		"translation": "not bad",
+		"category": "grammar",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "生还",
+		"pinyin": "shēng huán",
+		"translation": "to survive",
+		"type": "verb"
 	}	
 ]
