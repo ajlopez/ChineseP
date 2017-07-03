@@ -2583,8 +2583,26 @@
 	},
 	{
 		"chinese": "意",
+		"pinyin": "yì",
+		"translation": "idea",
+		"type": "noun"
+	},
+	{
+		"chinese": "谢意",
 		"pinyin": "xiè yì",
 		"translation": "gratitude",
+		"type": "noun"
+	},
+	{
+		"chinese": "真意",
+		"pinyin": "zhēn yì",
+		"translation": "real intention",
+		"type": "noun"
+	},
+	{
+		"chinese": "真意",
+		"pinyin": "zhēn yì",
+		"translation": "true meaning",
 		"type": "noun"
 	},
 	{
