@@ -164,6 +164,288 @@
 		"type": "name"
 	},
 	{
+		"chinese": "者",
+		"pinyin": "zhě",
+		"translation": "(after a name) person involved in ...",
+		"type": "name"
+	},
+	{
+		"chinese": "作者",
+		"pinyin": "zuò zhě",
+		"translation": "author",
+		"type": "name"
+	},
+	{
+		"chinese": "作者",
+		"pinyin": "zuò zhě",
+		"translation": "writer",
+		"type": "name"
+	},
+	{
+		"chinese": "消费者",
+		"pinyin": "xiāo fèi zhě",
+		"translation": "consumer",
+		"type": "name"
+	},
+	{
+		"chinese": "使用者",
+		"pinyin": "shǐ yòng zhě",
+		"translation": "user",
+		"type": "name"
+	},
+	{
+		"chinese": "投资者",
+		"pinyin": "tóu zī zhě",
+		"translation": "investor",
+		"type": "name"
+	},
+	{
+		"chinese": "访问者",
+		"pinyin": "fǎng wèn zhě",
+		"translation": "interviewer",
+		"type": "name"
+	},
+	{
+		"chinese": "记者",
+		"pinyin": "jì zhě",
+		"translation": "reporter",
+		"type": "name"
+	},
+	{
+		"chinese": "贡献者",
+		"pinyin": "gòng xiàn zhě",
+		"translation": "contributor",
+		"type": "name"
+	},
+	{
+		"chinese": "志愿者",
+		"pinyin": "zhì yuàn zhě",
+		"translation": "volunteer",
+		"type": "name"
+	},
+	{
+		"chinese": "学者",
+		"pinyin": "xué zhě",
+		"translation": "scholar",
+		"type": "name"
+	},
+	{
+		"chinese": "读者",
+		"pinyin": "dú zhě",
+		"translation": "reader",
+		"type": "name"
+	},
+	{
+		"chinese": "患者",
+		"pinyin": "huàn zhě",
+		"translation": "patient",
+		"type": "name"
+	},
+	{
+		"chinese": "前者",
+		"pinyin": "qián zhě",
+		"translation": "the former",
+		"type": "name"
+	},
+	{
+		"chinese": "编者",
+		"pinyin": "biān zhě",
+		"translation": "editor",
+		"type": "name"
+	},
+	{
+		"chinese": "先行者",
+		"pinyin": "xiān xíng zhě",
+		"translation": "forerunner",
+		"type": "name"
+	},
+	{
+		"chinese": "亡者",
+		"pinyin": "wáng zhě",
+		"translation": "the deceased",
+		"type": "name"
+	},
+	{
+		"chinese": "笔者",
+		"pinyin": "bǐ zhě",
+		"translation": "the author",
+		"type": "name"
+	},
+	{
+		"chinese": "笔者",
+		"pinyin": "bǐ zhě",
+		"translation": "the writer",
+		"type": "name"
+	},
+	{
+		"chinese": "业者",
+		"pinyin": "yè zhě",
+		"translation": "trader",
+		"type": "name"
+	},
+	{
+		"chinese": "智者",
+		"pinyin": "zhì zhě",
+		"translation": "sage",
+		"type": "name"
+	},
+	{
+		"chinese": "死者",
+		"pinyin": "sǐ zhě",
+		"translation": "the dead",
+		"type": "name"
+	},
+	{
+		"chinese": "忍者",
+		"pinyin": "rěn zhě",
+		"translation": "ninja",
+		"type": "name"
+	},
+	{
+		"chinese": "当事者",
+		"pinyin": "dāng shì zhě",
+		"translation": "the people holding power",
+		"type": "name"
+	},
+	{
+		"chinese": "行者",
+		"pinyin": "xíng zhě",
+		"translation": "walker",
+		"type": "name"
+	},
+	{
+		"chinese": "使者",
+		"pinyin": "shǐ zhě",
+		"translation": "emissary",
+		"type": "name"
+	},
+	{
+		"chinese": "两者",
+		"pinyin": "liǎng zhě",
+		"translation": "both sides",
+		"type": "name"
+	},
+	{
+		"chinese": "旁观者",
+		"pinyin": "páng guān zhě",
+		"translation": "observer",
+		"type": "name"
+	},
+	{
+		"chinese": "老者",
+		"pinyin": "lǎo zhě",
+		"translation": "old man",
+		"type": "name"
+	},
+	{
+		"chinese": "遇难者",
+		"pinyin": "yù nàn zhě",
+		"translation": "victim",
+		"type": "name"
+	},
+	{
+		"chinese": "编者按",
+		"pinyin": "biān zhě àn",
+		"translation": "editor's commentary",
+		"type": "name"
+	},
+	{
+		"chinese": "创建者",
+		"pinyin": "chuàng jiàn zhě",
+		"translation": "founder",
+		"type": "name"
+	},
+	{
+		"chinese": "创始者",
+		"pinyin": "chuàng shǐ zhě",
+		"translation": "creator",
+		"type": "name"
+	},
+	{
+		"chinese": "求职者",
+		"pinyin": "qiú zhí zhě",
+		"translation": "job applicant",
+		"type": "name"
+	},
+	{
+		"chinese": "指导者",
+		"pinyin": "zhǐ dǎo zhě",
+		"translation": "mentor",
+		"type": "name"
+	},
+	{
+		"chinese": "保护者",
+		"pinyin": "bǎo hù zhě",
+		"translation": "protector",
+		"type": "name"
+	},
+	{
+		"chinese": "携带者",
+		"pinyin": "xié dài zhě",
+		"translation": "carrier",
+		"type": "name"
+	},
+	{
+		"chinese": "成年者",
+		"pinyin": "chéng nián zhě",
+		"translation": "adult",
+		"type": "name"
+	},
+	{
+		"chinese": "获奖者",
+		"pinyin": "huò jiǎng zhě",
+		"translation": "prize-winner",
+		"type": "name"
+	},
+	{
+		"chinese": "劳动者",
+		"pinyin": "láo dòng zhě",
+		"translation": "worker",
+		"type": "name"
+	},
+	{
+		"chinese": "初学者",
+		"pinyin": "chū xué zhě",
+		"translation": "beginning student",
+		"type": "name"
+	},
+	{
+		"chinese": "应聘者",
+		"pinyin": "yìng pìn zhě",
+		"translation": "person taking a job",
+		"type": "name"
+	},
+	{
+		"chinese": "参赛者",
+		"pinyin": "cān sài zhě",
+		"translation": "competitor",
+		"type": "name"
+	},
+	{
+		"chinese": "译者",
+		"pinyin": "yì zhě",
+		"translation": "translator (of writing)",
+		"type": "name"
+	},
+	{
+		"chinese": "参加者",
+		"pinyin": "cān jiā zhě",
+		"translation": "participant",
+		"type": "name"
+	},
+	{
+		"chinese": "统治者",
+		"pinyin": "tǒng zhì zhě",
+		"translation": "ruler",
+		"type": "name"
+	},
+	{
+		"chinese": "作者不详",
+		"pinyin": "zuò zhě bù xiáng",
+		"translation": "anonymous author",
+		"type": "name"
+	},
+	{
 		"chinese": "良好",
 		"pinyin": "liáng hǎo",
 		"translation": "favorable",
@@ -2389,6 +2671,20 @@
 		"translation": "or",
 		"category": "grammar",
 		"type": "conjunction"
+	},
+	{
+		"chinese": "或者",
+		"pinyin": "huò zhě",
+		"translation": "or",
+		"category": "grammar",
+		"type": "conjunction"
+	},
+	{
+		"chinese": "或者",
+		"pinyin": "huò zhě",
+		"translation": "maybe",
+		"category": "grammar",
+		"type": "adverb"
 	},
 	{
 		"chinese": "还有",
