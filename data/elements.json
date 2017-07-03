@@ -2049,5 +2049,302 @@
 		"pinyin": "shēng huán",
 		"translation": "to survive",
 		"type": "verb"
-	}	
+	},
+	{
+		"chinese": "件",
+		"pinyin": "jiàn",
+		"translation": "item/component",
+		"type": "noun"
+	},
+	{
+		"chinese": "件",
+		"pinyin": "jiàn",
+		"translation": "classifier for events, things, clothes etc",
+		"category": "grammar",
+		"type": "classifier"
+	},
+	{
+		"chinese": "事件",
+		"pinyin": "shì jiàn",
+		"translation": "event",
+		"type": "noun"
+	},
+	{
+		"chinese": "事件",
+		"pinyin": "shì jiàn",
+		"translation": "event",
+		"type": "noun"
+	},
+	{
+		"chinese": "条件",
+		"pinyin": "tiáo jiàn",
+		"translation": "condition",
+		"type": "noun"
+	},
+	{
+		"chinese": "事",
+		"pinyin": "shì",
+		"translation": "matter",
+		"type": "noun"
+	},
+	{
+		"chinese": "事",
+		"pinyin": "shì",
+		"translation": "thing",
+		"type": "noun"
+	},
+	{
+		"chinese": "事情",
+		"pinyin": "shì qíng",
+		"translation": "affair",
+		"type": "noun"
+	},
+	{
+		"chinese": "故事",
+		"pinyin": "gù shi",
+		"translation": "tale",
+		"type": "noun"
+	},
+	{
+		"chinese": "故事",
+		"pinyin": "gù shi",
+		"translation": "old practice",
+		"type": "noun"
+	},
+	{
+		"chinese": "事务所",
+		"pinyin": "shì wù suǒ",
+		"translation": "business office",
+		"type": "noun"
+	},
+	{
+		"chinese": "大事",
+		"pinyin": "dà shì",
+		"translation": "major event",
+		"type": "noun"
+	},
+	{
+		"chinese": "怎么回事",
+		"pinyin": "zěn me huí shì",
+		"translation": "what's the matter?/what's going on?",
+		"category": "question",
+		"type": "phrase"
+	},
+	{
+		"chinese": "事业",
+		"pinyin": "shì yè",
+		"translation": "project",
+		"type": "noun"
+	},
+	{
+		"chinese": "从事",
+		"pinyin": "cóng shì",
+		"translation": "to go for",
+		"type": "verb"
+	},
+	{
+		"chinese": "事实",
+		"pinyin": "shì shí",
+		"translation": "fact",
+		"type": "noun"
+	},
+	{
+		"chinese": "事项",
+		"pinyin": "shì xiàng",
+		"translation": "matter",
+		"type": "noun"
+	},
+	{
+		"chinese": "事项",
+		"pinyin": "shì xiàng",
+		"translation": "item",
+		"type": "noun"
+	},
+	{
+		"chinese": "事务",
+		"pinyin": "shì wù",
+		"translation": "(political, economic etc) affairs",
+		"type": "noun"
+	},
+	{
+		"chinese": "军事",
+		"pinyin": "jūn shì",
+		"translation": "military affairs",
+		"type": "noun"
+	},
+	{
+		"chinese": "事务",
+		"pinyin": "shì wù",
+		"translation": "transaction (as in a computer database)",
+		"type": "noun"
+	},
+	{
+		"chinese": "事例",
+		"pinyin": "shì lì",
+		"translation": "example",
+		"type": "noun"
+	},
+	{
+		"chinese": "事前",
+		"pinyin": "shì qián",
+		"translation": "in advance/before the event",
+		"type": "adverb"
+	},
+	{
+		"chinese": "事由",
+		"pinyin": "shì yóu",
+		"translation": "main content",
+		"type": "noun"
+	},
+	{
+		"chinese": "事由",
+		"pinyin": "shì yóu",
+		"translation": "cause",
+		"type": "noun"
+	},
+	{
+		"chinese": "物事",
+		"pinyin": "wù shì",
+		"translation": "thing",
+		"type": "noun"
+	},
+	{
+		"chinese": "物事",
+		"pinyin": "wù shì",
+		"translation": "matter",
+		"type": "noun"
+	},
+	{
+		"chinese": "物事",
+		"pinyin": "wù shì",
+		"translation": "affair",
+		"type": "noun"
+	},
+	{
+		"chinese": "行事",
+		"pinyin": "xíng shì",
+		"translation": "to execute",
+		"type": "verb"
+	},
+	{
+		"chinese": "行事",
+		"pinyin": "xíng shì",
+		"translation": "to handle",
+		"type": "verb"
+	},
+	{
+		"chinese": "行事",
+		"pinyin": "xíng shì",
+		"translation": "behavior",
+		"type": "noun"
+	},
+	{
+		"chinese": "办事",
+		"pinyin": "bàn shì",
+		"translation": "to handle (affairs)",
+		"type": "verb"
+	},
+	{
+		"chinese": "办事",
+		"pinyin": "bàn shì",
+		"translation": "to work",
+		"type": "verb"
+	},
+	{
+		"chinese": "工事",
+		"pinyin": "gōng shì",
+		"translation": "defensive structure",
+		"type": "noun"
+	},
+	{
+		"chinese": "实事求是",
+		"pinyin": "shí shì qiú shì",
+		"translation": "to seek truth from facts (idiom)",
+		"type": "phrase"
+	},
+	{
+		"chinese": "事半功倍",
+		"pinyin": "shì bàn gōng bèi",
+		"translation": "half the work, twice the effect (idiom); the right approach",
+		"type": "phrase"
+	},
+	{
+		"chinese": "事典",
+		"pinyin": "shì diǎn",
+		"translation": "encyclopedia",
+		"type": "noun"
+	},
+	{
+		"chinese": "人事",
+		"pinyin": "rén shì",
+		"translation": "personnel",
+		"type": "noun"
+	},
+	{
+		"chinese": "外事",
+		"pinyin": "wài shì",
+		"translation": "foreign affairs",
+		"type": "noun"
+	},
+	{
+		"chinese": "干事",
+		"pinyin": "gàn shi",
+		"translation": "administrator",
+		"type": "noun"
+	},
+	{
+		"chinese": "干事",
+		"pinyin": "gàn shi",
+		"translation": "executive secretary",
+		"type": "noun"
+	},
+	{
+		"chinese": "领事",
+		"pinyin": "lǐng shì",
+		"translation": "consul",
+		"type": "noun"
+	},
+	{
+		"chinese": "事态",
+		"pinyin": "shì tài",
+		"translation": "situation",
+		"type": "noun"
+	},
+	{
+		"chinese": "同事",
+		"pinyin": "tóng shì",
+		"translation": "colleague",
+		"type": "noun"
+	},
+	{
+		"chinese": "理事",
+		"pinyin": "lǐ shì",
+		"translation": "member of council",
+		"type": "noun"
+	},
+	{
+		"chinese": "事迹",
+		"pinyin": "shì jì",
+		"translation": "deed",
+		"type": "noun"
+	},
+	{
+		"chinese": "事先",
+		"pinyin": "shì xiān",
+		"translation": "prior",
+		"type": "adverb"
+	},
+	{
+		"chinese": "刑事",
+		"pinyin": "xíng shì",
+		"translation": "criminal",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "炊事",
+		"pinyin": "chuī shì",
+		"translation": "cooking",
+		"category": "food",
+		"type": "verb"
+	}
 ]
