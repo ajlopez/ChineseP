@@ -131,25 +131,43 @@
 		"chinese": "好",
 		"pinyin": "hào",
 		"translation": "good",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "不好",
 		"pinyin": "bù hǎo",
 		"translation": "no good",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "好吃",
 		"pinyin": "hǎo chī",
 		"translation": "delicious",
-		"type": "adjetive"
+		"type": "adjective"
+	},
+	{
+		"chinese": "好像",
+		"pinyin": "hǎo xiàng",
+		"translation": "to seem like",
+		"type": "verb"
+	},
+	{
+		"chinese": "爱好者",
+		"pinyin": "ài hào zhě",
+		"translation": "amateur",
+		"type": "name"
+	},
+	{
+		"chinese": "爱好者",
+		"pinyin": "ài hào zhě",
+		"translation": "fan",
+		"type": "name"
 	},
 	{
 		"chinese": "良好",
 		"pinyin": "liáng hǎo",
 		"translation": "favorable",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "好友",
@@ -167,6 +185,348 @@
 		"chinese": "友",
 		"pinyin": "yǒu",
 		"translation": "friend",
+		"type": "noun"
+	},
+	{
+		"chinese": "爱好",
+		"pinyin": "ài hào",
+		"translation": "to like",
+		"type": "verb"
+	},
+	{
+		"chinese": "爱好",
+		"pinyin": "ài hào",
+		"translation": "hobby",
+		"type": "noun"
+	},
+	{
+		"chinese": "好评",
+		"pinyin": "hǎo píng",
+		"translation": "positive evaluation",
+		"type": "noun"
+	},
+	{
+		"chinese": "不好意思",
+		"pinyin": "bù hǎo yì si",
+		"translation": "to feel embarrassed",
+		"type": "verb"
+	},
+	{
+		"chinese": "好意",
+		"pinyin": "hǎo yì",
+		"translation": "good intention",
+		"type": "noun"
+	},
+	{
+		"chinese": "好处",
+		"pinyin": "hǎo chu",
+		"translation": "benefit",
+		"type": "noun"
+	},
+	{
+		"chinese": "好处",
+		"pinyin": "hǎo chu",
+		"translation": "advantage",
+		"type": "noun"
+	},
+	{
+		"chinese": "好处",
+		"pinyin": "hǎo chu",
+		"translation": "profit",
+		"type": "noun"
+	},
+	{
+		"chinese": "好玩",
+		"pinyin": "hǎo wán",
+		"translation": "amusing",
+		"type": "adjective"
+	},
+	{
+		"chinese": "好玩",
+		"pinyin": "hǎo wán",
+		"translation": "interesting",
+		"type": "adjective"
+	},
+	{
+		"chinese": "只好",
+		"pinyin": "zhǐ hǎo",
+		"translation": "to have to",
+		"type": "verb"
+	},
+	{
+		"chinese": "只好",
+		"pinyin": "zhǐ hǎo",
+		"translation": "to be forced to",
+		"type": "verb"
+	},
+	{
+		"chinese": "好几",
+		"pinyin": "hǎo jǐ",
+		"translation": "several",
+		"type": "adjective"
+	},
+	{
+		"chinese": "好几",
+		"pinyin": "hǎo jǐ",
+		"translation": "quite a few",
+		"type": "adjective"
+	},
+	{
+		"chinese": "恰到好处",
+		"pinyin": "qià dào hǎo chù",
+		"translation": "it's just perfect",
+		"type": "phrase"
+	},
+	{
+		"chinese": "好看",
+		"pinyin": "hǎo kàn",
+		"translation": "good-looking",
+		"type": "adjective"
+	},
+	{
+		"chinese": "好看",
+		"pinyin": "hǎo kàn",
+		"translation": "nice-looking",
+		"type": "adjective"
+	},
+	{
+		"chinese": "好看",
+		"pinyin": "hǎo kàn",
+		"translation": "embarrassed",
+		"type": "adjective"
+	},
+	{
+		"chinese": "好看",
+		"pinyin": "hǎo kàn",
+		"translation": "humiliated",
+		"type": "adjective"
+	},
+	{
+		"chinese": "看好",
+		"pinyin": "kàn hǎo",
+		"translation": "optimistic (about the outcome)",
+		"type": "adjective"
+	},
+	{
+		"chinese": "看好",
+		"pinyin": "kàn hǎo",
+		"translation": "bullish",
+		"type": "adjective"
+	},
+	{
+		"chinese": "看好",
+		"pinyin": "kàn hǎo",
+		"translation": "to think highly of",
+		"type": "verb"
+	},
+	{
+		"chinese": "看好",
+		"pinyin": "kàn hǎo",
+		"translation": "to support",
+		"type": "verb"
+	},
+	{
+		"chinese": "好奇",
+		"pinyin": "hào qí",
+		"translation": "inquisitive",
+		"type": "adjective"
+	},
+	{
+		"chinese": "好奇",
+		"pinyin": "hào qí",
+		"translation": "curious",
+		"type": "adjective"
+	},
+	{
+		"chinese": "好奇",
+		"pinyin": "hào qí",
+		"translation": "curiousity",
+		"type": "noun"
+	},
+	{
+		"chinese": "偏好",
+		"pinyin": "piān hào",
+		"translation": "to prefer",
+		"type": "verb"
+	},
+	{
+		"chinese": "偏好",
+		"pinyin": "piān hào",
+		"translation": "preference",
+		"type": "noun"
+	},
+	{
+		"chinese": "正好",
+		"pinyin": "zhèng hǎo",
+		"translation": "just (in time)",
+		"type": "adjective"
+	},
+	{
+		"chinese": "正好",
+		"pinyin": "zhèng hǎo",
+		"translation": "just right",
+		"type": "adjective"
+	},
+	{
+		"chinese": "正好",
+		"pinyin": "zhèng hǎo",
+		"translation": "just enought",
+		"type": "adjective"
+	},
+	{
+		"chinese": "正好",
+		"pinyin": "zhèng hǎo",
+		"translation": "to happen to",
+		"type": "verb"
+	},
+	{
+		"chinese": "学好",
+		"pinyin": "xué hǎo",
+		"translation": "to follow good examples",
+		"type": "verb"
+	},
+	{
+		"chinese": "好久",
+		"pinyin": "hǎo jiǔ",
+		"translation": "quite a while",
+		"type": "adverb"
+	},
+	{
+		"chinese": "友好",
+		"pinyin": "yǒu hǎo",
+		"translation": "friendly",
+		"type": "adjective"
+	},
+	{
+		"chinese": "恰好",
+		"pinyin": "qià hǎo",
+		"translation": "by luckly coincidence",
+		"type": "adverb"
+	},
+	{
+		"chinese": "好转",
+		"pinyin": "hǎo zhuǎn",
+		"translation": "to improve",
+		"type": "verb"
+	},
+	{
+		"chinese": "好话",
+		"pinyin": "hǎo huà",
+		"translation": "words of praise",
+		"type": "noun"
+	},
+	{
+		"chinese": "好学",
+		"pinyin": "hào xué",
+		"translation": "studious",
+		"type": "noun"
+	},
+	{
+		"chinese": "好学",
+		"pinyin": "hào xué",
+		"translation": "erudite",
+		"type": "noun"
+	},
+	{
+		"chinese": "嗜好",
+		"pinyin": "shì hào",
+		"translation": "hobby",
+		"type": "noun"
+	},
+	{
+		"chinese": "嗜好",
+		"pinyin": "shì hào",
+		"translation": "habit",
+		"type": "noun"
+	},
+	{
+		"chinese": "要好",
+		"pinyin": "yào hǎo",
+		"translation": "to be on good terms",
+		"type": "verb"
+	},
+	{
+		"chinese": "要好",
+		"pinyin": "yào hǎo",
+		"translation": "striving for self-improvement",
+		"type": "verb"
+	},
+	{
+		"chinese": "幸好",
+		"pinyin": "xìng hǎo",
+		"translation": "fortunately",
+		"type": "adverb"
+	},
+	{
+		"chinese": "晴好",
+		"pinyin": "qíng hǎo",
+		"translation": "bright and sunny weather",
+		"type": "noun"
+	},
+	{
+		"chinese": "喜好",
+		"pinyin": "xǐ hào",
+		"translation": "to like",
+		"type": "verb"
+	},
+	{
+		"chinese": "喜好",
+		"pinyin": "xǐ hào",
+		"translation": "to love",
+		"type": "verb"
+	},
+	{
+		"chinese": "好手",
+		"pinyin": "hǎo shǒu",
+		"translation": "expert",
+		"type": "noun"
+	},
+	{
+		"chinese": "好客",
+		"pinyin": "hào kè",
+		"translation": "hospitality",
+		"type": "noun"
+	},
+	{
+		"chinese": "好玩",
+		"pinyin": "hǎo wán",
+		"translation": "fun",
+		"type": "noun"
+	},
+	{
+		"chinese": "美好",
+		"pinyin": "měi hǎo",
+		"translation": "beautiful",
+		"type": "adjective"
+	},
+	{
+		"chinese": "好好",
+		"pinyin": "hǎo hǎo",
+		"translation": "nicely",
+		"type": "adverb"
+	},
+	{
+		"chinese": "好多",
+		"pinyin": "hǎo duō",
+		"translation": "many",
+		"type": "adjective"
+	},
+	{
+		"chinese": "好康",
+		"pinyin": "hǎo kāng",
+		"translation": "benefit",
+		"type": "noun"
+	},
+	{
+		"chinese": "好在",
+		"pinyin": "hǎo zài",
+		"translation": "luckly",
+		"type": "adverb"
+	},
+	{
+		"chinese": "好物",
+		"pinyin": "hǎo wù",
+		"translation": "fine goods",
 		"type": "noun"
 	},
 	{
@@ -528,25 +888,25 @@
 		"chinese": "我的",
 		"pinyin": "wǒ de",
 		"translation": "my, mine",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "他们的",
 		"pinyin": "tā men de",
 		"translation": "their, theirs",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "我们的",
 		"pinyin": "wǒ men de",
 		"translation": "our, ours",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "你的",
 		"pinyin": "nǐ de",
 		"translation": "your, yours",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "别的",
@@ -628,49 +988,49 @@
 		"pinyin": "hóng",
 		"translation": "red",
 		"category": "color",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "白",
 		"pinyin": "bái",
 		"translation": "white",
 		"category": "color",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "黑",
 		"pinyin": "hēi",
 		"translation": "black",
 		"category": "color",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "蓝",
 		"pinyin": "lán",
 		"translation": "blue",
 		"category": "color",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "绿",
 		"pinyin": "lǜ",
 		"translation": "green",
 		"category": "color",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "黄",
 		"pinyin": "huáng",
 		"translation": "yellow",
 		"category": "color",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "灰",
 		"pinyin": "huī",
 		"translation": "gray",
 		"category": "color",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "色",
@@ -884,139 +1244,139 @@
 		"pinyin": "yī",
 		"translation": "one",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "二",
 		"pinyin": "èr",
 		"translation": "two",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "三",
 		"pinyin": "sān",
 		"translation": "three",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "四",
 		"pinyin": "sì",
 		"translation": "four",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "四",
 		"pinyin": "sì",
 		"translation": "four",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "四",
 		"pinyin": "sì",
 		"translation": "four",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "五",
 		"pinyin": "wǔ",
 		"translation": "five",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "六",
 		"pinyin": "liù",
 		"translation": "six",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "七",
 		"pinyin": "qī",
 		"translation": "seven",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "八",
 		"pinyin": "bā",
 		"translation": "eight",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "九",
 		"pinyin": "jiǔ",
 		"translation": "nine",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "十",
 		"pinyin": "shí",
 		"translation": "ten",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "十一",
 		"pinyin": "shí yī",
 		"translation": "eleven",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "十二",
 		"pinyin": "shí èr",
 		"translation": "twelve",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "石",
 		"pinyin": "dàn",
 		"translation": "one hundred",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "千",
 		"pinyin": "qiān",
 		"translation": "one thousand",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "双",
 		"pinyin": "shuāng",
 		"translation": "pair",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "双",
 		"pinyin": "shuāng",
 		"translation": "even",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "奇",
 		"pinyin": "qí",
 		"translation": "odd",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "奇",
 		"pinyin": "jī",
 		"translation": "odd (number)",
 		"category": "number",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "奇数",
@@ -1077,7 +1437,7 @@
 		"chinese": "对",
 		"pinyin": "duì",
 		"translation": "right, correct",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "案",
@@ -1243,7 +1603,7 @@
 		"chinese": "独自",
 		"pinyin": "dú zì",
 		"translation": "alone",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "自",
@@ -1321,7 +1681,7 @@
 		"chinese": "失常",
 		"pinyin": "shī cháng",
 		"translation": "not normal",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "失",
@@ -1489,7 +1849,7 @@
 		"chinese": "行动",
 		"pinyin": "xíng dòng",
 		"translation": "mobile",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "启动",
@@ -1866,7 +2226,7 @@
 		"chinese": "必备",
 		"pinyin": "bì bèi",
 		"translation": "essential",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "不必",
@@ -2042,7 +2402,7 @@
 		"pinyin": "hái hǎo",
 		"translation": "not bad",
 		"category": "grammar",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "生还",
@@ -2338,7 +2698,7 @@
 		"chinese": "刑事",
 		"pinyin": "xíng shì",
 		"translation": "criminal",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "炊事",
