@@ -1627,6 +1627,102 @@
 		"type": "adjective"
 	},
 	{
+		"chinese": "石",
+		"pinyin": "shí",
+		"translation": "rock",
+		"type": "noun"
+	},
+	{
+		"chinese": "石油",
+		"pinyin": "shí yóu",
+		"translation": "petroleum",
+		"type": "noun"
+	},
+	{
+		"chinese": "石炭",
+		"pinyin": "shí tàn",
+		"translation": "coal",
+		"type": "noun"
+	},
+	{
+		"chinese": "岩石",
+		"pinyin": "yán shí",
+		"translation": "rock",
+		"type": "noun"
+	},
+	{
+		"chinese": "磐石",
+		"pinyin": "pán shí",
+		"translation": "boulder",
+		"type": "noun"
+	},
+	{
+		"chinese": "石灰",
+		"pinyin": "shí huī",
+		"translation": "lime",
+		"type": "noun"
+	},
+	{
+		"chinese": "石柱",
+		"pinyin": "shí zhù",
+		"translation": "obelisk",
+		"type": "noun"
+	},
+	{
+		"chinese": "大理石",
+		"pinyin": "dà lǐ shí",
+		"translation": "marble",
+		"type": "noun"
+	},
+	{
+		"chinese": "石像",
+		"pinyin": "shí xiàng",
+		"translation": "stone statue",
+		"type": "noun"
+	},
+	{
+		"chinese": "滑石",
+		"pinyin": "huá shí",
+		"translation": "talc",
+		"type": "noun"
+	},
+	{
+		"chinese": "石窟",
+		"pinyin": "shí kū",
+		"translation": "rock cave",
+		"type": "noun"
+	},
+	{
+		"chinese": "金刚石",
+		"pinyin": "jīn gāng shí",
+		"translation": "diamond",
+		"type": "noun"
+	},
+	{
+		"chinese": "化石",
+		"pinyin": "huà shí",
+		"translation": "fossil",
+		"type": "noun"
+	},
+	{
+		"chinese": "石灰石",
+		"pinyin": "shí huī shí",
+		"translation": "limestone",
+		"type": "noun"
+	},
+	{
+		"chinese": "火石",
+		"pinyin": "huǒ shí",
+		"translation": "flint (stone)",
+		"type": "noun"
+	},
+	{
+		"chinese": "结石",
+		"pinyin": "jié shí",
+		"translation": "stone",
+		"type": "noun"
+	},
+	{
 		"chinese": "千",
 		"pinyin": "qiān",
 		"translation": "one thousand",
