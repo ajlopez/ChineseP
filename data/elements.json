@@ -2744,15 +2744,15 @@
 		"type": "noun"
 	},
 	{
-		"chinese": "事件",
-		"pinyin": "shì jiàn",
-		"translation": "event",
-		"type": "noun"
-	},
-	{
 		"chinese": "条件",
 		"pinyin": "tiáo jiàn",
 		"translation": "condition",
+		"type": "noun"
+	},
+	{
+		"chinese": "文件",
+		"pinyin": "wén jiàn",
+		"translation": "document",
 		"type": "noun"
 	},
 	{
@@ -3019,6 +3019,174 @@
 		"pinyin": "chuī shì",
 		"translation": "cooking",
 		"category": "food",
+		"type": "verb"
+	},
+	{
+		"chinese": "发扬",
+		"pinyin": "fā yáng",
+		"translation": "to develop",
+		"type": "verb"
+	},
+	{
+		"chinese": "弘扬",
+		"pinyin": "hóng yáng",
+		"translation": "to enhance",
+		"type": "verb"
+	},
+	{
+		"chinese": "赞扬",
+		"pinyin": "zàn yáng",
+		"translation": "to praise",
+		"type": "verb"
+	},
+	{
+		"chinese": "飘扬",
+		"pinyin": "piāo yáng",
+		"translation": "to fly",
+		"type": "verb"
+	},
+	{
+		"chinese": "宣扬",
+		"pinyin": "xuān yáng",
+		"translation": "to proclaim",
+		"type": "verb"
+	},
+	{
+		"chinese": "扬",
+		"pinyin": "yáng",
+		"translation": "to praise",
+		"type": "verb"
+	},
+	{
+		"chinese": "扬",
+		"pinyin": "yáng",
+		"translation": "to propagate",
+		"type": "verb"
+	},
+	{
+		"chinese": "扬",
+		"pinyin": "yáng",
+		"translation": "to flutter",
+		"type": "verb"
+	},
+	{
+		"chinese": "佑",
+		"pinyin": "yòu",
+		"translation": "to assist",
+		"type": "verb"
+	},
+	{
+		"chinese": "佑",
+		"pinyin": "yòu",
+		"translation": "to protect",
+		"type": "verb"
+	},
+	{
+		"chinese": "祐",
+		"pinyin": "yòu",
+		"translation": "to protect",
+		"type": "verb"
+	},
+	{
+		"chinese": "祐",
+		"pinyin": "yòu",
+		"translation": "(of divinity) to bless",
+		"type": "verb"
+	},
+	{
+		"chinese": "护",
+		"pinyin": "hù",
+		"translation": "to protect",
+		"type": "verb"
+	},
+	{
+		"chinese": "医",
+		"pinyin": "yī",
+		"translation": "medical",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "医",
+		"pinyin": "yī",
+		"translation": "doctor",
+		"type": "noun"
+	},
+	{
+		"chinese": "医学",
+		"pinyin": "yī xué",
+		"translation": "medicine",
+		"type": "noun"
+	},
+	{
+		"chinese": "医院",
+		"pinyin": "yī yuàn",
+		"translation": "hospital",
+		"type": "noun"
+	},
+	{
+		"chinese": "医嘱",
+		"pinyin": "yī zhǔ",
+		"translation": "prescription (medicine)",
+		"type": "noun"
+	},
+	{
+		"chinese": "医药",
+		"pinyin": "yī yào",
+		"translation": "medical care and medicines",
+		"type": "noun"
+	},
+	{
+		"chinese": "医生",
+		"pinyin": "yī shēng",
+		"translation": "doctor",
+		"type": "noun"
+	},
+	{
+		"chinese": "医务",
+		"pinyin": "yī wù",
+		"translation": "medical affairs",
+		"type": "noun"
+	},
+	{
+		"chinese": "医科",
+		"pinyin": "yī kē",
+		"translation": "medical science",
+		"type": "noun"
+	},
+	{
+		"chinese": "医护",
+		"pinyin": "yī hù",
+		"translation": "doctor and nurses",
+		"type": "noun"
+	},
+	{
+		"chinese": "医大",
+		"pinyin": "yī dà",
+		"translation": "university of medicine (abbr)",
+		"type": "noun"
+	},
+	{
+		"chinese": "中医",
+		"pinyin": "zhōng yī",
+		"translation": "traditional Chinese medical science",
+		"type": "noun"
+	},
+	{
+		"chinese": "牙医",
+		"pinyin": "yá yī",
+		"translation": "dentist",
+		"type": "noun"
+	},
+	{
+		"chinese": "医",
+		"pinyin": "yī",
+		"translation": "to cure",
+		"type": "verb"
+	},
+	{
+		"chinese": "医",
+		"pinyin": "yī",
+		"translation": "to treat",
 		"type": "verb"
 	}
 ]
