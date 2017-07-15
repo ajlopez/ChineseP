@@ -155,295 +155,415 @@
 		"chinese": "爱好者",
 		"pinyin": "ài hào zhě",
 		"translation": "amateur",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "爱好者",
 		"pinyin": "ài hào zhě",
 		"translation": "fan",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "者",
 		"pinyin": "zhě",
 		"translation": "(after a name) person involved in ...",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "作者",
 		"pinyin": "zuò zhě",
 		"translation": "author",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "作者",
 		"pinyin": "zuò zhě",
 		"translation": "writer",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "消费者",
 		"pinyin": "xiāo fèi zhě",
 		"translation": "consumer",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "使用者",
 		"pinyin": "shǐ yòng zhě",
 		"translation": "user",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "投资者",
 		"pinyin": "tóu zī zhě",
 		"translation": "investor",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "访问者",
 		"pinyin": "fǎng wèn zhě",
 		"translation": "interviewer",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "记者",
 		"pinyin": "jì zhě",
 		"translation": "reporter",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "贡献者",
 		"pinyin": "gòng xiàn zhě",
 		"translation": "contributor",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "志愿者",
 		"pinyin": "zhì yuàn zhě",
 		"translation": "volunteer",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "学者",
 		"pinyin": "xué zhě",
 		"translation": "scholar",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "读者",
 		"pinyin": "dú zhě",
 		"translation": "reader",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "患者",
 		"pinyin": "huàn zhě",
 		"translation": "patient",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "前者",
 		"pinyin": "qián zhě",
 		"translation": "the former",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "编者",
 		"pinyin": "biān zhě",
 		"translation": "editor",
-		"type": "name"
+		"type": "noun"
+	},
+	{
+		"chinese": "行",
+		"pinyin": "xíng",
+		"translation": "to walk",
+		"type": "verb"
+	},
+	{
+		"chinese": "行",
+		"pinyin": "xíng",
+		"translation": "to travel",
+		"type": "verb"
+	},
+	{
+		"chinese": "行",
+		"pinyin": "xíng",
+		"translation": "behavior",
+		"type": "noun"
+	},
+	{
+		"chinese": "行",
+		"pinyin": "xíng",
+		"translation": "effective",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "行",
+		"pinyin": "háng",
+		"translation": "a row",
+		"type": "noun"
+	},
+	{
+		"chinese": "行",
+		"pinyin": "háng",
+		"translation": "profession",
+		"type": "noun"
+	},
+	{
+		"chinese": "行",
+		"pinyin": "háng",
+		"translation": "age order (of brothers)",
+		"type": "noun"
+	},
+	{
+		"chinese": "可行",
+		"pinyin": "kě xíng",
+		"translation": "feasible",
+		"type": "noun"
+	},
+	{
+		"chinese": "发行",
+		"pinyin": "fā xíng",
+		"translation": "to publish",
+		"type": "verb"
+	},
+	{
+		"chinese": "发行",
+		"pinyin": "fā xíng",
+		"translation": "to release",
+		"type": "verb"
+	},
+	{
+		"chinese": "排行",
+		"pinyin": "pái háng",
+		"translation": "ranking",
+		"type": "noun"
+	},
+	{
+		"chinese": "行为",
+		"pinyin": "xíng wéi",
+		"translation": "action",
+		"type": "noun"
+	},
+	{
+		"chinese": "行为",
+		"pinyin": "xíng wéi",
+		"translation": "activity",
+		"type": "noun"
+	},
+	{
+		"chinese": "行业",
+		"pinyin": "háng yè",
+		"translation": "industry",
+		"type": "noun"
+	},
+	{
+		"chinese": "行业",
+		"pinyin": "háng yè",
+		"translation": "business",
+		"type": "noun"
+	},
+	{
+		"chinese": "旅行",
+		"pinyin": "lǚ xíng",
+		"translation": "trip",
+		"type": "noun"
+	},
+	{
+		"chinese": "旅行",
+		"pinyin": "lǚ xíng",
+		"translation": "to travel",
+		"type": "verb"
+	},
+	{
+		"chinese": "执行",
+		"pinyin": "zhí xíng",
+		"translation": "to execute",
+		"type": "verb"
+	},
+	{
+		"chinese": "行为",
+		"pinyin": "xíng wéi",
+		"translation": "behavior",
+		"type": "noun"
+	},
+	{
+		"chinese": "自行",
+		"pinyin": "zì xíng",
+		"translation": "self-",
+		"type": "adjetive"
 	},
 	{
 		"chinese": "先行者",
 		"pinyin": "xiān xíng zhě",
 		"translation": "forerunner",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "亡者",
 		"pinyin": "wáng zhě",
 		"translation": "the deceased",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "笔者",
 		"pinyin": "bǐ zhě",
 		"translation": "the author",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "笔者",
 		"pinyin": "bǐ zhě",
 		"translation": "the writer",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "业者",
 		"pinyin": "yè zhě",
 		"translation": "trader",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "智者",
 		"pinyin": "zhì zhě",
 		"translation": "sage",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "死者",
 		"pinyin": "sǐ zhě",
 		"translation": "the dead",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "忍者",
 		"pinyin": "rěn zhě",
 		"translation": "ninja",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "当事者",
 		"pinyin": "dāng shì zhě",
 		"translation": "the people holding power",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "行者",
 		"pinyin": "xíng zhě",
 		"translation": "walker",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "使者",
 		"pinyin": "shǐ zhě",
 		"translation": "emissary",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "两者",
 		"pinyin": "liǎng zhě",
 		"translation": "both sides",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "旁观者",
 		"pinyin": "páng guān zhě",
 		"translation": "observer",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "老者",
 		"pinyin": "lǎo zhě",
 		"translation": "old man",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "遇难者",
 		"pinyin": "yù nàn zhě",
 		"translation": "victim",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "编者按",
 		"pinyin": "biān zhě àn",
 		"translation": "editor's commentary",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "创建者",
 		"pinyin": "chuàng jiàn zhě",
 		"translation": "founder",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "创始者",
 		"pinyin": "chuàng shǐ zhě",
 		"translation": "creator",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "求职者",
 		"pinyin": "qiú zhí zhě",
 		"translation": "job applicant",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "指导者",
 		"pinyin": "zhǐ dǎo zhě",
 		"translation": "mentor",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "保护者",
 		"pinyin": "bǎo hù zhě",
 		"translation": "protector",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "携带者",
 		"pinyin": "xié dài zhě",
 		"translation": "carrier",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "成年者",
 		"pinyin": "chéng nián zhě",
 		"translation": "adult",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "获奖者",
 		"pinyin": "huò jiǎng zhě",
 		"translation": "prize-winner",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "劳动者",
 		"pinyin": "láo dòng zhě",
 		"translation": "worker",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "初学者",
 		"pinyin": "chū xué zhě",
 		"translation": "beginning student",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "应聘者",
 		"pinyin": "yìng pìn zhě",
 		"translation": "person taking a job",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "参赛者",
 		"pinyin": "cān sài zhě",
 		"translation": "competitor",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "译者",
 		"pinyin": "yì zhě",
 		"translation": "translator (of writing)",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "参加者",
 		"pinyin": "cān jiā zhě",
 		"translation": "participant",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "统治者",
 		"pinyin": "tǒng zhì zhě",
 		"translation": "ruler",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "作者不详",
 		"pinyin": "zuò zhě bù xiáng",
 		"translation": "anonymous author",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "良好",
@@ -1236,7 +1356,7 @@
 		"chinese": "标的",
 		"pinyin": "biāo dì",
 		"translation": "target",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "的",
@@ -1761,7 +1881,7 @@
 		"pinyin": "jī shù",
 		"translation": "odd number",
 		"category": "number",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "土",
@@ -2072,20 +2192,20 @@
 		"pinyin": "qián",
 		"translation": "money, coin",
 		"category": "commerce",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "分",
 		"pinyin": "fēn",
 		"translation": "0.01 yuan (unit of money)",
 		"category": "commerce",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "分",
 		"pinyin": "fēn",
 		"translation": "fraction",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "分",
@@ -2110,70 +2230,70 @@
 		"pinyin": "huā",
 		"translation": "flower",
 		"category": "nature",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "花",
 		"pinyin": "huā",
 		"translation": "blossom",
 		"category": "nature",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "砧木",
 		"pinyin": "zhēn mù",
 		"translation": "rootstock",
 		"category": "nature",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "砧",
 		"pinyin": "zhēn",
 		"translation": "anvil",
 		"category": "tool",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "锤",
 		"pinyin": "chuí",
 		"translation": "hammer",
 		"category": "tool",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "锤子",
 		"pinyin": "chuí zi",
 		"translation": "hammer",
 		"category": "tool",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "鎯",
 		"pinyin": "láng",
 		"translation": "large hammer",
 		"category": "tool",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "起子",
 		"pinyin": "qǐ zi",
 		"translation": "screwdriver",
 		"category": "tool",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "螺刀",
 		"pinyin": "luó dāo",
 		"translation": "screwdriver",
 		"category": "tool",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "改锥",
 		"pinyin": "gǎi zhuī",
 		"translation": "screwdriver",
 		"category": "tool",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "启",
@@ -2215,13 +2335,13 @@
 		"chinese": "行动",
 		"pinyin": "xíng dòng",
 		"translation": "action",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "行动",
 		"pinyin": "xíng dòng",
 		"translation": "operation",
-		"type": "name"
+		"type": "noun"
 	},
 	{
 		"chinese": "行动",
@@ -3284,5 +3404,29 @@
 		"pinyin": "yī",
 		"translation": "to treat",
 		"type": "verb"
+	},
+	{
+		"chinese": "运",
+		"pinyin": "yùn",
+		"translation": "to move",
+		"type": "verb"
+	},
+	{
+		"chinese": "运",
+		"pinyin": "yùn",
+		"translation": "to transport",
+		"type": "verb"
+	},
+	{
+		"chinese": "运",
+		"pinyin": "yùn",
+		"translation": "to use",
+		"type": "verb"
+	},
+	{
+		"chinese": "运",
+		"pinyin": "yùn",
+		"translation": "luck",
+		"type": "noun"
 	}
 ]
