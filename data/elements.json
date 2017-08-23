@@ -12,6 +12,30 @@
 		"type": "verb"
 	},
 	{
+		"chinese": "买",
+		"pinyin": "mǎi",
+		"translation": "to buy",
+		"type": "verb"
+	},
+	{
+		"chinese": "卖",
+		"pinyin": "mài",
+		"translation": "to sell",
+		"type": "verb"
+	},
+	{
+		"chinese": "做",
+		"pinyin": "zuò",
+		"translation": "to do",
+		"type": "verb"
+	},
+	{
+		"chinese": "做",
+		"pinyin": "zuò",
+		"translation": "to make",
+		"type": "verb"
+	},
+	{
 		"chinese": "喜",
 		"pinyin": "xǐ",
 		"translation": "to like",
@@ -57,6 +81,12 @@
 		"chinese": "我",
 		"pinyin": "wǒ",
 		"translation": "I",
+		"type": "pronoun"
+	},
+	{
+		"chinese": "们",
+		"pinyin": "men",
+		"translation": "plural maker for pronouns",
 		"type": "pronoun"
 	},
 	{
@@ -371,6 +401,12 @@
 		"chinese": "自行",
 		"pinyin": "zì xíng",
 		"translation": "self-",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "先",
+		"pinyin": "xiān",
+		"translation": "first",
 		"type": "adjetive"
 	},
 	{
@@ -896,8 +932,8 @@
 		"type": "noun"
 	},
 	{
-		"chinese": "美好",
-		"pinyin": "měi hǎo",
+		"chinese": "美",
+		"pinyin": "měi",
 		"translation": "beautiful",
 		"type": "adjective"
 	},
@@ -1747,6 +1783,13 @@
 		"type": "adjective"
 	},
 	{
+		"chinese": "伯",
+		"pinyin": "bǎi",
+		"translation": "one hundred",
+		"category": "number",
+		"type": "adjective"
+	},
+	{
 		"chinese": "石",
 		"pinyin": "shí",
 		"translation": "rock",
@@ -1846,6 +1889,13 @@
 		"chinese": "千",
 		"pinyin": "qiān",
 		"translation": "one thousand",
+		"category": "number",
+		"type": "adjective"
+	},
+	{
+		"chinese": "万",
+		"pinyin": "wàn",
+		"translation": "ten thousand",
 		"category": "number",
 		"type": "adjective"
 	},
@@ -2844,6 +2894,18 @@
 		"pinyin": "mǎ",
 		"translation": "weight",
 		"type": "noun"
+	},
+	{
+		"chinese": "少",
+		"pinyin": "shǎo",
+		"translation": "few",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "少",
+		"pinyin": "shǎo",
+		"translation": "young",
+		"type": "adjetive"
 	},
 	{
 		"chinese": "码",
