@@ -3,37 +3,43 @@
 		"chinese": "要",
 		"pinyin": "yào",
 		"translation": "to want",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "爱",
 		"pinyin": "ài",
 		"translation": "to love",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "买",
 		"pinyin": "mǎi",
 		"translation": "to buy",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "卖",
 		"pinyin": "mài",
 		"translation": "to sell",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "做",
 		"pinyin": "zuò",
 		"translation": "to do",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "做",
 		"pinyin": "zuò",
 		"translation": "to make",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "喜",
@@ -57,7 +63,8 @@
 		"chinese": "可",
 		"pinyin": "kě",
 		"translation": "can/able",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "喜欢",
@@ -69,7 +76,8 @@
 		"chinese": "想",
 		"pinyin": "xiǎng",
 		"translation": "to wish",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "想",
@@ -81,32 +89,37 @@
 		"chinese": "我",
 		"pinyin": "wǒ",
 		"translation": "I",
-		"type": "pronoun"
+		"type": "pronoun",
+        "level": 1
 	},
 	{
 		"chinese": "们",
 		"pinyin": "men",
 		"translation": "plural maker for pronouns",
-		"type": "pronoun"
+		"type": "pronoun",
+        "level": 1
 	},
 	{
 		"chinese": "你",
 		"pinyin": "nǐ",
 		"translation": "you",
-		"type": "pronoun"
+		"type": "pronoun",
+        "level": 1
 	},
 	{
 		"chinese": "他",
 		"pinyin": "tā",
 		"translation": "he/she",
-		"type": "pronoun"
+		"type": "pronoun",
+        "level": 1
 	},
 	{
 		"chinese": "水",
 		"pinyin": "shuǐ",
 		"translation": "water",
 		"category": "beverage",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "水源",
@@ -125,13 +138,15 @@
 		"chinese": "有",
 		"pinyin": "yǒu",
 		"translation": "to have",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "只",
 		"pinyin": "zhǐ",
 		"translation": "only/but",
-		"type": "adverb"
+		"type": "adverb",
+        "level": 1
 	},
 	{
 		"chinese": "冲",
@@ -161,19 +176,22 @@
 		"chinese": "好",
 		"pinyin": "hào",
 		"translation": "good",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "不好",
 		"pinyin": "bù hǎo",
 		"translation": "no good",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "好吃",
 		"pinyin": "hǎo chī",
 		"translation": "delicious",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "好像",
@@ -287,7 +305,8 @@
 		"chinese": "行",
 		"pinyin": "xíng",
 		"translation": "to walk",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "行",
@@ -407,7 +426,8 @@
 		"chinese": "先",
 		"pinyin": "xiān",
 		"translation": "first",
-		"type": "adjetive"
+		"type": "adjetive",
+        "level": 1
 	},
 	{
 		"chinese": "先行者",
@@ -617,19 +637,22 @@
 		"chinese": "好",
 		"pinyin": "hào",
 		"translation": "to be fond of",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "友",
 		"pinyin": "yǒu",
 		"translation": "friend",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "爱好",
 		"pinyin": "ài hào",
 		"translation": "to like",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "爱好",
@@ -971,7 +994,8 @@
 		"chinese": "朋",
 		"pinyin": "péng",
 		"translation": "friend",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "朋友",
@@ -991,7 +1015,8 @@
 		"pinyin": "tāng",
 		"translation": "soup",
 		"category": "food",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "沸水",
@@ -1022,7 +1047,7 @@
 		"type": "noun"
 	},
 	{
-		"chinese": "kā",
+		"chinese": "咖",
 		"pinyin": "kā",
 		"translation": "class, grade",
 		"type": "noun"
@@ -1102,14 +1127,16 @@
 		"pinyin": "zhā",
 		"translation": "jug (a classifier for liquids such as beer)",
 		"category": "beer",
-		"type": "classifier"
+		"type": "classifier",
+        "level": 1
 	},
 	{
 		"chinese": "茶",
 		"pinyin": "chá",
 		"translation": "tea",
 		"category": "beverage",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "茶会",
@@ -1241,21 +1268,24 @@
 		"pinyin": "Zhōng guó",
 		"translation": "China",
 		"category": "country",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "美国",
 		"pinyin": "Měi guó",
 		"translation": "United States",
 		"category": "country",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "英国",
 		"pinyin": "Yīng guó",
 		"translation": "United Kingdom",
 		"category": "country",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "韩国",
@@ -1288,7 +1318,8 @@
 		"chinese": "家",
 		"pinyin": "jiā",
 		"translation": "home",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "家",
@@ -1320,31 +1351,36 @@
 		"chinese": "史",
 		"pinyin": "shǐ",
 		"translation": "history",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "我的",
 		"pinyin": "wǒ de",
 		"translation": "my, mine",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "他们的",
 		"pinyin": "tā men de",
 		"translation": "their, theirs",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "我们的",
 		"pinyin": "wǒ men de",
 		"translation": "our, ours",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "你的",
 		"pinyin": "nǐ de",
 		"translation": "your, yours",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "别的",
@@ -1362,19 +1398,22 @@
 		"chinese": "是",
 		"pinyin": "shì",
 		"translation": "to be",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "不",
 		"pinyin": "bù",
 		"translation": "no/not",
-		"type": "prefix"
+		"type": "prefix",
+        "level": 1
 	},
 	{
 		"chinese": "是的",
 		"pinyin": "shì de",
 		"translation": "yes, that's right",
-		"type": "phrase"
+		"type": "phrase",
+        "level": 1
 	},
 	{
 		"chinese": "的确",
@@ -1398,7 +1437,8 @@
 		"chinese": "的",
 		"pinyin": "de",
 		"translation": "of, 's (possesive article)",
-		"type": "article"
+		"type": "article",
+        "level": 1
 	},
 	{
 		"chinese": "苹果",
@@ -1475,49 +1515,56 @@
 		"pinyin": "sè",
 		"translation": "color",
 		"category": "color",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "天",
 		"pinyin": "tiān",
 		"translation": "day",
 		"category": "time",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "号",
 		"pinyin": "hào",
 		"translation": "day of a month",
 		"category": "time",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "天",
 		"pinyin": "tiān",
 		"translation": "sky",
 		"category": "nature",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "候",
 		"pinyin": "hòu",
 		"translation": "climate",
 		"category": "nature",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "日",
 		"pinyin": "rì",
 		"translation": "sun",
 		"category": "nature",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "星",
 		"pinyin": "xīng",
 		"translation": "star",
 		"category": "nature",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "星座",
@@ -1579,7 +1626,8 @@
 		"pinyin": "rì",
 		"translation": "day",
 		"category": "time",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "星期",
@@ -1593,33 +1641,38 @@
 		"pinyin": "yuè",
 		"translation": "month",
 		"category": "time",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "月",
 		"pinyin": "yuè",
 		"translation": "moon",
 		"category": "nature",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "年",
 		"pinyin": "nián",
 		"translation": "year",
 		"category": "time",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "网",
 		"pinyin": "wǎng",
 		"translation": "network",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "人",
 		"pinyin": "rén",
 		"translation": "people",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "每天",
@@ -1682,118 +1735,119 @@
 		"pinyin": "yī",
 		"translation": "one",
 		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "二",
 		"pinyin": "èr",
 		"translation": "two",
 		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "三",
 		"pinyin": "sān",
 		"translation": "three",
 		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "四",
 		"pinyin": "sì",
 		"translation": "four",
 		"category": "number",
-		"type": "adjective"
-	},
-	{
-		"chinese": "四",
-		"pinyin": "sì",
-		"translation": "four",
-		"category": "number",
-		"type": "adjective"
-	},
-	{
-		"chinese": "四",
-		"pinyin": "sì",
-		"translation": "four",
-		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "五",
 		"pinyin": "wǔ",
 		"translation": "five",
 		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "六",
 		"pinyin": "liù",
 		"translation": "six",
 		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "七",
 		"pinyin": "qī",
 		"translation": "seven",
 		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "八",
 		"pinyin": "bā",
 		"translation": "eight",
 		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "九",
 		"pinyin": "jiǔ",
 		"translation": "nine",
 		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "十",
 		"pinyin": "shí",
 		"translation": "ten",
 		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "十一",
 		"pinyin": "shí yī",
 		"translation": "eleven",
 		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "十二",
 		"pinyin": "shí èr",
 		"translation": "twelve",
 		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "石",
 		"pinyin": "dàn",
 		"translation": "one hundred",
 		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "伯",
 		"pinyin": "bǎi",
 		"translation": "one hundred",
 		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "石",
 		"pinyin": "shí",
 		"translation": "rock",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "石油",
@@ -1890,21 +1944,24 @@
 		"pinyin": "qiān",
 		"translation": "one thousand",
 		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "万",
 		"pinyin": "wàn",
 		"translation": "ten thousand",
 		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "双",
 		"pinyin": "shuāng",
 		"translation": "pair",
 		"category": "number",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "双",
@@ -1938,7 +1995,8 @@
 		"pinyin": "tǔ",
 		"translation": "earth",
 		"category": "nature",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "曜",
@@ -1952,7 +2010,8 @@
 		"pinyin": "jīn",
 		"translation": "gold",
 		"category": "nature",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "金融",
@@ -1972,7 +2031,8 @@
 		"pinyin": "mù",
 		"translation": "tree",
 		"category": "nature",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "木",
@@ -1985,13 +2045,15 @@
 		"chinese": "对",
 		"pinyin": "duì",
 		"translation": "right, correct",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1
 	},
 	{
 		"chinese": "案",
 		"pinyin": "àn",
 		"translation": "file",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "案",
@@ -2005,28 +2067,32 @@
 		"pinyin": "tái",
 		"translation": "table",
 		"category": "mobiliary",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "桌子",
 		"pinyin": "zhuō zi",
 		"translation": "table",
 		"category": "mobiliary",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "目",
 		"pinyin": "mù",
 		"translation": "eye",
 		"category": "body",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "子",
 		"pinyin": "zǐ",
 		"translation": "son",
 		"category": "family",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "子",
@@ -2039,7 +2105,8 @@
 		"pinyin": "diàn",
 		"translation": "electricity",
 		"category": "technology",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "电视",
@@ -2087,7 +2154,8 @@
 		"chinese": "信",
 		"pinyin": "xìn",
 		"translation": "letter",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "信",
@@ -2107,33 +2175,38 @@
 		"pinyin": "mǐ",
 		"translation": "rice",
 		"category": "food",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "酒",
 		"pinyin": "jiǔ",
 		"translation": "alcoholic beverage",
 		"category": "beverage",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "饭",
 		"pinyin": "fàn",
 		"translation": "food",
 		"category": "food",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "主",
 		"pinyin": "zhǔ",
 		"translation": "master",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "自",
 		"pinyin": "zì",
 		"translation": "oneself",
-		"type": "pronoun"
+		"type": "pronoun",
+        "level": 1
 	},
 	{
 		"chinese": "自我",
@@ -2175,7 +2248,8 @@
 		"chinese": "失",
 		"pinyin": "shī",
 		"translation": "to lose",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "失去",
@@ -2242,7 +2316,8 @@
 		"pinyin": "qián",
 		"translation": "money, coin",
 		"category": "commerce",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "分",
@@ -2255,7 +2330,8 @@
 		"chinese": "分",
 		"pinyin": "fēn",
 		"translation": "fraction",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "分",
@@ -2280,7 +2356,8 @@
 		"pinyin": "huā",
 		"translation": "flower",
 		"category": "nature",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "花",
@@ -2301,7 +2378,8 @@
 		"pinyin": "zhēn",
 		"translation": "anvil",
 		"category": "tool",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "锤",
@@ -2409,7 +2487,8 @@
 		"chinese": "吃",
 		"pinyin": "chī",
 		"translation": "to eat",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "吃饭",
@@ -2428,7 +2507,8 @@
 		"pinyin": "chē",
 		"translation": "car",
 		"category": "transport",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "公车",
@@ -2533,7 +2613,8 @@
 		"pinyin": "zuò",
 		"translation": "to take a seat",
 		"category": "transport",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "坐",
@@ -2600,7 +2681,8 @@
 		"pinyin": "wèi",
 		"translation": "stomach",
 		"category": "body",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "肺",
@@ -2648,7 +2730,8 @@
 		"pinyin": "xuè",
 		"translation": "blood",
 		"category": "body",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "失血",
@@ -2662,7 +2745,8 @@
 		"pinyin": "shǒu",
 		"translation": "hand",
 		"category": "body",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "提",
@@ -2675,14 +2759,16 @@
 		"pinyin": "yòu",
 		"translation": "right (-hand)",
 		"category": "place",
-		"type": "adverb"
+		"type": "adverb",
+        "level": 1
 	},
 	{
 		"chinese": "左",
 		"pinyin": "zuǒ",
 		"translation": "left (-hand)",
 		"category": "place",
-		"type": "adverb"
+		"type": "adverb",
+        "level": 1
 	},
 	{
 		"chinese": "傍",
@@ -2696,7 +2782,8 @@
 		"pinyin": "jìn",
 		"translation": "near",
 		"category": "place",
-		"type": "adverb"
+		"type": "adverb",
+        "level": 1
 	},
 	{
 		"chinese": "近期",
@@ -2723,7 +2810,8 @@
 		"chinese": "来",
 		"pinyin": "lái",
 		"translation": "to come",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "出来",
@@ -2743,7 +2831,8 @@
 		"pinyin": "wèi",
 		"translation": "not yet",
 		"category": "time",
-		"type": "adverb"
+		"type": "adverb",
+        "level": 1
 	},
 	{
 		"chinese": "从未",
@@ -2793,13 +2882,15 @@
 		"pinyin": "hé",
 		"translation": "what/why/how",
 		"category": "grammar",
-		"type": "pronoun"
+		"type": "pronoun",
+        "level": 1
 	},
 	{
 		"chinese": "无",
 		"pinyin": "wú",
 		"translation": "not to have",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "忧",
@@ -2899,7 +2990,8 @@
 		"chinese": "少",
 		"pinyin": "shǎo",
 		"translation": "few",
-		"type": "adjetive"
+		"type": "adjetive",
+        "level": 1
 	},
 	{
 		"chinese": "少",
@@ -2952,7 +3044,8 @@
 		"pinyin": "hái",
 		"translation": "yet",
 		"category": "grammar",
-		"type": "adverb"
+		"type": "adverb",
+        "level": 1
 	},
 	{
 		"chinese": "还",
@@ -3006,7 +3099,8 @@
 		"chinese": "件",
 		"pinyin": "jiàn",
 		"translation": "item/component",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "件",
@@ -3043,7 +3137,8 @@
 		"chinese": "事",
 		"pinyin": "shì",
 		"translation": "thing",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "事情",
@@ -3387,7 +3482,8 @@
 		"chinese": "医",
 		"pinyin": "yī",
 		"translation": "doctor",
-		"type": "noun"
+		"type": "noun",
+        "level": 1
 	},
 	{
 		"chinese": "医学",
@@ -3459,7 +3555,8 @@
 		"chinese": "医",
 		"pinyin": "yī",
 		"translation": "to cure",
-		"type": "verb"
+		"type": "verb",
+        "level": 1
 	},
 	{
 		"chinese": "医",
