@@ -126,7 +126,8 @@
 		"pinyin": "shuǐ yuán",
 		"translation": "water source",
 		"category": "water",
-		"type": "noun"
+		"type": "noun",
+		"level": 2
 	},
 	{
 		"chinese": "流",
@@ -227,7 +228,8 @@
 		"chinese": "作者",
 		"pinyin": "zuò zhě",
 		"translation": "writer",
-		"type": "noun"
+		"type": "noun",
+		"level": 2
 	},
 	{
 		"chinese": "消费者",
@@ -348,7 +350,8 @@
 		"chinese": "可行",
 		"pinyin": "kě xíng",
 		"translation": "feasible",
-		"type": "noun"
+		"type": "noun",
+		"level": 2
 	},
 	{
 		"chinese": "发行",
@@ -511,7 +514,8 @@
 		"chinese": "老者",
 		"pinyin": "lǎo zhě",
 		"translation": "old man",
-		"type": "noun"
+		"type": "noun",
+		"level": 2
 	},
 	{
 		"chinese": "遇难者",
@@ -1233,7 +1237,8 @@
 		"pinyin": "miàn bāo",
 		"translation": "bread",
 		"category": "food",
-		"type": "noun"
+		"type": "noun",
+		"level": 2
 	},
 	{
 		"chinese": "馍",
@@ -2227,6 +2232,20 @@
 		"type": "adjective"
 	},
 	{
+		"chinese": "从",
+		"pinyin": "cóng",
+		"translation": "from",
+		"type": "preposition",
+		"level": 2
+	},
+	{
+		"chinese": "到",
+		"pinyin": "dào",
+		"translation": "to",
+		"type": "preposition",
+		"level": 2
+	},
+	{
 		"chinese": "自",
 		"pinyin": "zì",
 		"translation": "from",
@@ -2500,7 +2519,8 @@
 		"chinese": "饭碗",
 		"pinyin": "fàn wǎn",
 		"translation": "rice bowl",
-		"type": "food"
+		"type": "food",
+		"level": 2
 	},
 	{
 		"chinese": "车",
@@ -2515,14 +2535,16 @@
 		"pinyin": "gōng chē",
 		"translation": "bus",
 		"category": "transport",
-		"type": "noun"
+		"type": "noun",
+		"level": 2
 	},
 	{
 		"chinese": "出租车",
 		"pinyin": "chū zū chē",
 		"translation": "taxi",
 		"category": "transport",
-		"type": "noun"
+		"type": "noun",
+		"level": 2
 	},
 	{
 		"chinese": "开车",
@@ -2550,21 +2572,24 @@
 		"pinyin": "huǒ chē zhàn",
 		"translation": "train station",
 		"category": "transport",
-		"type": "noun"
+		"type": "noun",
+		"level": 2
 	},
 	{
 		"chinese": "火车票",
 		"pinyin": "huǒ chē piào",
 		"translation": "train ticket",
 		"category": "transport",
-		"type": "noun"
+		"type": "noun",
+		"level": 2
 	},
 	{
 		"chinese": "火车",
 		"pinyin": "huǒ chē",
 		"translation": "train",
 		"category": "transport",
-		"type": "noun"
+		"type": "noun",
+		"level": 2
 	},
 	{
 		"chinese": "快车",
@@ -3587,5 +3612,87 @@
 		"pinyin": "yùn",
 		"translation": "luck",
 		"type": "noun"
+	},
+	{
+		"chinese": "知道",
+		"pinyin": "zhī dào",
+		"translation": "to know",
+		"type": "verb",
+		"level": 2
+	},
+	{
+		"chinese": "公司",
+		"pinyin": "gōng sī",
+		"translation": "company, firm",
+		"type": "noun",
+		"level": 2
+	},
+	{
+		"chinese": "书",
+		"pinyin": "shū",
+		"translation": "book",
+		"type": "noun",
+		"level": 1
+	},
+	{
+		"chinese": "大使馆",
+		"pinyin": "dà shǐ guǎn",
+		"translation": "embassy",
+		"type": "noun",
+		"level": 2
+	},
+	{
+		"chinese": "馆",
+		"pinyin": "guǎn",
+		"translation": "building",
+		"type": "noun",
+		"level": 1
+	},
+	{
+		"chinese": "兄弟",
+		"pinyin": "xiōng dì",
+		"translation": "brothers",
+		"type": "noun",
+		"category": "family",
+		"level": 2
+	},
+	{
+		"chinese": "弟弟",
+		"pinyin": "dì dì",
+		"translation": "younger brother",
+		"type": "noun",
+		"category": "family",
+		"level": 2
+	},
+	{
+		"chinese": "哥哥",
+		"pinyin": "gē gē",
+		"translation": "elder brother",
+		"type": "noun",
+		"category": "family",
+		"level": 2
+	},
+	{
+		"chinese": "妹妹",
+		"pinyin": "mèi mèi",
+		"translation": "younger sister",
+		"type": "noun",
+		"category": "family",
+		"level": 2
+	},
+	{
+		"chinese": "姐姐",
+		"pinyin": "jiě jiě",
+		"translation": "elder sister",
+		"type": "noun",
+		"category": "family",
+		"level": 2
+	},
+	{
+		"chinese": "市",
+		"pinyin": "shì",
+		"translation": "city",
+		"type": "noun",
+		"level": 1
 	}
 ]
