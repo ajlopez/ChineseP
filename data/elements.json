@@ -3694,5 +3694,174 @@
 		"translation": "city",
 		"type": "noun",
 		"level": 1
+	},
+	{
+		"chinese": "周一",
+		"pinyin": "zhōu yī",
+		"translation": "Monday",
+		"type": "noun",
+		"category": "time",
+		"level": 1
+	},
+	{
+		"chinese": "星期一",
+		"pinyin": "xīng qī yī",
+		"translation": "Monday",
+		"type": "noun",
+		"category": "time",
+		"level": 1
+	},
+	{
+		"chinese": "礼拜一",
+		"pinyin": "Lǐ bài yī",
+		"translation": "Monday",
+		"type": "noun",
+		"category": "time"
+	},
+	{
+		"chinese": "周二",
+		"pinyin": "zhōu èr",
+		"translation": "Tuesday",
+		"type": "noun",
+		"category": "time",
+		"level": 1
+	},
+	{
+		"chinese": "星期二",
+		"pinyin": "xīng qī èr",
+		"translation": "Tuesday",
+		"type": "noun",
+		"category": "time",
+		"level": 1
+	},
+	{
+		"chinese": "礼拜二",
+		"pinyin": "Lǐ bài èr",
+		"translation": "Tuesday",
+		"type": "noun",
+		"category": "time"
+	},
+	{
+		"chinese": "周三",
+		"pinyin": "zhōu sān",
+		"translation": "Wednesday",
+		"type": "noun",
+		"category": "time",
+		"level": 1
+	},
+	{
+		"chinese": "星期三",
+		"pinyin": "xīng qī sān",
+		"translation": "Wednesday",
+		"type": "noun",
+		"category": "time",
+		"level": 1
+	},
+	{
+		"chinese": "礼拜三",
+		"pinyin": "Lǐ bài sān",
+		"translation": "Wednesday",
+		"type": "noun",
+		"category": "time"
+	},
+	{
+		"chinese": "周四",
+		"pinyin": "zhōu sì",
+		"translation": "Thursday",
+		"type": "noun",
+		"category": "time",
+		"level": 1
+	},
+	{
+		"chinese": "星期四",
+		"pinyin": "xīng qī sì",
+		"translation": "Thursday",
+		"type": "noun",
+		"category": "time",
+		"level": 1
+	},
+	{
+		"chinese": "礼拜四",
+		"pinyin": "Lǐ bài sì",
+		"translation": "Thursday",
+		"type": "noun",
+		"category": "time"
+	},
+	{
+		"chinese": "周五",
+		"pinyin": "zhōu wǔ",
+		"translation": "Friday",
+		"type": "noun",
+		"category": "time",
+		"level": 1
+	},
+	{
+		"chinese": "星期五",
+		"pinyin": "xīng qī wǔ",
+		"translation": "Friday",
+		"type": "noun",
+		"category": "time",
+		"level": 1
+	},
+	{
+		"chinese": "礼拜五",
+		"pinyin": "Lǐ bài wǔ",
+		"translation": "Friday",
+		"type": "noun",
+		"category": "time"
+	},
+	{
+		"chinese": "周六",
+		"pinyin": "zhōu liù",
+		"translation": "Saturday",
+		"type": "noun",
+		"category": "time",
+		"level": 1
+	},
+	{
+		"chinese": "星期六",
+		"pinyin": "xīng qī liù",
+		"translation": "Saturday",
+		"type": "noun",
+		"category": "time",
+		"level": 1
+	},
+	{
+		"chinese": "礼拜六",
+		"pinyin": "Lǐ bài liù",
+		"translation": "Saturday",
+		"type": "noun",
+		"category": "time"
+	},
+	{
+		"chinese": "周日",
+		"pinyin": "zhōu rì",
+		"translation": "Sunday",
+		"type": "noun",
+		"category": "time",
+		"level": 1
+	},
+	{
+		"chinese": "星期日",
+		"pinyin": "xīng qī rì",
+		"translation": "Sunday",
+		"type": "noun",
+		"category": "time",
+		"level": 1
+	},
+	{
+		"chinese": "礼拜日",
+		"pinyin": "Lǐ bài rì",
+		"translation": "Sunday",
+		"type": "noun",
+		"category": "time"
+	},
+	{
+		"chinese": "礼拜天",
+		"pinyin": "Lǐ bài tiān",
+		"translation": "Sunday",
+		"type": "noun",
+		"category": "time"
 	}
 ]
+
