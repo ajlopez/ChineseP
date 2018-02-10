@@ -420,6 +420,26 @@
 		"type": "noun"
 	},
 	{
+		"chinese": "为",
+		"pinyin": "wéi",
+		"translation": "why?",
+		"category": "grammar",
+		"type": "adverb"
+	},
+	{
+		"chinese": "因为",
+		"pinyin": "yīn wèi",
+		"translation": "because",
+		"category": "grammar",
+		"type": "conjunction"
+	},
+	{
+		"chinese": "因",
+		"pinyin": "yīn wèi",
+		"translation": "cause",
+		"type": "noun"
+	},
+	{
 		"chinese": "自行",
 		"pinyin": "zì xíng",
 		"translation": "self-",
@@ -759,6 +779,18 @@
 		"pinyin": "hǎo kàn",
 		"translation": "embarrassed",
 		"type": "adjective"
+	},
+	{
+		"chinese": "看",
+		"pinyin": "kàn",
+		"translation": "to look",
+		"type": "verb"
+	},
+	{
+		"chinese": "看见",
+		"pinyin": "kàn jiàn",
+		"translation": "to see",
+		"type": "verb"
 	},
 	{
 		"chinese": "好看",
