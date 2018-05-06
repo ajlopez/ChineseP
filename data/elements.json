@@ -3894,6 +3894,158 @@
 		"translation": "Sunday",
 		"type": "noun",
 		"category": "time"
+	},
+	{
+		"chinese": "要请",
+		"pinyin": "yàoqǐng",
+		"translation": "to invite",
+		"type": "verb"
+	},
+	{
+		"chinese": "庆祝",
+		"pinyin": "qìng zhù",
+		"translation": "to celebrate",
+		"type": "verb"
+	},
+	{
+		"chinese": "校",
+		"pinyin": "jiào",
+		"translation": "to compare",
+		"type": "verb"
+	},
+	{
+		"chinese": "属",
+		"pinyin": "shǔ",
+		"translation": "be born in the year of (one of the 12 animals)",
+		"type": "verb"
+	},
+	{
+		"chinese": "老婆",
+		"pinyin": "lǎo pó",
+		"translation": "wife",
+		"type": "noun",
+		"category": "family"
+	},
+	{
+		"chinese": "老公",
+		"pinyin": "lǎo gōng",
+		"translation": "husband",
+		"type": "noun",
+		"category": "family"
+	},
+	{
+		"chinese": "校",
+		"pinyin": "xiào",
+		"translation": "school",
+		"type": "noun"
+	},
+	{
+		"chinese": "一定",
+		"pinyin": "yī dìng",
+		"translation": "surely",
+		"type": "adverb"
+	},
+	{
+		"chinese": "就",
+		"pinyin": "jiù",
+		"translation": "just (emphasis)",
+		"type": "adverb"
+	},
+	{
+		"chinese": "认识",
+		"pinyin": "rèn shi",
+		"translation": "to know, to recognize",
+		"type": "verb"
+	},
+	{
+		"chinese": "鼠",
+		"pinyin": "shǔ",
+		"translation": "rat, mouse",
+		"type": "name",
+		"category": "animal"
+	},
+	{
+		"chinese": "牛",
+		"pinyin": "niú",
+		"translation": "buffalo",
+		"type": "name",
+		"category": "animal"
+	},
+	{
+		"chinese": "虎",
+		"pinyin": "hǔ",
+		"translation": "tiger",
+		"type": "name",
+		"category": "animal"
+	},
+	{
+		"chinese": "兔",
+		"pinyin": "tù",
+		"translation": "rabbit",
+		"type": "name",
+		"category": "animal"
+	},
+	{
+		"chinese": "龙",
+		"pinyin": "lóng",
+		"translation": "dragon",
+		"type": "name",
+		"category": "animal"
+	},
+	{
+		"chinese": "蛇",
+		"pinyin": "shé",
+		"translation": "serpent",
+		"type": "name",
+		"category": "animal"
+	},
+	{
+		"chinese": "马",
+		"pinyin": "mǎ",
+		"translation": "horse",
+		"type": "name",
+		"category": "animal"
+	},
+	{
+		"chinese": "羊",
+		"pinyin": "yáng",
+		"translation": "goat",
+		"type": "name",
+		"category": "animal"
+	},
+	{
+		"chinese": "猴",
+		"pinyin": "hóu",
+		"translation": "monkey",
+		"type": "name",
+		"category": "animal"
+	},
+	{
+		"chinese": "鸡",
+		"pinyin": "jī",
+		"translation": "chicken",
+		"type": "name",
+		"category": "animal"
+	},
+	{
+		"chinese": "狗",
+		"pinyin": "gǒu",
+		"translation": "dog",
+		"type": "name",
+		"category": "animal"
+	},
+	{
+		"chinese": "猪",
+		"pinyin": "zhū",
+		"translation": "pig",
+		"type": "name",
+		"category": "animal"
+	},
+	{
+		"chinese": "什么时候",
+		"pinyin": "shén me shí hou",
+		"translation": "when? at what time?",
+		"type": "expression"
 	}
 ]
 
