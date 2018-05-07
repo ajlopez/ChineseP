@@ -64,22 +64,42 @@ router.get('/snoun', function(req, res, next) {
 router.get('/word', function(req, res, next) {
 	var items = chinese.select({ }, 5);
 	var selected = Math.floor(Math.random() * items.length);
-	res.render('exercisep', { title: 'Words', items: items, selected: selected });
+	res.render('exercise', { title: 'Words', items: items, selected: selected });
 });
 
 /* Words level 1 */
 router.get('/word1', function(req, res, next) {
 	var items = chinese.select({ level: 1 }, 5);
 	var selected = Math.floor(Math.random() * items.length);
-	res.render('exercisep', { title: 'Words (Level 1)', items: items, selected: selected });
+	res.render('exercise', { title: 'Words (Level 1)', items: items, selected: selected });
 });
 
 /* Words level 2 */
 router.get('/word2', function(req, res, next) {
 	var items = chinese.select({ level: 2 }, 5);
 	var selected = Math.floor(Math.random() * items.length);
-	res.render('exercisep', { title: 'Words (Level 2)', items: items, selected: selected });
+	res.render('exercise', { title: 'Words (Level 2)', items: items, selected: selected });
 });
 
+/* Pinyin Words */
+router.get('/pword', function(req, res, next) {
+	var items = chinese.select({ }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercisep', { title: 'Words', items: items, selected: selected });
+});
+
+/* Pinyin Words level 1 */
+router.get('/pword1', function(req, res, next) {
+	var items = chinese.select({ level: 1 }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercisep', { title: 'Words (Level 1)', items: items, selected: selected });
+});
+
+/* Pinyin Words level 2 */
+router.get('/pword2', function(req, res, next) {
+	var items = chinese.select({ level: 2 }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercisep', { title: 'Words (Level 2)', items: items, selected: selected });
+});
 
 module.exports = router;

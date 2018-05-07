@@ -525,6 +525,13 @@
 		"type": "noun"
 	},
 	{
+		"chinese": "两",
+		"pinyin": "liǎng",
+		"translation": "two",
+		"type": "adjetive",
+		"category": "number"
+	},
+	{
 		"chinese": "旁观者",
 		"pinyin": "páng guān zhě",
 		"translation": "observer",
@@ -4046,6 +4053,56 @@
 		"pinyin": "shén me shí hou",
 		"translation": "when? at what time?",
 		"type": "expression"
+	},
+	{
+		"chinese": "哪",
+		"pinyin": "nǎ",
+		"translation": "how? which? where?",
+		"type": "question"
+	},
+	{
+		"chinese": "快",
+		"pinyin": "kuài",
+		"translation": "happy",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "快乐",
+		"pinyin": "kuài lè",
+		"translation": "happy",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "乐",
+		"pinyin": "kuài lè",
+		"translation": "happy",
+		"type": "adjetive"
+	},
+	{
+		"chinese": "边",
+		"pinyin": "biān",
+		"translation": "side",
+		"type": "noun",
+		"category": "place"
+	},
+	{
+		"chinese": "见",
+		"pinyin": "jiàn",
+		"translation": "to see",
+		"type": "verb"
+	},
+	{
+		"chinese": "那儿",
+		"pinyin": "nà r",
+		"translation": "there",
+		"type": "adverb"
+	},
+	{
+		"chinese": "儿",
+		"pinyin": "ér",
+		"translation": "son",
+		"type": "noun",
+		"category": "family"
 	}
 ]
 
