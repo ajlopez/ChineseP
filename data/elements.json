@@ -2104,7 +2104,8 @@
 		"pinyin": "àn",
 		"translation": "table",
 		"category": "mobiliary",
-		"type": "noun"
+		"type": "noun",
+		"level": 2
 	},
 	{
 		"chinese": "台",
@@ -2112,7 +2113,7 @@
 		"translation": "table",
 		"category": "mobiliary",
 		"type": "noun",
-        "level": 1
+        "level": 2
 	},
 	{
 		"chinese": "桌子",
@@ -2120,7 +2121,15 @@
 		"translation": "table",
 		"category": "mobiliary",
 		"type": "noun",
-        "level": 1
+        "level": 2
+	},
+	{
+		"chinese": "桌",
+		"pinyin": "zhuō",
+		"translation": "table",
+		"category": "mobiliary",
+		"type": "noun",
+        "level": 2
 	},
 	{
 		"chinese": "目",
@@ -4095,7 +4104,9 @@
 		"chinese": "那儿",
 		"pinyin": "nà r",
 		"translation": "there",
-		"type": "adverb"
+		"type": "adverb",
+		"level": 2,
+		"category": "place"
 	},
 	{
 		"chinese": "儿",
@@ -4103,6 +4114,76 @@
 		"translation": "son",
 		"type": "noun",
 		"category": "family"
+	},
+	{
+		"chinese": "东",
+		"pinyin": "dōng",
+		"translation": "east",
+		"type": "noun",
+		"category": "place",
+		"level": 2
+	},
+	{
+		"chinese": "西",
+		"pinyin": "xī",
+		"translation": "west",
+		"type": "noun",
+		"category": "place",
+		"level": 2
+	},
+	{
+		"chinese": "北",
+		"pinyin": "běi",
+		"translation": "north",
+		"type": "noun",
+		"category": "place",
+		"level": 2
+	},
+	{
+		"chinese": "南",
+		"pinyin": "nán",
+		"translation": "south",
+		"type": "noun",
+		"category": "place",
+		"level": 2
+	},
+	{
+		"chinese": "教室",
+		"pinyin": "jiào shì",
+		"translation": "classroom",
+		"type": "noun",
+		"level": 2
+	},
+	{
+		"chinese": "里",
+		"pinyin": "lǐ",
+		"translation": "in",
+		"type": "preposition",
+		"level": 2
+	},
+	{
+		"chinese": "这里",
+		"pinyin": "zhè lǐ",
+		"translation": "here",
+		"type": "adverb",
+		"level": 2,
+		"category": "place"
+	},
+	{
+		"chinese": "哪里",
+		"pinyin": "nǎ lǐ",
+		"translation": "where?",
+		"type": "adverb",
+		"level": 2,
+		"category": "place"
+	},
+	{
+		"chinese": "那里",
+		"pinyin": "nà li",
+		"translation": "there",
+		"type": "adverb",
+		"level": 2,
+		"category": "place"
 	}
 ]
 
