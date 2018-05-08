@@ -617,6 +617,34 @@
 		"type": "noun"
 	},
 	{
+		"chinese": "学生",
+		"pinyin": "xué sheng",
+		"translation": "student",
+		"type": "noun",
+		"level": 1
+	},
+	{
+		"chinese": "大学生",
+		"pinyin": "dà xué shēng",
+		"translation": "university student",
+		"type": "noun",
+		"level": 1
+	},
+	{
+		"chinese": "小学生",
+		"pinyin": "xiǎo xué shēng",
+		"translation": "primary school student",
+		"type": "noun",
+		"level": 1
+	},
+	{
+		"chinese": "中学生",
+		"pinyin": "zhōng xué shēng",
+		"translation": "high school student",
+		"type": "noun",
+		"level": 1
+	},
+	{
 		"chinese": "应聘者",
 		"pinyin": "yìng pìn zhě",
 		"translation": "person taking a job",
@@ -2726,7 +2754,7 @@
 		"chinese": "下水",
 		"pinyin": "xià shuǐ",
 		"translation": "to put into water",
-		"type": "noun"
+		"type": "verb"
 	},
 	{
 		"chinese": "脖",
@@ -2826,22 +2854,6 @@
 		"pinyin": "tí",
 		"translation": "to carry (hanging down from the hand)",
 		"type": "verb"
-	},
-	{
-		"chinese": "右",
-		"pinyin": "yòu",
-		"translation": "right (-hand)",
-		"category": "place",
-		"type": "adverb",
-        "level": 1
-	},
-	{
-		"chinese": "左",
-		"pinyin": "zuǒ",
-		"translation": "left (-hand)",
-		"category": "place",
-		"type": "adverb",
-        "level": 1
 	},
 	{
 		"chinese": "傍",
@@ -3697,6 +3709,30 @@
 		"level": 1
 	},
 	{
+		"chinese": "父母",
+		"pinyin": "fù mǔ",
+		"translation": "father and mother",
+		"type": "noun",
+		"category": "family",
+		"level": 2
+	},
+	{
+		"chinese": "爸爸",
+		"pinyin": "bà ba",
+		"translation": "father",
+		"type": "noun",
+		"category": "family",
+		"level": 2
+	},
+	{
+		"chinese": "妈妈",
+		"pinyin": "mā ma",
+		"translation": "mother",
+		"type": "noun",
+		"category": "family",
+		"level": 2
+	},
+	{
 		"chinese": "兄弟",
 		"pinyin": "xiōng dì",
 		"translation": "brothers",
@@ -3953,7 +3989,15 @@
 		"chinese": "校",
 		"pinyin": "xiào",
 		"translation": "school",
-		"type": "noun"
+		"type": "noun",
+		"level": 1
+	},
+	{
+		"chinese": "学校",
+		"pinyin": "xué xiào",
+		"translation": "school",
+		"type": "noun",
+		"level": 1
 	},
 	{
 		"chinese": "一定",
@@ -4155,13 +4199,6 @@
 		"level": 2
 	},
 	{
-		"chinese": "里",
-		"pinyin": "lǐ",
-		"translation": "in",
-		"type": "preposition",
-		"level": 2
-	},
-	{
 		"chinese": "这里",
 		"pinyin": "zhè lǐ",
 		"translation": "here",
@@ -4184,6 +4221,106 @@
 		"type": "adverb",
 		"level": 2,
 		"category": "place"
+	},
+	{
+		"chinese": "右",
+		"pinyin": "yòu",
+		"translation": "right (-hand)",
+		"category": "place",
+		"type": "adverb",
+        "level": 1
+	},
+	{
+		"chinese": "左",
+		"pinyin": "zuǒ",
+		"translation": "left (-hand)",
+		"category": "place",
+		"type": "adverb",
+        "level": 1
+	},
+	{
+		"chinese": "这",
+		"pinyin": "zhè",
+		"translation": "this, these",
+		"category": "place",
+		"type": "pronoun",
+        "level": 1
+	},
+	{
+		"chinese": "那",
+		"pinyin": "nà",
+		"translation": "that, those",
+		"category": "place",
+		"type": "pronoun",
+        "level": 1
+	},
+	{
+		"chinese": "外",
+		"pinyin": "wài",
+		"translation": "outside",
+		"category": "place",
+		"type": "adverb",
+        "level": 1
+	},
+	{
+		"chinese": "里",
+		"pinyin": "lǐ",
+		"translation": "inside",
+		"type": "adverb",
+		"level": 1,
+		"category": "place"
+	},
+	{
+		"chinese": "旁",
+		"pinyin": "páng",
+		"translation": "side",
+		"type": "adverb",
+		"level": 1,
+		"category": "place"
+	},
+	{
+		"chinese": "下",
+		"pinyin": "xià",
+		"translation": "down",
+		"type": "adverb",
+		"level": 1,
+		"category": "place"
+	},
+	{
+		"chinese": "上",
+		"pinyin": "shàng",
+		"translation": "on top",
+		"type": "adverb",
+		"level": 1,
+		"category": "place"
+	},
+	{
+		"chinese": "工作",
+		"pinyin": "gōng zuò",
+		"translation": "job",
+		"type": "noun",
+		"level": 1
+	},
+	{
+		"chinese": "公司",
+		"pinyin": "gōng sī",
+		"translation": "company (business)",
+		"type": "noun",
+		"level": 1
+	},
+	{
+		"chinese": "同事",
+		"pinyin": "tóng shì",
+		"translation": "co-worker",
+		"type": "noun",
+		"level": 1
+	},
+	{
+		"chinese": "门",
+		"pinyin": "mén",
+		"translation": "door",
+		"type": "noun",
+		"level": 1
 	}
 ]
 
