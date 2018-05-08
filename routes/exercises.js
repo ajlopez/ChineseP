@@ -25,11 +25,46 @@ router.get('/number', function(req, res, next) {
 	res.render('exercise', { title: 'Numbers', items: items, selected: selected });
 });
 
-/* Numbers */
+/* Time */
+router.get('/time', function(req, res, next) {
+	var items = chinese.select({ category: 'time' }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercise', { title: 'Time', items: items, selected: selected });
+});
+
+/* Family */
+router.get('/family', function(req, res, next) {
+	var items = chinese.select({ category: 'family' }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercise', { title: 'Time', items: items, selected: selected });
+});
+
+/* Food */
 router.get('/food', function(req, res, next) {
 	var items = chinese.select({ category: 'food' }, 5);
 	var selected = Math.floor(Math.random() * items.length);
 	res.render('exercise', { title: 'Food', items: items, selected: selected });
+});
+
+/* Place */
+router.get('/place', function(req, res, next) {
+	var items = chinese.select({ category: 'place' }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercise', { title: 'Place', items: items, selected: selected });
+});
+
+/* Body */
+router.get('/body', function(req, res, next) {
+	var items = chinese.select({ category: 'body' }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercise', { title: 'Body', items: items, selected: selected });
+});
+
+/* Adjetive */
+router.get('/adjetive', function(req, res, next) {
+	var items = chinese.select({ type: 'adjetive' }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercise', { title: 'Adjetives', items: items, selected: selected });
 });
 
 /* Verbs */
@@ -37,6 +72,13 @@ router.get('/verb', function(req, res, next) {
 	var items = chinese.select({ type: 'verb' }, 5);
 	var selected = Math.floor(Math.random() * items.length);
 	res.render('exercise', { title: 'Verbs', items: items, selected: selected });
+});
+
+/* Adverbs */
+router.get('/adverb', function(req, res, next) {
+	var items = chinese.select({ type: 'adverb' }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercise', { title: 'Adverbs', items: items, selected: selected });
 });
 
 /* Simple Verbs */
@@ -51,6 +93,13 @@ router.get('/noun', function(req, res, next) {
 	var items = chinese.select({ type: 'noun' }, 5);
 	var selected = Math.floor(Math.random() * items.length);
 	res.render('exercise', { title: 'Nouns', items: items, selected: selected });
+});
+
+/* Pronouns */
+router.get('/pronoun', function(req, res, next) {
+	var items = chinese.select({ type: 'pronoun' }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercise', { title: 'Pronouns', items: items, selected: selected });
 });
 
 /* Simple Nouns */
