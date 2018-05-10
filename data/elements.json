@@ -311,6 +311,13 @@
         "level": 1
 	},
 	{
+		"chinese": "走",
+		"pinyin": "zǒu",
+		"translation": "to walk",
+		"type": "verb",
+        "level": 1
+	},
+	{
 		"chinese": "行",
 		"pinyin": "xíng",
 		"translation": "to travel",
@@ -598,6 +605,13 @@
 		"pinyin": "xié dài zhě",
 		"translation": "carrier",
 		"type": "noun"
+	},
+	{
+		"chinese": "带",
+		"pinyin": "dài",
+		"translation": "to carry",
+		"type": "verb",
+		"level": 2
 	},
 	{
 		"chinese": "成年者",
@@ -1047,6 +1061,12 @@
 	{
 		"chinese": "好多",
 		"pinyin": "hǎo duō",
+		"translation": "many",
+		"type": "adjective"
+	},
+	{
+		"chinese": "多",
+		"pinyin": "duō",
 		"translation": "many",
 		"type": "adjective"
 	},
@@ -2888,6 +2908,22 @@
 		"pinyin": "jìn",
 		"translation": "near",
 		"category": "place",
+		"type": "adjetive",
+        "level": 1
+	},
+	{
+		"chinese": "远",
+		"pinyin": "yuǎn",
+		"translation": "far",
+		"category": "place",
+		"type": "adjective",
+        "level": 1
+	},
+	{
+		"chinese": "附近",
+		"pinyin": "fù jìn",
+		"translation": "near",
+		"category": "place",
 		"type": "adverb",
         "level": 1
 	},
@@ -4497,6 +4533,139 @@
 		"pinyin": "qǐ",
 		"translation": "to get up",
 		"type": "verb",
+		"level": 2
+	},
+	{
+		"chinese": "和",
+		"pinyin": "hé",
+		"translation": "and",
+		"type": "connector",
+		"level": 2
+	},
+	{
+		"chinese": "当然",
+		"pinyin": "dāngrán",
+		"translation": "of course",
+		"type": "adverb",
+		"level": 2
+	},
+	{
+		"chinese": "当",
+		"pinyin": "dāng",
+		"translation": "when",
+		"type": "adverb",
+		"level": 2
+	},
+	{
+		"chinese": "杯",
+		"pinyin": "bēi",
+		"translation": "cup",
+		"type": "classifier",
+		"level": 2
+	},
+	{
+		"chinese": "过",
+		"pinyin": "guò",
+		"translation": "to live, verb modifier",
+		"type": "verb",
+		"level": 2
+	},
+	{
+		"chinese": "餐",
+		"pinyin": "cān",
+		"translation": "meal",
+		"type": "noun",
+		"level": 2
+	},
+	{
+		"chinese": "餐",
+		"pinyin": "cān",
+		"translation": "classifier for meals",
+		"type": "classifier",
+		"level": 2
+	},
+	{
+		"chinese": "餐厅",
+		"pinyin": "cān tīng",
+		"translation": "restaurant",
+		"type": "noun",
+		"level": 2
+	},
+	{
+		"chinese": "厅",
+		"pinyin": "tīng",
+		"translation": "living room",
+		"type": "noun",
+		"level": 2
+	},
+	{
+		"chinese": "大厅",
+		"pinyin": "dà tīng",
+		"translation": "lounge",
+		"type": "noun",
+		"level": 2
+	},
+	{
+		"chinese": "迟到",
+		"pinyin": "chí dào",
+		"translation": "to arrive late",
+		"type": "verb",
+		"level": 2
+	},
+	{
+		"chinese": "街",
+		"pinyin": "jiē",
+		"translation": "street",
+		"type": "noun",
+		"level": 2
+	},
+	{
+		"chinese": "路人",
+		"pinyin": "lù rén",
+		"translation": "passerby",
+		"type": "noun",
+		"level": 2
+	},
+	{
+		"chinese": "条",
+		"pinyin": "tiáo",
+		"translation": "classifier for long thin things (ribbon, river, road, trousers etc)",
+		"type": "classifier",
+		"level": 2
+	},
+	{
+		"chinese": "再",
+		"pinyin": "zài",
+		"translation": "again",
+		"type": "adverb",
+		"level": 2
+	},
+	{
+		"chinese": "照片",
+		"pinyin": "zhào piàn",
+		"translation": "photograph",
+		"type": "noun",
+		"level": 2
+	},
+	{
+		"chinese": "护照",
+		"pinyin": "hù zhào",
+		"translation": "passport",
+		"type": "noun",
+		"level": 2
+	},
+	{
+		"chinese": "办公室",
+		"pinyin": "bàn gōng shì",
+		"translation": "office",
+		"type": "noun",
+		"level": 2
+	},
+	{
+		"chinese": "签证",
+		"pinyin": "qiān zhèng",
+		"translation": "visa",
+		"type": "noun",
 		"level": 2
 	}
 ]
