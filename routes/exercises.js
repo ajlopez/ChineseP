@@ -36,7 +36,7 @@ router.get('/time', function(req, res, next) {
 router.get('/family', function(req, res, next) {
 	var items = chinese.select({ category: 'family' }, 5);
 	var selected = Math.floor(Math.random() * items.length);
-	res.render('exercise', { title: 'Time', items: items, selected: selected });
+	res.render('exercise', { title: 'Family', items: items, selected: selected });
 });
 
 /* Food */
@@ -85,7 +85,7 @@ router.get('/adverb', function(req, res, next) {
 router.get('/sverb', function(req, res, next) {
 	var items = chinese.select({ type: 'verb', character: true }, 5);
 	var selected = Math.floor(Math.random() * items.length);
-	res.render('exercise', { title: 'Verbs', items: items, selected: selected });
+	res.render('exercise', { title: 'Simple Verbs', items: items, selected: selected });
 });
 
 /* Nouns */
