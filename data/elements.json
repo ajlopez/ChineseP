@@ -4751,6 +4751,34 @@
 		"translation": "to go out, to come out",
 		"type": "verb",
 		"level": 6
+	},
+	{
+		"chinese": "用",
+		"pinyin": "yòng",
+		"translation": "to use",
+		"type": "verb",
+		"level": 6
+	},
+	{
+		"chinese": "尔来",
+		"pinyin": "ěr lái",
+		"translation": "recently",
+		"type": "adverb",
+		"level": 6
+	},
+	{
+		"chinese": "窗口",
+		"pinyin": "chuāng kǒu",
+		"translation": "window",
+		"type": "name",
+		"level": 6
+	},
+	{
+		"chinese": "窗户",
+		"pinyin": "chuāng hu",
+		"translation": "window",
+		"type": "name",
+		"level": 6
 	}
 ]
 
