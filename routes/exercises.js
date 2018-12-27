@@ -18,6 +18,13 @@ router.get('/char1', function(req, res, next) {
 	res.render('exercise', { title: 'Characters (Level 1)', items: items, selected: selected });
 });
 
+/* Characters level 6 */
+router.get('/char6', function(req, res, next) {
+	var items = chinese.select({ character: true, level: 6 }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercise', { title: 'Characters (Level 6)', items: items, selected: selected });
+});
+
 /* Numbers */
 router.get('/number', function(req, res, next) {
 	var items = chinese.select({ category: 'number' }, 5);

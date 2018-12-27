@@ -1764,7 +1764,7 @@
 		"pinyin": "wǎng",
 		"translation": "network",
 		"type": "noun",
-        "level": 1
+        "level": 6
 	},
 	{
 		"chinese": "人",
@@ -2222,7 +2222,7 @@
 		"translation": "electricity",
 		"category": "technology",
 		"type": "noun",
-        "level": 1
+        "level": 6
 	},
 	{
 		"chinese": "电视",
@@ -3834,7 +3834,7 @@
 		"pinyin": "shì",
 		"translation": "city",
 		"type": "noun",
-		"level": 1
+		"level": 6
 	},
 	{
 		"chinese": "周一",
@@ -4230,7 +4230,7 @@
 		"translation": "east",
 		"type": "noun",
 		"category": "place",
-		"level": 2
+		"level": 6
 	},
 	{
 		"chinese": "西",
@@ -4238,7 +4238,7 @@
 		"translation": "west",
 		"type": "noun",
 		"category": "place",
-		"level": 2
+		"level": 6
 	},
 	{
 		"chinese": "北",
@@ -4246,7 +4246,7 @@
 		"translation": "north",
 		"type": "noun",
 		"category": "place",
-		"level": 2
+		"level": 6
 	},
 	{
 		"chinese": "南",
@@ -4254,7 +4254,7 @@
 		"translation": "south",
 		"type": "noun",
 		"category": "place",
-		"level": 2
+		"level": 6
 	},
 	{
 		"chinese": "教室",
@@ -4667,6 +4667,90 @@
 		"translation": "visa",
 		"type": "noun",
 		"level": 2
+	},
+	{
+		"chinese": "报纸",
+		"pinyin": "bào zhǐ",
+		"translation": "newspaper",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "应聘",
+		"pinyin": "yìng pìn",
+		"translation": "to apply for an advertised position",
+		"type": "verb",
+		"level": 6
+	},
+	{
+		"chinese": "已婚",
+		"pinyin": "yǐ hūn",
+		"translation": "married",
+		"type": "adjetive",
+		"level": 6
+	},
+	{
+		"chinese": "独身",
+		"pinyin": "dú shēn",
+		"translation": "unmarried",
+		"type": "adjetive",
+		"level": 6
+	},
+	{
+		"chinese": "完",
+		"pinyin": "wán",
+		"translation": "to finish",
+		"type": "verb",
+		"level": 6
+	},
+	{
+		"chinese": "女",
+		"pinyin": "nǚ",
+		"translation": "woman",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "话",
+		"pinyin": "huà",
+		"translation": "talk, dialect",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "怎",
+		"pinyin": "zěn",
+		"translation": "how",
+		"type": "question",
+		"level": 6
+	},
+	{
+		"chinese": "会",
+		"pinyin": "huì",
+		"translation": "to be able to",
+		"type": "verb",
+		"level": 6
+	},
+	{
+		"chinese": "会",
+		"pinyin": "huì",
+		"translation": "group",
+		"type": "name",
+		"level": 6
+	},
+	{
+		"chinese": "名",
+		"pinyin": "míng",
+		"translation": "name",
+		"type": "name",
+		"level": 6
+	},
+	{
+		"chinese": "出",
+		"pinyin": "chū",
+		"translation": "to go out, to come out",
+		"type": "verb",
+		"level": 6
 	}
 ]
 
