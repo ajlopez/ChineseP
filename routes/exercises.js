@@ -137,6 +137,13 @@ router.get('/word2', function(req, res, next) {
 	res.render('exercise', { title: 'Words (Level 2)', items: items, selected: selected });
 });
 
+/* Words level 6 */
+router.get('/word6', function(req, res, next) {
+	var items = chinese.select({ level: 6 }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercise', { title: 'Words (Level 6)', items: items, selected: selected });
+});
+
 /* Pinyin Words */
 router.get('/pword', function(req, res, next) {
 	var items = chinese.select({ }, 5);
@@ -156,6 +163,13 @@ router.get('/pword2', function(req, res, next) {
 	var items = chinese.select({ level: 2 }, 5);
 	var selected = Math.floor(Math.random() * items.length);
 	res.render('exercisep', { title: 'Words (Level 2)', items: items, selected: selected });
+});
+
+/* Pinyin Words level 6 */
+router.get('/pword6', function(req, res, next) {
+	var items = chinese.select({ level: 6 }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercisep', { title: 'Words (Level 6)', items: items, selected: selected });
 });
 
 module.exports = router;

@@ -4498,7 +4498,7 @@
 		"pinyin": "shí jiān",
 		"translation": "period, time",
 		"type": "noun",
-		"level": 2
+		"level": 6
 	},
 	{
 		"chinese": "时",
@@ -4778,6 +4778,111 @@
 		"pinyin": "chuāng hu",
 		"translation": "window",
 		"type": "name",
+		"level": 6
+	},
+	{
+		"chinese": "国外",
+		"pinyin": "guó wài",
+		"translation": "foreign, overseas",
+		"type": "adjetive",
+		"level": 6
+	},
+	{
+		"chinese": "开始",
+		"pinyin": "kāi shǐ",
+		"translation": "to begin, to start",
+		"type": "verb",
+		"level": 6
+	},
+	{
+		"chinese": "开始",
+		"pinyin": "kāi shǐ",
+		"translation": "beginning",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "小时",
+		"pinyin": "xiǎo shí",
+		"translation": "hour",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "周末",
+		"pinyin": "zhōu mò",
+		"translation": "weekend",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "重要",
+		"pinyin": "zhòng yào",
+		"translation": "important",
+		"type": "adjetive",
+		"level": 6
+	},
+	{
+		"chinese": "待遇",
+		"pinyin": "dài yù",
+		"translation": "salary",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "薪水",
+		"pinyin": "xīn shuǐ",
+		"translation": "salary, wage",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "广告",
+		"pinyin": "guǎng gào",
+		"translation": "advertisement",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "广告",
+		"pinyin": "guǎng gào",
+		"translation": "to advertise",
+		"type": "verb",
+		"level": 6
+	},
+	{
+		"chinese": "经理",
+		"pinyin": "jīng lǐ",
+		"translation": "manager",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "填写",
+		"pinyin": "tián xiě",
+		"translation": "to fill in a form",
+		"type": "verb",
+		"level": 6
+	},
+	{
+		"chinese": "张",
+		"pinyin": "zhāng",
+		"translation": "classifier for flat objects, sheet",
+		"type": "classifier",
+		"level": 6
+	},
+	{
+		"chinese": "表格",
+		"pinyin": "biǎo gé",
+		"translation": "form",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "年龄",
+		"pinyin": "nián líng",
+		"translation": "(a person) age",
+		"type": "noun",
 		"level": 6
 	}
 ]
