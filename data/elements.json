@@ -738,7 +738,8 @@
 		"chinese": "爱好",
 		"pinyin": "ài hào",
 		"translation": "hobby",
-		"type": "noun"
+		"type": "noun",
+        "level": 6
 	},
 	{
 		"chinese": "好评",
@@ -1767,6 +1768,13 @@
         "level": 6
 	},
 	{
+		"chinese": "网络",
+		"pinyin": "wǎng luò",
+		"translation": "network",
+		"type": "noun",
+        "level": 6
+	},
+	{
 		"chinese": "人",
 		"pinyin": "rén",
 		"translation": "people",
@@ -2257,7 +2265,8 @@
 		"pinyin": "diàn nǎo",
 		"translation": "computer",
 		"category": "technology",
-		"type": "noun"
+		"type": "noun",
+        "level": 6
 	},
 	{
 		"chinese": "电信",
@@ -2347,7 +2356,7 @@
 		"pinyin": "cóng",
 		"translation": "from",
 		"type": "preposition",
-		"level": 2
+		"level": 6
 	},
 	{
 		"chinese": "到",
@@ -2416,6 +2425,13 @@
 		"pinyin": "cháng",
 		"translation": "always",
 		"type": "adverb"
+	},
+	{
+		"chinese": "长",
+		"pinyin": "cháng",
+		"translation": "always",
+		"type": "adverb",
+        "level": 6
 	},
 	{
 		"chinese": "常",
@@ -4883,6 +4899,176 @@
 		"pinyin": "nián líng",
 		"translation": "(a person) age",
 		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "招聘",
+		"pinyin": "zhāo pìn",
+		"translation": "to recruit",
+		"type": "verb",
+		"level": 6
+	},
+	{
+		"chinese": "婚姻状况",
+		"pinyin": "Hūn yīn zhuàng kuàng",
+		"translation": "civil status",
+		"type": "name",
+		"level": 6
+	},
+	{
+		"chinese": "未婚",
+		"pinyin": "wèi hūn",
+		"translation": "unmarried",
+		"type": "adjetive",
+		"level": 6
+	},
+	{
+		"chinese": "地址",
+		"pinyin": "dì zhǐ",
+		"translation": "address",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "电子邮件",
+		"pinyin": "diàn zǐ yóu jiàn",
+		"translation": "email",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "区",
+		"pinyin": "qū",
+		"translation": "district",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "小老鼠",
+		"pinyin": "xiǎo lǎo shǔ",
+		"translation": "at symbol",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "点",
+		"pinyin": "diǎn",
+		"translation": "dot",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "点",
+		"pinyin": "diǎn",
+		"translation": "o'clock",
+		"type": "noun",
+        "category": "time",
+		"level": 6
+	},
+	{
+		"chinese": "职业",
+		"pinyin": "zhí yè",
+		"translation": "profession",
+		"type": "name",
+		"level": 6
+	},
+	{
+		"chinese": "学习",
+		"pinyin": "xué xí",
+		"translation": "to learn",
+		"type": "verb",
+		"level": 6
+	},
+	{
+		"chinese": "唱歌",
+		"pinyin": "chàng gē",
+		"translation": "to sing",
+		"type": "verb",
+		"level": 6
+	},
+	{
+		"chinese": "跳舞",
+		"pinyin": "tiào wǔ",
+		"translation": "to dance",
+		"type": "verb",
+		"level": 6
+	},
+	{
+		"chinese": "谈话",
+		"pinyin": "tán huà",
+		"translation": "talk",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "当地人",
+		"pinyin": "dāng dì rén",
+		"translation": "local person",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "课",
+		"pinyin": "kè",
+		"translation": "lesson, class",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "听音乐",
+		"pinyin": "tīng yīn yuè",
+		"translation": "to listen music",
+		"type": "verb",
+		"level": 6
+	},
+	{
+		"chinese": "看书",
+		"pinyin": "kàn shū",
+		"translation": "to read",
+		"type": "verb",
+		"level": 6
+	},
+	{
+		"chinese": "画图",
+		"pinyin": "huà tú",
+		"translation": "to draw",
+		"type": "verb",
+		"level": 6
+	},
+	{
+		"chinese": "离婚",
+		"pinyin": "lí hūn",
+		"translation": "divorced",
+		"type": "adjetive",
+		"level": 6
+	},
+	{
+		"chinese": "履历表",
+		"pinyin": "lǚ lì biǎo",
+		"translation": "curriculum vitae (CV)",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "长",
+		"pinyin": "cháng",
+		"translation": "long",
+		"type": "adjetive",
+		"level": 6
+	},
+	{
+		"chinese": "半",
+		"pinyin": "bàn",
+		"translation": "half",
+		"type": "adjetive",
+		"level": 6
+	},
+	{
+		"chinese": "午",
+		"pinyin": "wǔ",
+		"translation": "noon",
+		"type": "noun",
+		"category": "time",
 		"level": 6
 	}
 ]
