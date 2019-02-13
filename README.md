@@ -4,11 +4,45 @@ Chinese practice website
 
 ## Installation
 
-TBD
+Install nodejs.
+
+Run
+```
+npm install
+```
 
 ## Usage
 
-TBD
+Launch with
+```
+npm run start
+```
+
+Some exercises:
+
+- `http://localhost:3000/ex/char`: characters
+- `http://localhost:3000/ex/char1`: characters level 1
+- `http://localhost:3000/ex/char2`: characters level 2
+- `http://localhost:3000/ex/char6`: characters level 6
+- `http://localhost:3000/ex/word`: words
+- `http://localhost:3000/ex/word1`: words level 1
+- `http://localhost:3000/ex/word2`: words level 2
+- `http://localhost:3000/ex/word6`: words level 6
+- `http://localhost:3000/ex/noun`: nouns
+- `http://localhost:3000/ex/pronoun`: pronouns
+- `http://localhost:3000/ex/verb`: verbs
+- `http://localhost:3000/ex/sverb`: simple verbs
+- `http://localhost:3000/ex/adverb`: adverbs
+- `http://localhost:3000/ex/adjetives`: adjetives
+- `http://localhost:3000/ex/number`: numbers
+- `http://localhost:3000/ex/family`: family
+- `http://localhost:3000/ex/food`: food
+- `http://localhost:3000/ex/time`: time
+- `http://localhost:3000/ex/place`: places
+- `http://localhost:3000/ex/pword`: pinyin words
+- `http://localhost:3000/ex/pword1`: pinyin words level 1
+- `http://localhost:3000/ex/pword2`: pinyin words level 2
+- `http://localhost:3000/ex/pword6`: pinyin words level 3
 
 ## Samples
 

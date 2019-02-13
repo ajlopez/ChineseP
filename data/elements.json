@@ -35,6 +35,13 @@
         "level": 1
 	},
 	{
+		"chinese": "作",
+		"pinyin": "zuò",
+		"translation": "to do",
+		"type": "verb",
+        "level": 1
+	},
+	{
 		"chinese": "做",
 		"pinyin": "zuò",
 		"translation": "to make",
@@ -4380,7 +4387,7 @@
 		"pinyin": "gōng zuò",
 		"translation": "job",
 		"type": "noun",
-		"level": 1
+		"level": 6
 	},
 	{
 		"chinese": "公司",
@@ -5069,6 +5076,83 @@
 		"translation": "noon",
 		"type": "noun",
 		"category": "time",
+		"level": 6
+	},
+	{
+		"chinese": "差",
+		"pinyin": "chāi",
+		"translation": "to send",
+		"type": "verb",
+		"level": 6
+	},
+	{
+		"chinese": "差",
+		"pinyin": "chāi",
+		"translation": "mission",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "差",
+		"pinyin": "chà",
+		"translation": "wrong",
+		"type": "adjetive",
+		"level": 6
+	},
+	{
+		"chinese": "每",
+		"pinyin": "měi",
+		"translation": "each, every",
+		"type": "adjetive",
+		"level": 6
+	},
+	{
+		"chinese": "喜",
+		"pinyin": "xǐ",
+		"translation": "to like, to enjoy",
+		"type": "verb",
+		"level": 6
+	},
+	{
+		"chinese": "欢",
+		"pinyin": "huān",
+		"translation": "happy",
+		"type": "adjetive",
+		"level": 6
+	},
+	{
+		"chinese": "工",
+		"pinyin": "gōng",
+		"translation": "work",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "样",
+		"pinyin": "yàng",
+		"translation": "manner, way, pattern, appearance",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "错",
+		"pinyin": "cuò",
+		"translation": "wrong, bad",
+		"type": "adjetive",
+		"level": 6
+	},
+	{
+		"chinese": "错",
+		"pinyin": "cuò",
+		"translation": "mistake",
+		"type": "noun",
+		"level": 6
+	},
+	{
+		"chinese": "以",
+		"pinyin": "yǐ",
+		"translation": "to use",
+		"type": "verb",
 		"level": 6
 	}
 ]
