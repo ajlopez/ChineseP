@@ -456,7 +456,7 @@
 	},
 	{
 		"chinese": "因",
-		"pinyin": "yīn wèi",
+		"pinyin": "yīn",
 		"translation": "cause",
 		"type": "noun"
 	},
@@ -1623,7 +1623,7 @@
 		"translation": "color",
 		"category": "color",
 		"type": "noun",
-        "level": 1
+        "level": 6
 	},
 	{
 		"chinese": "天",
@@ -2502,7 +2502,8 @@
 		"chinese": "发",
 		"pinyin": "fā",
 		"translation": "to send out",
-		"type": "verb"
+		"type": "verb",
+        "level": 6
 	},
 	{
 		"chinese": "发",
@@ -3772,7 +3773,7 @@
 		"pinyin": "shū",
 		"translation": "book",
 		"type": "noun",
-		"level": 1
+		"level": 6
 	},
 	{
 		"chinese": "大使馆",
@@ -4323,7 +4324,7 @@
 		"pinyin": "zuǒ",
 		"translation": "left (-hand)",
 		"category": "place",
-		"type": "adverb",
+		"type": "adjetive",
         "level": 1
 	},
 	{
@@ -4514,7 +4515,7 @@
 		"pinyin": "xīn",
 		"translation": "new",
 		"type": "adjetive",
-		"level": 2
+		"level": 6
 	},
 	{
 		"chinese": "时间",
@@ -5154,6 +5155,251 @@
 		"translation": "to use",
 		"type": "verb",
 		"level": 6
+	},
+	{
+		"chinese": "英",
+		"pinyin": "yīng",
+		"translation": "hero",
+		"type": "noun",
+        "level": 6
+	},
+	{
+		"chinese": "英",
+		"pinyin": "yīng",
+		"translation": "excellent",
+		"type": "adjetive",
+        "level": 6
+	},
+	{
+		"chinese": "真",
+		"pinyin": "zhēn",
+		"translation": "really",
+		"type": "adverb",
+        "level": 6
+	},
+	{
+		"chinese": "班",
+		"pinyin": "bān",
+		"translation": "squad",
+		"type": "noun",
+        "level": 6
+	},
+	{
+		"chinese": "上班",
+		"pinyin": "shàng bān",
+		"translation": "to start work",
+		"type": "verb",
+        "level": 6
+	},
+	{
+		"chinese": "说",
+		"pinyin": "shuō",
+		"translation": "to speak",
+		"type": "verb",
+        "level": 6
+	},
+	{
+		"chinese": "给",
+		"pinyin": "gěi",
+		"translation": "to, for",
+		"type": "preposition",
+        "level": 6
+	},
+	{
+		"chinese": "给",
+		"pinyin": "gěi",
+		"translation": "to give",
+		"type": "verb",
+        "level": 6
+	},
+	{
+		"chinese": "现",
+		"pinyin": "xiàn",
+		"translation": "current",
+		"type": "adjetive",
+        "level": 6
+	},
+	{
+		"chinese": "京",
+		"pinyin": "jīng",
+		"translation": "capital city of a country",
+		"type": "noun",
+        "level": 6
+	},
+	{
+		"chinese": "住",
+		"pinyin": "zhù",
+		"translation": "to live",
+		"type": "verb",
+        "level": 6
+	},
+	{
+		"chinese": "具",
+		"pinyin": "jù",
+		"translation": "tool",
+		"type": "noun",
+        "level": 6
+	},
+	{
+		"chinese": "走",
+		"pinyin": "zǒu",
+		"translation": "to walk",
+		"type": "verb",
+        "level": 6
+	},
+	{
+		"chinese": "路",
+		"pinyin": "lù",
+		"translation": "road",
+		"type": "noun",
+        "level": 6
+	},
+	{
+		"chinese": "前",
+		"pinyin": "qián",
+		"translation": "front",
+		"type": "adjetive",
+		"category": "place",
+        "level": 6
+	},
+	{
+		"chinese": "商",
+		"pinyin": "shāng",
+		"translation": "commerce",
+		"type": "noun",
+		"category": "place",
+        "level": 6
+	},
+	{
+		"chinese": "座",
+		"pinyin": "zuò",
+		"translation": "to seat",
+		"type": "verb"
+	},
+	{
+		"chinese": "昨",
+		"pinyin": "zuó",
+		"translation": "yesterday",
+		"type": "adjetive",
+        "category": "time",
+        "level": 6
+	},
+	{
+		"chinese": "法",
+		"pinyin": "fǎ",
+		"translation": "method",
+		"type": "noun"
+	},
+	{
+		"chinese": "发现",
+		"pinyin": "fā xiàn",
+		"translation": "to discover",
+		"type": "verb",
+        "level": 6
+	},
+	{
+		"chinese": "场",
+		"pinyin": "chǎng",
+		"translation": "large place used for a specific purpose",
+		"type": "noun",
+        "level": 6
+	},
+	{
+		"chinese": "便利",
+		"pinyin": "biàn lì",
+		"translation": "convenient",
+		"type": "adjetive",
+        "level": 6
+	},
+	{
+		"chinese": "方便",
+		"pinyin": "fāng biàn",
+		"translation": "convenient",
+		"type": "adjetive",
+        "level": 6
+	},
+	{
+		"chinese": "便宜",
+		"pinyin": "pián yi",
+		"translation": "inexpensive",
+		"type": "adjetive",
+        "level": 6
+	},
+	{
+		"chinese": "以便",
+		"pinyin": "yǐ biàn",
+		"translation": "so that",
+		"type": "connector",
+        "level": 6
+	},
+	{
+		"chinese": "便",
+		"pinyin": "pián",
+		"translation": "convenient",
+		"type": "adjetive",
+        "level": 6
+	},
+	{
+		"chinese": "亿",
+		"pinyin": "yì",
+		"translation": "100 million",
+		"type": "adjetive",
+		"category": "number"
+	},
+	{
+		"chinese": "宜",
+		"pinyin": "yí",
+		"translation": "appropiate",
+		"type": "adjetive",
+        "level": 6
+	},
+	{
+		"chinese": "时候",
+		"pinyin": "shí hou",
+		"translation": "moment",
+		"type": "noun",
+		"category": "time",
+        "level": 6
+	},
+	{
+		"chinese": "候",
+		"pinyin": "hòu",
+		"translation": "season",
+		"type": "noun",
+		"category": "time",
+        "level": 6
+	},
+	{
+		"chinese": "但是",
+		"pinyin": "dàn shì",
+		"translation": "but, however",
+		"type": "connector",
+		"category": "grammar",
+        "level": 6
+	},
+	{
+		"chinese": "而且",
+		"pinyin": "ér qiě",
+		"translation": "but also, moreover",
+		"type": "connector",
+		"category": "grammar",
+        "level": 6
+	},
+	{
+		"chinese": "所以",
+		"pinyin": "suǒ yǐ",
+		"translation": "therefore",
+		"type": "connector",
+		"category": "grammar",
+        "level": 6
+	},
+	{
+		"chinese": "于是",
+		"pinyin": "yú shì",
+		"translation": "as a result, thus",
+		"type": "connector",
+		"category": "grammar",
+        "level": 6
 	}
 ]
 

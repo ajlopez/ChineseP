@@ -67,6 +67,13 @@ router.get('/body', function(req, res, next) {
 	res.render('exercise', { title: 'Body', items: items, selected: selected });
 });
 
+/* Connector */
+router.get('/connector', function(req, res, next) {
+	var items = chinese.select({ type: 'connector' }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercise', { title: 'Connectors', items: items, selected: selected });
+});
+
 /* Adjetive */
 router.get('/adjetive', function(req, res, next) {
 	var items = chinese.select({ type: 'adjetive' }, 5);
