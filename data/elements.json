@@ -5436,6 +5436,19 @@
 		"translation": "yesterday",
 		"type": "noun",
 		"category": "time"
+	},
+	{
+		"chinese": "今天",
+		"pinyin": "jīn tiān",
+		"translation": "today",
+		"type": "noun",
+		"category": "time"
+	},
+	{
+		"chinese": "作业",
+		"pinyin": "zuò yè",
+		"translation": "homework",
+		"type": "noun"
 	}
 ]
 
