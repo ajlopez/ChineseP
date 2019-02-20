@@ -2450,7 +2450,15 @@
 		"chinese": "经常",
 		"pinyin": "jīng cháng",
 		"translation": "everyday",
-		"type": "adverb"
+		"type": "adverb",
+        "category": "time"
+	},
+	{
+		"chinese": "每天",
+		"pinyin": "měi tiān",
+		"translation": "everyday",
+		"type": "adverb",
+        "category": "time"
 	},
 	{
 		"chinese": "常常",
@@ -5267,7 +5275,6 @@
 		"pinyin": "shāng",
 		"translation": "commerce",
 		"type": "noun",
-		"category": "place",
         "level": 6
 	},
 	{
@@ -5400,6 +5407,35 @@
 		"type": "connector",
 		"category": "grammar",
         "level": 6
+	},
+	{
+		"chinese": "现在",
+		"pinyin": "xiàn zài",
+		"translation": "now",
+		"type": "adverb",
+		"category": "time",
+        "level": 6
+	},
+	{
+		"chinese": "明天",
+		"pinyin": "míng tiān",
+		"translation": "tomorrow",
+		"type": "noun",
+		"category": "time"
+	},
+	{
+		"chinese": "明天",
+		"pinyin": "míng tiān",
+		"translation": "tomorrow",
+		"type": "noun",
+		"category": "time"
+	},
+	{
+		"chinese": "昨天",
+		"pinyin": "zuó tiān",
+		"translation": "yesterday",
+		"type": "noun",
+		"category": "time"
 	}
 ]
 
