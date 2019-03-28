@@ -2265,7 +2265,8 @@
 		"pinyin": "diàn huà",
 		"translation": "telephone",
 		"category": "technology",
-		"type": "noun"
+		"type": "noun",
+        "level": 7
 	},
 	{
 		"chinese": "电脑",
@@ -2607,12 +2608,6 @@
 		"chinese": "重启",
 		"pinyin": "chóng qǐ",
 		"translation": "to reopen",
-		"type": "verb"
-	},
-	{
-		"chinese": "动",
-		"pinyin": "dòng",
-		"translation": "to set in movement",
 		"type": "verb"
 	},
 	{
@@ -4802,14 +4797,14 @@
 		"chinese": "窗口",
 		"pinyin": "chuāng kǒu",
 		"translation": "window",
-		"type": "name",
+		"type": "noun",
 		"level": 6
 	},
 	{
 		"chinese": "窗户",
 		"pinyin": "chuāng hu",
 		"translation": "window",
-		"type": "name",
+		"type": "noun",
 		"level": 6
 	},
 	{
@@ -5449,6 +5444,128 @@
 		"pinyin": "zuò yè",
 		"translation": "homework",
 		"type": "noun"
+	},
+	{
+		"chinese": "公",
+		"pinyin": "gōng",
+		"translation": "public",
+		"type": "adjetive",
+		"level": 7
+	},
+	{
+		"chinese": "司",
+		"pinyin": "sī",
+		"translation": "division",
+		"type": "noun",
+		"level": 7
+	},
+	{
+		"chinese": "姐",
+		"pinyin": "jiě",
+		"translation": "sister",
+		"type": "noun",
+		"category": "family",
+		"level": 7
+	},
+	{
+		"chinese": "加",
+		"pinyin": "jiā",
+		"translation": "plus",
+		"type": "adjetive",
+		"level": 7
+	},
+	{
+		"chinese": "陈",
+		"pinyin": "chén",
+		"translation": "to display, to tell, to explain",
+		"type": "verb",
+		"level": 7
+	},
+	{
+		"chinese": "海",
+		"pinyin": "hǎi",
+		"translation": "sea, ocean",
+		"type": "noun",
+        "level": 7
+	},
+	{
+		"chinese": "慢",
+		"pinyin": "màn",
+		"translation": "slow",
+		"type": "adjetive",
+        "level": 7
+	},
+	{
+		"chinese": "曼",
+		"pinyin": "màn",
+		"translation": "handsome, large, long",
+		"type": "adjetive",
+        "level": 7
+	},
+	{
+		"chinese": "开",
+		"pinyin": "kāi",
+		"translation": "to open, to start",
+		"type": "verb",
+        "level": 7
+	},
+	{
+		"chinese": "比",
+		"pinyin": "bǐ",
+		"translation": "to compare, particle used for comparison",
+		"type": "verb",
+        "level": 7
+	},
+	{
+		"chinese": "动",
+		"pinyin": "dòng",
+		"translation": "to set in movement",
+		"type": "verb",
+        "level": 7
+	},
+	{
+		"chinese": "早",
+		"pinyin": "zǎo",
+		"translation": "early",
+		"type": "adjetive",
+        "level": 7
+	},
+	{
+		"chinese": "早上",
+		"pinyin": "zǎo shang",
+		"translation": "morning",
+		"type": "noun",
+		"category": "time",
+		"level": 2
+	},
+	{
+		"chinese": "打",
+		"pinyin": "dǎ",
+		"translation": "to beat, to strike, to make",
+		"type": "verb",
+		"level": 7
+	},
+	{
+		"chinese": "出差",
+		"pinyin": "chū chāi",
+		"translation": "to go on an official or business trip",
+		"type": "verb",
+		"level": 7
+	},
+	{
+		"chinese": "站",
+		"pinyin": "zhàn",
+		"translation": "station",
+		"category": "transport",
+		"type": "noun",
+		"level": 2
+	},
+	{
+		"chinese": "接",
+		"pinyin": "jiē",
+		"translation": "to receive",
+		"type": "verb",
+		"level": 7
 	}
 ]
 
