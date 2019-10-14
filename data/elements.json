@@ -37,14 +37,21 @@
 	{
 		"chinese": "作",
 		"pinyin": "zuò",
-		"translation": "to do",
+		"translation": "to make",
 		"type": "verb",
         "level": 1
 	},
 	{
 		"chinese": "做",
 		"pinyin": "zuò",
-		"translation": "to make",
+		"translation": "to write",
+		"type": "verb",
+        "level": 1
+	},
+	{
+		"chinese": "做",
+		"pinyin": "zuò",
+		"translation": "to become",
 		"type": "verb",
         "level": 1
 	},
@@ -5565,6 +5572,50 @@
 		"pinyin": "jiē",
 		"translation": "to receive",
 		"type": "verb",
+		"level": 7
+	},
+	{
+		"chinese": "后",
+		"pinyin": "hòu",
+		"translation": "after",
+		"type": "adverb",
+		"level": 7
+	},
+	{
+		"chinese": "以后",
+		"pinyin": "yǐ hòu",
+		"translation": "after",
+		"type": "adverb",
+		"level": 7
+	},
+	{
+		"chinese": "以前",
+		"pinyin": "yǐ qián",
+		"translation": "before",
+		"type": "adverb",
+		"level": 7
+	},
+	{
+		"chinese": "然后",
+		"pinyin": "rán hòu",
+		"translation": "then",
+		"type": "connector",
+		"level": 7
+	},
+	{
+		"chinese": "如果",
+		"pinyin": "rú guǒ",
+		"translation": "if, in case",
+		"type": "conditional",
+        "category": "grammar",
+		"level": 7
+	},
+	{
+		"chinese": "一般",
+		"pinyin": "yī bān",
+		"translation": "generally",
+		"type": "adverb",
+        "category": "grammar",
 		"level": 7
 	}
 ]
