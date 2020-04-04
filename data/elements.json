@@ -23,6 +23,30 @@
         "hsk": 1
 	},
 	{
+		"chinese": "汉语",
+		"pinyin": "hàn yǔ",
+		"translation": "chinese language",
+		"type": "name",
+        "level": 1,
+        "hsk": 1
+	},
+	{
+		"chinese": "叫",
+		"pinyin": "jiào",
+		"translation": "to call, to be called",
+		"type": "verb",
+        "level": 1,
+        "hsk": 1
+	},
+	{
+		"chinese": "很",
+		"pinyin": "hěn",
+		"translation": "very",
+		"type": "adverb",
+        "level": 1,
+        "hsk": 1
+	},
+	{
 		"chinese": "饭店",
 		"pinyin": "fàn diàn",
 		"translation": "restaurant, hotel",
@@ -225,7 +249,8 @@
 		"pinyin": "hào",
 		"translation": "good",
 		"type": "adjective",
-        "level": 1
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "不好",
@@ -869,6 +894,14 @@
 		"type": "adjective"
 	},
 	{
+		"chinese": "几",
+		"pinyin": "jǐ",
+		"translation": "how much, how many",
+		"type": "question",
+        "level": 1,
+        "hsk": 1
+	},
+	{
 		"chinese": "恰到好处",
 		"pinyin": "qià dào hǎo chù",
 		"translation": "it's just perfect",
@@ -896,13 +929,17 @@
 		"chinese": "看",
 		"pinyin": "kàn",
 		"translation": "to look",
-		"type": "verb"
+		"type": "verb",
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "看见",
 		"pinyin": "kàn jiàn",
 		"translation": "to see",
-		"type": "verb"
+		"type": "verb",
+        "level": 1,
+        "hsk": 1       
 	},
 	{
 		"chinese": "好看",
@@ -1287,6 +1324,14 @@
 		"type": "noun"
 	},
 	{
+		"chinese": "个",
+		"pinyin": "gè",
+		"translation": "classifier for people and objects in general",
+		"type": "classifier",
+        "level": 1,
+        "hsk": 1
+	},
+	{
 		"chinese": "扎",
 		"pinyin": "zhā",
 		"translation": "jug (a classifier for liquids such as beer)",
@@ -1430,6 +1475,15 @@
 		"type": "noun"
 	},
 	{
+		"chinese": "后面",
+		"pinyin": "hòu miàn",
+		"translation": "rear, back, behind",
+		"category": "place",
+		"type": "noun",
+        "level": 1,
+        "hsk": 1
+	},
+	{
 		"chinese": "中国",
 		"pinyin": "Zhōng guó",
 		"translation": "China",
@@ -1485,13 +1539,16 @@
 		"pinyin": "jiā",
 		"translation": "home",
 		"type": "noun",
-        "level": 1
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "家",
 		"pinyin": "jiā",
 		"translation": "family",
-		"type": "noun"
+		"type": "noun",
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "番",
@@ -1733,7 +1790,8 @@
 		"translation": "day of a month",
 		"category": "time",
 		"type": "noun",
-        "level": 1
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "天",
@@ -2010,7 +2068,8 @@
 		"translation": "nine",
 		"category": "number",
 		"type": "adjective",
-        "level": 1
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "十",
@@ -2766,6 +2825,14 @@
         "hsk": 1
 	},
 	{
+		"chinese": "喝",
+		"pinyin": "hē",
+		"translation": "to drink",
+		"type": "verb",
+        "level": 1,
+        "hsk": 1
+	},
+	{
 		"chinese": "吃饭",
 		"pinyin": "chī fàn",
 		"translation": "to have a meal",
@@ -2896,7 +2963,8 @@
 		"pinyin": "fēi jī",
 		"translation": "airplane",
 		"category": "transport",
-		"type": "noun"
+		"type": "noun",
+        "hsk": 1
 	},
 	{
 		"chinese": "坐",
@@ -3474,6 +3542,22 @@
 		"translation": "what's the matter?/what's going on?",
 		"category": "question",
 		"type": "phrase"
+	},
+	{
+		"chinese": "回",
+		"pinyin": "huí",
+		"translation": "to go back, to turn around",
+		"type": "verb",
+        "level": 1,
+        "hsk": 1
+	},
+	{
+		"chinese": "回",
+		"pinyin": "huí",
+		"translation": "classifier for acts of play",
+		"type": "classifier",
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "事业",
@@ -4323,7 +4407,9 @@
 		"pinyin": "gǒu",
 		"translation": "dog",
 		"type": "name",
-		"category": "animal"
+		"category": "animal",
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "猪",
@@ -4530,7 +4616,8 @@
 		"pinyin": "gōng zuò",
 		"translation": "job",
 		"type": "noun",
-		"level": 6
+		"level": 6,
+        "hsk": 1
 	},
 	{
 		"chinese": "公司",
@@ -4706,7 +4793,8 @@
 		"pinyin": "hé",
 		"translation": "and",
 		"type": "connector",
-		"level": 2
+		"level": 2,
+       "hsk": 1
 	},
 	{
 		"chinese": "当然",
@@ -4904,14 +4992,16 @@
 		"pinyin": "huì",
 		"translation": "to be able to",
 		"type": "verb",
-		"level": 6
+		"level": 6,
+        "hsk": 1
 	},
 	{
 		"chinese": "会",
 		"pinyin": "huì",
-		"translation": "group",
+		"translation": "group, association",
 		"type": "name",
-		"level": 6
+		"level": 6,
+        "hsk": 1
 	},
 	{
 		"chinese": "名",
@@ -4981,7 +5071,25 @@
 		"pinyin": "xiǎo shí",
 		"translation": "hour",
 		"type": "noun",
+        "category": "time",
 		"level": 6
+	},
+	{
+		"chinese": "分钟",
+		"pinyin": "fēn zhōng",
+		"translation": "minute",
+		"type": "noun",
+        "category": "time",
+		"level": 6,
+        "hsk": 1
+	},
+	{
+		"chinese": "高兴",
+		"pinyin": "gāo xìng",
+		"translation": "happy, glad",
+		"type": "adjetive",
+		"level": 6,
+        "hsk": 1
 	},
 	{
 		"chinese": "周末",
@@ -5595,7 +5703,9 @@
 		"pinyin": "jīn tiān",
 		"translation": "today",
 		"type": "noun",
-		"category": "time"
+		"category": "time",
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "作业",
@@ -5663,9 +5773,10 @@
 	{
 		"chinese": "开",
 		"pinyin": "kāi",
-		"translation": "to open, to start",
+		"translation": "to open, to start, to operate, to turn on",
 		"type": "verb",
-        "level": 7
+        "level": 7,
+        "hsk": 1
 	},
 	{
 		"chinese": "比",
