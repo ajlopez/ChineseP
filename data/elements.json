@@ -11,7 +11,8 @@
 		"pinyin": "ài",
 		"translation": "to love",
 		"type": "verb",
-        "level": 1
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "买",
@@ -1452,7 +1453,32 @@
 		"pinyin": "Běi jīng",
 		"translation": "Beijing",
 		"category": "city",
-		"type": "noun"
+		"type": "noun",
+        "hsk": 1
+	},
+	{
+		"chinese": "本",
+		"pinyin": "běn",
+		"translation": "root, foundation, basis",
+		"type": "noun",
+        "level": 1,
+        "hsk": 1
+	},
+	{
+		"chinese": "不客气",
+		"pinyin": "bú kè qi",
+		"translation": "you're welcome",
+		"type": "expression",
+        "level": 1,
+        "hsk": 1
+	},
+	{
+		"chinese": "本",
+		"pinyin": "běn",
+		"translation": "classifier for books, periodicals, files",
+		"type": "classifier",
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "上海",
@@ -1913,7 +1939,8 @@
 		"translation": "eight",
 		"category": "number",
 		"type": "adjective",
-        "level": 1
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "九",
@@ -3813,7 +3840,17 @@
 		"translation": "father",
 		"type": "noun",
 		"category": "family",
-		"level": 2
+		"level": 2,
+        "hsk": 1
+	},
+	{
+		"chinese": "爸",
+		"pinyin": "bà",
+		"translation": "father",
+		"type": "noun",
+		"category": "family",
+		"level": 2,
+        "hsk": 1
 	},
 	{
 		"chinese": "妈妈",
@@ -4595,7 +4632,16 @@
 		"pinyin": "bēi",
 		"translation": "cup",
 		"type": "classifier",
-		"level": 2
+		"level": 2,
+        "hsk": 1
+	},
+	{
+		"chinese": "杯子",
+		"pinyin": "bēi zi",
+		"translation": "cup, glass",
+		"type": "name",
+		"level": 2,
+        "hsk": 1
 	},
 	{
 		"chinese": "过",
