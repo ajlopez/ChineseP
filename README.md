@@ -20,6 +20,7 @@ npm run start
 
 Some exercises:
 
+- `http://localhost:3000/ex/hsk1`: HSK 1 vocabulary
 - `http://localhost:3000/ex/char`: characters
 - `http://localhost:3000/ex/char1`: characters level 1
 - `http://localhost:3000/ex/char2`: characters level 2

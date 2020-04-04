@@ -15,6 +15,14 @@
         "hsk": 1
 	},
 	{
+		"chinese": "菜",
+		"pinyin": "cài",
+		"translation": "dish (type of food), vegetables, cuisine",
+		"type": "noun",
+        "level": 1,
+        "hsk": 1
+	},
+	{
 		"chinese": "买",
 		"pinyin": "mǎi",
 		"translation": "to buy",
@@ -1250,7 +1258,8 @@
 		"translation": "tea",
 		"category": "beverage",
 		"type": "noun",
-        "level": 1
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "茶会",
@@ -1457,18 +1466,18 @@
         "hsk": 1
 	},
 	{
-		"chinese": "本",
-		"pinyin": "běn",
-		"translation": "root, foundation, basis",
-		"type": "noun",
-        "level": 1,
-        "hsk": 1
-	},
-	{
 		"chinese": "不客气",
 		"pinyin": "bú kè qi",
 		"translation": "you're welcome",
 		"type": "expression",
+        "level": 1,
+        "hsk": 1
+	},
+	{
+		"chinese": "本",
+		"pinyin": "běn",
+		"translation": "root, foundation, basis",
+		"type": "noun",
         "level": 1,
         "hsk": 1
 	},
@@ -1546,7 +1555,8 @@
 		"pinyin": "bù",
 		"translation": "no/not",
 		"type": "prefix",
-        "level": 1
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "是的",
@@ -2685,7 +2695,8 @@
 		"pinyin": "chī",
 		"translation": "to eat",
 		"type": "verb",
-        "level": 1
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "吃饭",
@@ -2722,7 +2733,16 @@
 		"translation": "taxi",
 		"category": "transport",
 		"type": "noun",
-		"level": 2
+		"level": 2,
+        "hsk": 1
+	},
+	{
+		"chinese": "打电话",
+		"pinyin": "dǎ diàn huà",
+		"translation": "to make a phone call",
+		"type": "verb",
+		"level": 2,
+        "hsk": 1
 	},
 	{
 		"chinese": "开车",
@@ -3372,6 +3392,14 @@
 		"pinyin": "dà shì",
 		"translation": "major event",
 		"type": "noun"
+	},
+	{
+		"chinese": "大",
+		"pinyin": "dà",
+		"translation": "big, huge, large, major, great, wide",
+		"type": "adjective",
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "怎么回事",
