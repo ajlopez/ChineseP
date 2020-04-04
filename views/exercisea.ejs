@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+	<p style="font-size: 40pt"><%= items[selected].chinese %></p>
+    <iframe src="https://www.hsk.academy/static/audio/mp3/words/<%= items[selected].chinese %>.mp3" allow="autoplay" style="display:none"  type="audio/mp3">
+    </iframe>
+    <!--
+    <audio autoplay>
+        <source src="https://www.hsk.academy/static/audio/mp3/words/<%= items[selected].chinese %>.mp3" type="audio/mp3">
+        <source src="https://www.hsk.academy/static/audio/ogg/words/<%= items[selected].chinese %>.ogg" type="audio/ogg">
+    </audio>
+	-->
+	<ul style="font-size: 20pt">
+	<% for (n in items) { %>
+		<li><%= items[n].translation %> (<%= items[n].pinyin %>) <%= n == selected ? "***" : "" %></li>
+	<% } %>
+	</ul>
+  </body>
+</html>
