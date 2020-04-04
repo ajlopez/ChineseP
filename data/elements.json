@@ -23,6 +23,14 @@
         "hsk": 1
 	},
 	{
+		"chinese": "饭店",
+		"pinyin": "fàn diàn",
+		"translation": "restaurant, hotel",
+		"type": "noun",
+        "level": 1,
+        "hsk": 1
+	},
+	{
 		"chinese": "都",
 		"pinyin": "dōu",
 		"translation": "all, both, each, even, already",
@@ -323,6 +331,14 @@
 		"pinyin": "dú zhě",
 		"translation": "reader",
 		"type": "noun"
+	},
+	{
+		"chinese": "读",
+		"pinyin": "dú",
+		"translation": "to read, to study",
+		"type": "verb",
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "患者",
@@ -1108,7 +1124,17 @@
 		"chinese": "多",
 		"pinyin": "duō",
 		"translation": "many",
-		"type": "adjective"
+		"type": "adjective",
+        "level": 1,
+        "hsk": 1
+	},
+	{
+		"chinese": "多少",
+		"pinyin": "duō shǎo",
+		"translation": "how much, how many",
+		"type": "question",
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "好康",
@@ -1485,6 +1511,14 @@
 		"chinese": "不客气",
 		"pinyin": "bú kè qi",
 		"translation": "you're welcome",
+		"type": "expression",
+        "level": 1,
+        "hsk": 1
+	},
+	{
+		"chinese": "对不起",
+		"pinyin": "duì bu qǐ",
+		"translation": "i'm sorry",
 		"type": "expression",
         "level": 1,
         "hsk": 1
@@ -1918,7 +1952,8 @@
 		"translation": "two",
 		"category": "number",
 		"type": "adjective",
-        "level": 1
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "三",
@@ -2284,7 +2319,17 @@
 		"translation": "son",
 		"category": "family",
 		"type": "noun",
-        "level": 1
+        "level": 1,
+        "hsk": 1
+	},
+	{
+		"chinese": "儿子",
+		"pinyin": "ér zi",
+		"translation": "son",
+		"category": "family",
+		"type": "noun",
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "子",
