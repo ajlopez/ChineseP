@@ -15,6 +15,22 @@
         "hsk": 1
 	},
 	{
+		"chinese": "东西",
+		"pinyin": "dōng xi",
+		"translation": "thing, stuff",
+		"type": "noun",
+        "level": 1,
+        "hsk": 1
+	},
+	{
+		"chinese": "都",
+		"pinyin": "dōu",
+		"translation": "all, both, each, even, already",
+		"type": "adjetive",
+        "level": 1,
+        "hsk": 1
+	},
+	{
 		"chinese": "菜",
 		"pinyin": "cài",
 		"translation": "dish (type of food), vegetables, cuisine",
@@ -1588,7 +1604,8 @@
 		"pinyin": "de",
 		"translation": "of, 's (possesive article)",
 		"type": "article",
-        "level": 1
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "苹果",
@@ -2288,14 +2305,18 @@
 		"pinyin": "diàn shì",
 		"translation": "televisor",
 		"category": "technology",
-		"type": "noun"
+		"type": "noun",
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "电影",
 		"pinyin": "diàn yǐng",
 		"translation": "movie",
 		"category": "technology",
-		"type": "noun"
+		"type": "noun",
+        "level": 1,
+        "hsk": 1
 	},
 	{
 		"chinese": "家电",
@@ -2318,7 +2339,8 @@
 		"translation": "computer",
 		"category": "technology",
 		"type": "noun",
-        "level": 6
+        "level": 6,
+        "hsk": 1
 	},
 	{
 		"chinese": "电信",
@@ -5045,9 +5067,18 @@
 	{
 		"chinese": "点",
 		"pinyin": "diǎn",
-		"translation": "dot",
+		"translation": "dot, a bit, a little, decimal point",
 		"type": "noun",
-		"level": 6
+		"level": 6,
+        "hsk": 1
+	},
+	{
+		"chinese": "点",
+		"pinyin": "diǎn",
+		"translation": "classifier for small indeterminate quantities",
+		"type": "classifier",
+		"level": 6,
+        "hsk": 1
 	},
 	{
 		"chinese": "点",
@@ -5055,7 +5086,8 @@
 		"translation": "o'clock",
 		"type": "noun",
         "category": "time",
-		"level": 6
+		"level": 6,
+        "hsk": 1
 	},
 	{
 		"chinese": "职业",
