@@ -1,9 +1,9 @@
 
-var chinese = require('../lib/chinese');
-var sl = require('simplelists');
+const chinese = require('../lib/chinese');
+const sl = require('simplelists');
 
 exports['get empty list'] = function(test) {
-    var list = chinese.list();
+    const list = chinese.list();
     
     test.ok(list);
     test.ok(Array.isArray(list));
@@ -12,7 +12,8 @@ exports['get empty list'] = function(test) {
 
 exports['load elements and get non empty list'] = function(test) {
 	chinese.load('../data/elements.json');
-    var list = chinese.list();
+    
+    const list = chinese.list();
     
     test.ok(list);
     test.ok(Array.isArray(list));
@@ -20,7 +21,7 @@ exports['load elements and get non empty list'] = function(test) {
 }
 
 exports['get coffee element'] = function(test) {
-    var list = chinese.list({ translation: 'coffee' });
+    const list = chinese.list({ translation: 'coffee' });
     
     test.ok(list);
     test.ok(Array.isArray(list));
@@ -28,7 +29,7 @@ exports['get coffee element'] = function(test) {
 }
 
 exports['get elements by category'] = function(test) {
-    var list = chinese.list({ category: 'beverage' });
+    const list = chinese.list({ category: 'beverage' });
     
     test.ok(list);
     test.ok(Array.isArray(list));
@@ -36,7 +37,7 @@ exports['get elements by category'] = function(test) {
 }
 
 exports['select elements'] = function(test) {
-    var list = chinese.select({ category: 'beverage' }, 3);
+    const list = chinese.select({ category: 'beverage' }, 3);
     
     test.ok(list);
     test.ok(Array.isArray(list));
@@ -45,33 +46,36 @@ exports['select elements'] = function(test) {
 }
 
 exports['select by character'] = function(test) {
-    var list = chinese.select({ character: '水' }, 3);
+    const list = chinese.select({ character: '水' }, 3);
     
     test.ok(list);
     test.ok(Array.isArray(list));
     test.equal(list.length, 3);
+    
 	test.ok(sl.all(list, function (item) {
 		return item.chinese && item.chinese.indexOf('水') >= 0;
 	}));
 }
 
 exports['select characters'] = function(test) {
-    var list = chinese.select({ character: true }, 3);
+    const list = chinese.select({ character: true }, 3);
     
     test.ok(list);
     test.ok(Array.isArray(list));
     test.equal(list.length, 3);
+    
 	test.ok(sl.all(list, function (item) {
 		return item.chinese && item.chinese.length === 1;
 	}));
 }
 
 exports['select by text'] = function(test) {
-    var list = chinese.select({ text: 'water' }, 3);
+    const list = chinese.select({ text: 'water' }, 3);
     
     test.ok(list);
     test.ok(Array.isArray(list));
     test.equal(list.length, 3);
+    
 	test.ok(sl.all(list, function (item) {
 		return item.translation && item.translation.indexOf('water') >= 0;
 	}));
@@ -79,7 +83,8 @@ exports['select by text'] = function(test) {
 
 exports['clear elements'] = function(test) {
     chinese.clear();
-    var list = chinese.list();
+    
+    const list = chinese.list();
     
     test.ok(list);
     test.ok(Array.isArray(list));
