@@ -1,10 +1,10 @@
 
-var elements = require('../lib/elements');
-var sl = require('simplelists');
+const elements = require('../lib/elements');
+const sl = require('simplelists');
 
 exports['get empty list'] = function(test) {
-    var elems = elements.elements();
-    var list = elems.list();
+    const elems = elements.elements();
+    const list = elems.list();
     
     test.ok(list);
     test.ok(Array.isArray(list));
@@ -12,15 +12,15 @@ exports['get empty list'] = function(test) {
 }
 
 exports['add element'] = function(test) {
-    var elems = elements.elements();
+    const elems = elements.elements();
 
-    var element = {
+    const element = {
         translation: "I'm fine"
     };
     
     elems.add(element);
     
-    var list = elems.list();
+    const list = elems.list();
     
     test.ok(list);
     test.ok(Array.isArray(list));
@@ -29,12 +29,12 @@ exports['add element'] = function(test) {
 }
 
 exports['add and retrieve element'] = function(test) {
-    var elems = elements.elements();
+    const elems = elements.elements();
     
-    var element1 = {
+    const element1 = {
         translation: "I'm fine"
     };
-    var element2 = {
+    const element2 = {
         translation: "wo",
         type: "pronoun"
     };
@@ -42,7 +42,7 @@ exports['add and retrieve element'] = function(test) {
     elems.add(element1);
     elems.add(element2);
     
-    var list = elems.list({ type: "pronoun" });
+    const list = elems.list({ type: "pronoun" });
     
     test.ok(list);
     test.ok(Array.isArray(list));
@@ -52,9 +52,9 @@ exports['add and retrieve element'] = function(test) {
 }
 
 exports['clear and get empty list'] = function(test) {
-    var elems = elements.elements();
+    const elems = elements.elements();
     
-    var list = elems.list();
+    const list = elems.list();
     
     test.ok(list);
     test.ok(Array.isArray(list));
@@ -62,9 +62,9 @@ exports['clear and get empty list'] = function(test) {
 }
 
 exports['add elements'] = function(test) {
-    var elems = elements.elements();
+    const elems = elements.elements();
     
-    var elemlist = [
+    const elemlist = [
         {
             translation: "I'm fine"
         },
@@ -75,7 +75,7 @@ exports['add elements'] = function(test) {
     
     elems.add(elemlist);
     
-    var list = elems.list();
+    const list = elems.list();
     
     test.ok(list);
     test.ok(Array.isArray(list));
@@ -85,12 +85,12 @@ exports['add elements'] = function(test) {
 }
 
 exports['select elements'] = function(test) {
-    var elems = elements.elements();
+    const elems = elements.elements();
     
-    for (var k = 1; k < 20; k++)
+    for (let k = 1; k < 20; k++)
         elems.add({ title: 'Element ' + k, value: k });
     
-    var result = elems.select(function (el) { return el.value % 2 == 0 }, 4);
+    const result = elems.select(function (el) { return el.value % 2 == 0 }, 4);
     
     test.ok(result);
     test.ok(Array.isArray(result));
