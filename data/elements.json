@@ -73,6 +73,94 @@
         "pcr": 15
 	},
 	{
+		"chinese": "把",
+		"pinyin": "bǎ",
+		"translation": "denoting the disposal of something",
+		"type": "preposition",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "忘",
+		"pinyin": "wàng",
+		"translation": "to forget",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "图书馆",
+		"pinyin": "tú shū guǎn",
+		"translation": "library",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "馆",
+		"pinyin": "guǎn",
+		"translation": "place for cultural activities",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "办公室",
+		"pinyin": "bàn gōng shì",
+		"translation": "office",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "室",
+		"pinyin": "shì",
+		"translation": "room",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "上",
+		"pinyin": "shàng",
+		"translation": "to get on",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "先",
+		"pinyin": "xiān",
+		"translation": "first",
+		"type": "adverb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "借书证",
+		"pinyin": "jiè shū zhèng",
+		"translation": "library card",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "借",
+		"pinyin": "jiè",
+		"translation": "to borrow",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "办公",
+		"pinyin": "bàn gōng",
+		"translation": "to work (in an office)",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
 		"chinese": "买",
 		"pinyin": "mǎi",
 		"translation": "to buy",
