@@ -2222,7 +2222,8 @@
 		"translation": "one thousand",
 		"category": "number",
 		"type": "adjective",
-        "level": 1
+        "level": 1,
+        "pcr": 15
 	},
 	{
 		"chinese": "万",
@@ -3472,7 +3473,40 @@
 		"pinyin": "shù",
 		"translation": "to count",
 		"category": "number",
-		"type": "verb"
+		"type": "verb",
+		"pcr": 15
+	},
+	{
+		"chinese": "王府井",
+		"pinyin": "wáng fǔ jǐng",
+		"translation": "Wang Fu Jing, famous commercial district in Beijing",
+		"type": "name",
+		"level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "西安",
+		"pinyin": "xī ān",
+		"translation": "Xi'an, capital of Shaanxi province",
+		"type": "name",
+		"level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "还久不见",
+		"pinyin": "hái jiǔ bù jiàn",
+		"translation": "long time no see",
+		"type": "expression",
+		"level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "还久",
+		"pinyin": "hái jiǔ",
+		"translation": "a very long time",
+		"type": "expression",
+		"level": 8,
+		"pcr": 15
 	},
 	{
 		"chinese": "数字",
@@ -4407,8 +4441,10 @@
 	{
 		"chinese": "就",
 		"pinyin": "jiù",
-		"translation": "just (emphasis)",
-		"type": "adverb"
+		"translation": "exactly, just (emphasis)",
+		"type": "adverb",
+		"level": 8,
+		"pcr": 15
 	},
 	{
 		"chinese": "认识",
@@ -4543,7 +4579,33 @@
 		"chinese": "见",
 		"pinyin": "jiàn",
 		"translation": "to see",
-		"type": "verb"
+		"type": "verb",
+		"level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "发展",
+		"pinyin": "fā zhǎn",
+		"translation": "to develop",
+		"type": "verb",
+		"level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "发展",
+		"pinyin": "fā zhǎn",
+		"translation": "to develop",
+		"type": "verb",
+		"level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "快",
+		"pinyin": "kuài",
+		"translation": "fast",
+		"type": "adverb",
+		"level": 8,
+		"pcr": 15
 	},
 	{
 		"chinese": "那儿",
@@ -4865,6 +4927,30 @@
 		"pcr": 15
     },
 	{
+		"chinese": "该",
+		"pinyin": "gāi",
+		"translation": "be one's turn",
+		"type": "verb",
+		"level": 8,
+		"pcr": 15
+    },
+	{
+		"chinese": "工作人员",
+		"pinyin": "gōng zuò rén yuán",
+		"translation": "staff member",
+		"type": "name",
+		"level": 8,
+		"pcr": 15
+    },
+	{
+		"chinese": "人员",
+		"pinyin": "rén yuán",
+		"translation": "personnel, staff",
+		"type": "name",
+		"level": 8,
+		"pcr": 15
+    },
+	{
 		"chinese": "新",
 		"pinyin": "xīn",
 		"translation": "new",
@@ -5103,7 +5189,48 @@
 		"pinyin": "huà",
 		"translation": "talk, dialect",
 		"type": "noun",
-		"level": 6
+		"level": 6,
+		"pcr": 15
+	},
+	{
+		"chinese": "普通话",
+		"pinyin": "pǔ tōng huà",
+		"translation": "mandarin",
+		"type": "noun",
+		"level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "年轻",
+		"pinyin": "nián qīng",
+		"translation": "young",
+		"type": "adjetive",
+		"level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "轻",
+		"pinyin": "qīng",
+		"translation": "small",
+		"type": "adjective",
+		"level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "流利",
+		"pinyin": "liú lì",
+		"translation": "fluent",
+		"type": "adjective",
+		"level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "懂",
+		"pinyin": "dǒng",
+		"translation": "to understand",
+		"type": "verb",
+		"level": 8,
+		"pcr": 15
 	},
 	{
 		"chinese": "怎",
