@@ -129,6 +129,270 @@
         "pcr": 16
 	},
 	{
+		"chinese": "下",
+		"pinyin": "xià",
+		"translation": "to go down",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "带",
+		"pinyin": "dài",
+		"translation": "to bring, to carry",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "填",
+		"pinyin": "tián",
+		"translation": "to fill in, to write",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "表",
+		"pinyin": "biǎo",
+		"translation": "form, table, list",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "拿",
+		"pinyin": "ná",
+		"translation": "to take, to hold, to get",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "慢",
+		"pinyin": "màn",
+		"translation": "slow",
+		"type": "adjective",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "不行",
+		"pinyin": "bù xíng",
+		"translation": "not to be allowed",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "生活",
+		"pinyin": "shēng huó",
+		"translation": "life",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "生活",
+		"pinyin": "shēng huó",
+		"translation": "to live",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "自己",
+		"pinyin": "zì jǐ",
+		"translation": "oneself",
+		"type": "pronoun",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "姓名",
+		"pinyin": "xìng míng",
+		"translation": "name",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "性别",
+		"pinyin": "xìng bié",
+		"translation": "gender",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "职业",
+		"pinyin": "zhí yè",
+		"translation": "occupation",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "交",
+		"pinyin": "jiāo",
+		"translation": "to pay",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "长",
+		"pinyin": "zhǎng",
+		"translation": "long",
+		"type": "adjective",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "考试",
+		"pinyin": "kǎo shì",
+		"translation": "examination",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "考",
+		"pinyin": "kǎo",
+		"translation": "to give or take examination",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "不错",
+		"pinyin": "bù cuò",
+		"translation": "not bad",
+		"type": "adjective",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "翻译",
+		"pinyin": "fān yì",
+		"translation": "to translate",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "新",
+		"pinyin": "xīn",
+		"translation": "new",
+		"type": "adjective",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "课本",
+		"pinyin": "kè běn",
+		"translation": "textbook",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "出",
+		"pinyin": "chū",
+		"translation": "to go or come out",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "还",
+		"pinyin": "huán",
+		"translation": "to return",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "过期",
+		"pinyin": "guó qí",
+		"translation": "to be overdue",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "期",
+		"pinyin": "qí",
+		"translation": "period of time",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "过",
+		"pinyin": "guó",
+		"translation": "to pass",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "罚款",
+		"pinyin": "fá kuǎn",
+		"translation": "to fine",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "罚",
+		"pinyin": "fá",
+		"translation": "to punish",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "电脑",
+		"pinyin": "diàn nǎo",
+		"translation": "computer",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "脑",
+		"pinyin": "nǎo",
+		"translation": "brain",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "电",
+		"pinyin": "diàn",
+		"translation": "electricity",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "查",
+		"pinyin": "chá",
+		"translation": "to check, to look up",
+		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "实用",
+		"pinyin": "shí yòng",
+		"translation": "practical",
+		"type": "adjective",
+        "level": 8,
+        "pcr": 16
+	},
+	{
 		"chinese": "先",
 		"pinyin": "xiān",
 		"translation": "first",
@@ -145,10 +409,26 @@
         "pcr": 16
 	},
 	{
+		"chinese": "证",
+		"pinyin": "zhèng",
+		"translation": "card",
+		"type": "name",
+        "level": 8,
+        "pcr": 16
+	},
+	{
 		"chinese": "借",
 		"pinyin": "jiè",
 		"translation": "to borrow",
 		"type": "verb",
+        "level": 8,
+        "pcr": 16
+	},
+	{
+		"chinese": "一会儿",
+		"pinyin": "yī huǐ er",
+		"translation": "a while",
+		"type": "expression",
         "level": 8,
         "pcr": 16
 	},
