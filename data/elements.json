@@ -2185,6 +2185,14 @@
 		"type": "noun"
 	},
 	{
+		"chinese": "刚",
+		"pinyin": "gāng",
+		"translation": "just",
+		"type": "adverb",
+		"level": 8,
+		"pcr": 15
+	},
+	{
 		"chinese": "化石",
 		"pinyin": "huà shí",
 		"translation": "fossil",
@@ -2534,7 +2542,24 @@
 		"pinyin": "cóng",
 		"translation": "from",
 		"type": "preposition",
-		"level": 6
+		"level": 6,
+		"pcr": 15
+	},
+	{
+		"chinese": "非常",
+		"pinyin": "fēi cháng",
+		"translation": "very much",
+		"type": "adverb",
+		"level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "次",
+		"pinyin": "cì",
+		"translation": "times",
+		"type": "name",
+		"level": 8,
+		"pcr": 15
 	},
 	{
 		"chinese": "到",
@@ -3349,7 +3374,66 @@
 		"pinyin": "shǎo",
 		"translation": "few",
 		"type": "adjetive",
-        "level": 1
+        "level": 1,
+		"pcr": 15
+	},
+	{
+		"chinese": "排队",
+		"pinyin": "pái duì",
+		"translation": "queue",
+		"type": "name",
+        "level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "队",
+		"pinyin": "duì",
+		"translation": "a row of people, line",
+		"type": "name",
+        "level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "换",
+		"pinyin": "huàn",
+		"translation": "change",
+		"type": "name",
+        "level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "英镑",
+		"pinyin": "yīng bàng",
+		"translation": "sterling pound",
+		"type": "name",
+		"category": "currency",
+        "level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "人民币",
+		"pinyin": "rén mín bì",
+		"translation": "ren min bi",
+		"type": "name",
+		"category": "currency",
+        "level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "人民",
+		"pinyin": "rén mín",
+		"translation": "people",
+		"type": "name",
+        "level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "排",
+		"pinyin": "pái",
+		"translation": "to arrange, to put in order",
+		"type": "verb",
+        "level": 8,
+		"pcr": 15
 	},
 	{
 		"chinese": "少",
@@ -4737,8 +4821,49 @@
 		"pinyin": "dé",
 		"translation": "to get, to obtain",
 		"type": "verb",
-		"level": 2
-	},
+		"level": 2,
+		"pcr": 15
+    },
+	{
+		"chinese": "参观",
+		"pinyin": "cān guān",
+		"translation": "to visit",
+		"type": "verb",
+		"level": 8,
+		"pcr": 15
+    },
+	{
+		"chinese": "兵马俑",
+		"pinyin": "bīng mǎ yǒng",
+		"translation": "terracotta warriors",
+		"type": "name",
+		"level": 8,
+		"pcr": 15
+    },
+	{
+		"chinese": "兵",
+		"pinyin": "bīng",
+		"translation": "soldier",
+		"type": "name",
+		"level": 8,
+		"pcr": 15
+    },
+	{
+		"chinese": "明信片",
+		"pinyin": "míng xìn piàn",
+		"translation": "postcard",
+		"type": "name",
+		"level": 8,
+		"pcr": 15
+    },
+	{
+		"chinese": "信",
+		"pinyin": "xìn",
+		"translation": "letter",
+		"type": "name",
+		"level": 8,
+		"pcr": 15
+    },
 	{
 		"chinese": "新",
 		"pinyin": "xīn",
@@ -5022,7 +5147,8 @@
 		"pinyin": "yòng",
 		"translation": "to use",
 		"type": "verb",
-		"level": 6
+		"level": 6,
+		"pcr": 15
 	},
 	{
 		"chinese": "尔来",
@@ -5797,7 +5923,16 @@
 		"pinyin": "zǎo",
 		"translation": "early",
 		"type": "adjetive",
-        "level": 7
+        "level": 7,
+        "pcr": 15
+	},
+	{
+		"chinese": "银行",
+		"pinyin": "yín háng",
+		"translation": "bank",
+		"type": "noun",
+        "level": 8,
+        "pcr": 15
 	},
 	{
 		"chinese": "早上",
