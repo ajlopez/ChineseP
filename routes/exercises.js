@@ -25,6 +25,13 @@ router.get('/char6', function(req, res, next) {
 	res.render('exercise', { title: 'Characters (Level 6)', items: items, selected: selected });
 });
 
+/* Vocabulary PCR 15 */
+router.get('/pcr15', function(req, res, next) {
+	var items = chinese.select({ pcr: 15 }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercise', { title: 'Vocabulary (PRC 15)', items: items, selected: selected });
+});
+
 /* Vocabulary HSK 1 */
 router.get('/hsk1', function(req, res, next) {
 	var items = chinese.select({ hsk: 1 }, 5);

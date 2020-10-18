@@ -67,8 +67,10 @@
 		"pinyin": "cài",
 		"translation": "dish (type of food), vegetables, cuisine",
 		"type": "noun",
+		"category": "food",
         "level": 1,
-        "hsk": 1
+        "hsk": 1,
+        "pcr": 15
 	},
 	{
 		"chinese": "买",
@@ -2397,7 +2399,8 @@
 		"category": "family",
 		"type": "noun",
         "level": 1,
-        "hsk": 1
+        "hsk": 1,
+        "pcr": 15
 	},
 	{
 		"chinese": "子",
@@ -3417,6 +3420,90 @@
 		"translation": "ren min bi",
 		"type": "name",
 		"category": "currency",
+        "level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "美元",
+		"pinyin": "měi yuán",
+		"translation": "dollar",
+		"type": "name",
+		"category": "currency",
+        "level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "欧元",
+		"pinyin": "Ōu yuán",
+		"translation": "euro",
+		"type": "name",
+		"category": "currency",
+        "level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "加元",
+		"pinyin": "jiā yuán",
+		"translation": "canadian dollar",
+		"type": "name",
+		"category": "currency",
+        "level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "元",
+		"pinyin": "yuán",
+		"translation": "currency kuai classifier",
+		"type": "classifier",
+		"category": "currency",
+        "level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "亚洲学系",
+		"pinyin": "yà zhōu xué xì",
+		"translation": "deparment of Asian studies",
+		"type": "expression",
+        "level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "汇率",
+		"pinyin": "huì lǜ",
+		"translation": "exchange rate",
+		"type": "name",
+        "level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "现金",
+		"pinyin": "xiàn jīn",
+		"translation": "cash",
+		"type": "name",
+        "level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "信用卡",
+		"pinyin": "xìn yòng kǎ",
+		"translation": "credit card",
+		"type": "name",
+        "level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "城市",
+		"pinyin": "chéng shì",
+		"translation": "city",
+		"type": "name",
+        "level": 8,
+		"pcr": 15
+	},
+	{
+		"chinese": "地方",
+		"pinyin": "dì fāng",
+		"translation": "place",
+		"type": "name",
         "level": 8,
 		"pcr": 15
 	},
