@@ -32,6 +32,13 @@ router.get('/pcr15', function(req, res, next) {
 	res.render('exercise', { title: 'Vocabulary (PRC 15)', items: items, selected: selected });
 });
 
+/* Vocabulary PCR 16 */
+router.get('/pcr16', function(req, res, next) {
+	var items = chinese.select({ pcr: 16 }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercise', { title: 'Vocabulary (PRC 16)', items: items, selected: selected });
+});
+
 /* Vocabulary HSK 1 */
 router.get('/hsk1', function(req, res, next) {
 	var items = chinese.select({ hsk: 1 }, 5);
