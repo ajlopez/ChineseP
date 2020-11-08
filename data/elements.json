@@ -44,7 +44,8 @@
 		"translation": "very",
 		"type": "adverb",
         "level": 1,
-        "hsk": 1
+        "hsk": 1,
+        "pcr": 1
 	},
 	{
 		"chinese": "饭店",
@@ -529,9 +530,10 @@
 	{
 		"chinese": "我",
 		"pinyin": "wǒ",
-		"translation": "I",
+		"translation": "I, me",
 		"type": "pronoun",
-        "level": 1
+        "level": 1,
+        "pcr": 1
 	},
 	{
 		"chinese": "们",
@@ -545,7 +547,9 @@
 		"pinyin": "nǐ",
 		"translation": "you",
 		"type": "pronoun",
-        "level": 1
+        "level": 1,
+        "pcr": 1,
+        "sound": "https://chinese.yabla.com/audio/340537.mp3"
 	},
 	{
 		"chinese": "他",
@@ -620,7 +624,9 @@
 		"translation": "good",
 		"type": "adjective",
         "level": 1,
-        "hsk": 1
+        "hsk": 1,
+        "pcr": 1,
+        "sound": "https://chinese.yabla.com/audio/340350.mp3"
 	},
 	{
 		"chinese": "不好",
@@ -3672,7 +3678,8 @@
 		"pinyin": "ne",
 		"translation": "particle indicating that a previously asked question is to be applied to the preceding word",
 		"category": "grammar",
-		"type": "particle"
+		"type": "particle",
+        "pcr": 1
 	},
 	{
 		"chinese": "啊",
@@ -4593,7 +4600,9 @@
 		"type": "noun",
 		"category": "family",
 		"level": 2,
-        "hsk": 1
+        "hsk": 1,
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/343619.mp3"
 	},
 	{
 		"chinese": "爸",
@@ -4610,7 +4619,9 @@
 		"translation": "mother",
 		"type": "noun",
 		"category": "family",
-		"level": 2
+		"level": 2,
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/343619.mp3"
 	},
 	{
 		"chinese": "兄弟",
@@ -6596,6 +6607,34 @@
 		"type": "adverb",
         "category": "grammar",
 		"level": 7
+	},
+	{
+		"chinese": "吗",
+		"pinyin": "ma",
+		"translation": "question particle for yes-no questions",
+		"type": "particle",
+        "category": "grammar",
+		"level": 1,
+        "pcr": 1
+	},
+	{
+		"chinese": "也",
+		"pinyin": "yě",
+		"translation": "too, also",
+		"type": "particle",
+        "category": "grammar",
+		"level": 1,
+        "pcr": 1,
+        "sound": "https://chinese.yabla.com/audio/340397.mp3"
+	},
+	{
+		"chinese": "忙",
+		"pinyin": "máng",
+		"translation": "busy",
+		"type": "adjective",
+		"level": 1,
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/343506.mp3"
 	}
 ]
 
