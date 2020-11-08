@@ -61,7 +61,9 @@
 		"translation": "all, both, each, even, already",
 		"type": "adjetive",
         "level": 1,
-        "hsk": 1
+        "hsk": 1,
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/341053.mp3"
 	},
 	{
 		"chinese": "菜",
@@ -540,7 +542,9 @@
 		"pinyin": "men",
 		"translation": "plural maker for pronouns",
 		"type": "pronoun",
-        "level": 1
+        "level": 1,
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/341053.mp3"
 	},
 	{
 		"chinese": "你",
@@ -556,7 +560,9 @@
 		"pinyin": "tā",
 		"translation": "he/she",
 		"type": "pronoun",
-        "level": 1
+        "level": 1,
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/340599.mp3"
 	},
 	{
 		"chinese": "水",
@@ -1578,7 +1584,9 @@
 		"chinese": "朋友",
 		"pinyin": "péng yǒu",
 		"translation": "friend",
-		"type": "noun"
+		"type": "noun",
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/340621.mp3"
 	},
 	{
 		"chinese": "注水",
@@ -2039,7 +2047,9 @@
 		"translation": "no/not",
 		"type": "prefix",
         "level": 1,
-        "hsk": 1
+        "hsk": 1,
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/341053.mp3"
 	},
 	{
 		"chinese": "是的",
@@ -3679,7 +3689,8 @@
 		"translation": "particle indicating that a previously asked question is to be applied to the preceding word",
 		"category": "grammar",
 		"type": "particle",
-        "pcr": 1
+        "pcr": 1,
+        "sound": "https://chinese.yabla.com/audio/340823.mp3"
 	},
 	{
 		"chinese": "啊",
@@ -6635,6 +6646,23 @@
 		"level": 1,
         "pcr": 2,
         "sound": "https://chinese.yabla.com/audio/343506.mp3"
+	},
+	{
+		"chinese": "他们",
+		"pinyin": "tā men",
+		"translation": "they",
+		"type": "pronoun",
+        "level": 1,
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/341301.mp3"
+	},
+	{
+		"chinese": "男",
+		"pinyin": "nán",
+		"translation": "male",
+		"type": "noun",
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/340839.mp3"
 	}
 ]
 
