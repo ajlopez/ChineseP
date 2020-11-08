@@ -25,18 +25,32 @@ router.get('/char6', function(req, res, next) {
 	res.render('exercise', { title: 'Characters (Level 6)', items: items, selected: selected });
 });
 
+/* Vocabulary PCR 1 */
+router.get('/pcr1', function(req, res, next) {
+	var items = chinese.select({ pcr: 1 }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercise', { title: 'Vocabulary (PCR 1)', items: items, selected: selected });
+});
+
+/* Vocabulary PCR 2 */
+router.get('/pcr2', function(req, res, next) {
+	var items = chinese.select({ pcr: 2 }, 5);
+	var selected = Math.floor(Math.random() * items.length);
+	res.render('exercise', { title: 'Vocabulary (PCR 2)', items: items, selected: selected });
+});
+
 /* Vocabulary PCR 15 */
 router.get('/pcr15', function(req, res, next) {
 	var items = chinese.select({ pcr: 15 }, 5);
 	var selected = Math.floor(Math.random() * items.length);
-	res.render('exercise', { title: 'Vocabulary (PRC 15)', items: items, selected: selected });
+	res.render('exercise', { title: 'Vocabulary (PCR 15)', items: items, selected: selected });
 });
 
 /* Vocabulary PCR 16 */
 router.get('/pcr16', function(req, res, next) {
 	var items = chinese.select({ pcr: 16 }, 5);
 	var selected = Math.floor(Math.random() * items.length);
-	res.render('exercise', { title: 'Vocabulary (PRC 16)', items: items, selected: selected });
+	res.render('exercise', { title: 'Vocabulary (PCR 16)', items: items, selected: selected });
 });
 
 /* Vocabulary HSK 1 */
