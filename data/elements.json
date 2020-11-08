@@ -4,7 +4,18 @@
 		"pinyin": "yào",
 		"translation": "to want",
 		"type": "verb",
-        "level": 1
+        "level": 1,
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/340327.mp3"
+	},
+	{
+		"chinese": "要",
+		"pinyin": "yào",
+		"translation": "going to (as future auxiliary)",
+		"type": "verb",
+        "level": 1,
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/340327.mp3"
 	},
 	{
 		"chinese": "爱",
@@ -1629,7 +1640,9 @@
 		"pinyin": "kā fēi",
 		"translation": "coffee",
 		"category": "beverage",
-		"type": "noun"
+		"type": "noun",
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/344383.mp3"
 	},
 	{
 		"chinese": "咖",
@@ -3243,7 +3256,9 @@
 		"translation": "to drink",
 		"type": "verb",
         "level": 1,
-        "hsk": 1
+        "hsk": 1,
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/343150.mp3"
 	},
 	{
 		"chinese": "吃饭",
@@ -4644,19 +4659,23 @@
 	},
 	{
 		"chinese": "弟弟",
-		"pinyin": "dì dì",
+		"pinyin": "dì di",
 		"translation": "younger brother",
 		"type": "noun",
 		"category": "family",
-		"level": 2
+		"level": 2,
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/365497.mp3"
 	},
 	{
 		"chinese": "哥哥",
-		"pinyin": "gē gē",
+		"pinyin": "gē ge",
 		"translation": "elder brother",
 		"type": "noun",
 		"category": "family",
-		"level": 2
+		"level": 2,
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/360345.mp3"
 	},
 	{
 		"chinese": "妹妹",
@@ -6663,6 +6682,14 @@
 		"type": "noun",
         "pcr": 2,
         "sound": "https://chinese.yabla.com/audio/340839.mp3"
+	},
+	{
+		"chinese": "我们",
+		"pinyin": "wǒ men",
+		"translation": "we, us",
+		"type": "pronoun",
+        "pcr": 2,
+        "sound": "https://chinese.yabla.com/audio/340284.mp3"
 	}
 ]
 
