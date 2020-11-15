@@ -6715,9 +6715,57 @@
 		"chinese": "已经",
 		"pinyin": "yǐ jīng",
 		"translation": "already",
-		"type": "adverbio",
+		"type": "adverb",
         "pcr": 17,
         "sound": "https://chinese.yabla.com/audio/340568.mp3"
+	},
+	{
+		"chinese": "商店",
+		"pinyin": "shāng diàn",
+		"translation": "store, shop",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/344050.mp3"
+	},
+	{
+		"chinese": "商",
+		"pinyin": "shāng",
+		"translation": "commerce, business",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/341044.mp3"
+	},
+	{
+		"chinese": "店",
+		"pinyin": "diàn",
+		"translation": "inn, shop, store",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/340827.mp3"
+	},
+	{
+		"chinese": "极了",
+		"pinyin": "jí le",
+		"translation": "extremely, exceedingly",
+		"type": "adverb",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/372891.mp3"
+	},
+	{
+		"chinese": "极",
+		"pinyin": "jí",
+		"translation": "extremely",
+		"type": "adverb",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/341457.mp3"
+	},
+	{
+		"chinese": "一定",
+		"pinyin": "yī dìng",
+		"translation": "surely, must",
+		"type": "adverb",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/340518.mp3"
 	}
 ]
 
