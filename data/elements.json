@@ -466,7 +466,9 @@
 		"pinyin": "mài",
 		"translation": "to sell",
 		"type": "verb",
-        "level": 1
+        "level": 1,
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/342146.mp3"
 	},
 	{
 		"chinese": "做",
@@ -6531,8 +6533,10 @@
 		"chinese": "比",
 		"pinyin": "bǐ",
 		"translation": "to compare, particle used for comparison",
-		"type": "verb",
-        "level": 7
+		"type": "preposition",
+        "level": 7,
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/340757.mp3"
 	},
 	{
 		"chinese": "动",
@@ -6684,12 +6688,36 @@
         "sound": "https://chinese.yabla.com/audio/340839.mp3"
 	},
 	{
-		"chinese": "我们",
-		"pinyin": "wǒ men",
-		"translation": "we, us",
-		"type": "pronoun",
-        "pcr": 2,
-        "sound": "https://chinese.yabla.com/audio/340284.mp3"
+		"chinese": "旗袍",
+		"pinyin": "qí páo",
+		"translation": "Chinese-style dress",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/365140.mp3"
+	},
+	{
+		"chinese": "中式",
+		"pinyin": "zhōng shì",
+		"translation": "Chinese-style",
+		"type": "adjetive",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/454227.mp3"
+	},
+	{
+		"chinese": "式",
+		"pinyin": "shì",
+		"translation": "style",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/340646.mp3"
+	},
+	{
+		"chinese": "已经",
+		"pinyin": "yǐ jīng",
+		"translation": "already",
+		"type": "adverbio",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/340568.mp3"
 	}
 ]
 
