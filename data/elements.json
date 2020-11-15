@@ -2125,21 +2125,27 @@
 		"pinyin": "hóng",
 		"translation": "red",
 		"category": "color",
-		"type": "adjective"
+		"type": "adjective",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/455024.mp3"
 	},
 	{
 		"chinese": "白",
 		"pinyin": "bái",
 		"translation": "white",
 		"category": "color",
-		"type": "adjective"
+		"type": "adjective",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/340893.mp3"
 	},
 	{
 		"chinese": "黑",
 		"pinyin": "hēi",
 		"translation": "black",
 		"category": "color",
-		"type": "adjective"
+		"type": "adjective",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/451455.mp3"
 	},
 	{
 		"chinese": "蓝",
@@ -5808,7 +5814,9 @@
 		"pinyin": "kāi shǐ",
 		"translation": "to begin, to start",
 		"type": "verb",
-		"level": 6
+		"level": 6,
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/340721.mp3"
 	},
 	{
 		"chinese": "开始",
@@ -6116,9 +6124,11 @@
 	{
 		"chinese": "差",
 		"pinyin": "chà",
-		"translation": "wrong",
+		"translation": "wrong, poor, bad, not up to standard",
 		"type": "adjetive",
-		"level": 6
+		"level": 6,
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/340937.mp3"
 	},
 	{
 		"chinese": "每",
@@ -6340,9 +6350,11 @@
 	{
 		"chinese": "便宜",
 		"pinyin": "pián yi",
-		"translation": "inexpensive",
+		"translation": "inexpensive, cheap",
 		"type": "adjetive",
-        "level": 6
+        "level": 6,
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/343280.mp3"
 	},
 	{
 		"chinese": "以便",
@@ -6766,6 +6778,38 @@
 		"type": "adverb",
         "pcr": 17,
         "sound": "https://chinese.yabla.com/audio/340518.mp3"
+	},
+	{
+		"chinese": "太极拳",
+		"pinyin": "tài jí quán",
+		"translation": "taiji boxing",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/382241.mp3"
+	},
+	{
+		"chinese": "套",
+		"pinyin": "tào",
+		"translation": "classifier for set, suite, suit",
+		"type": "classifier",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/342203.mp3"
+	},
+	{
+		"chinese": "帅",
+		"pinyin": "shuài",
+		"translation": "handsome, smart",
+		"type": "adjetive",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/458302.mp3"
+	},
+	{
+		"chinese": "颜色",
+		"pinyin": "yán sè",
+		"translation": "color",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/341755.mp3"
 	}
 ]
 
