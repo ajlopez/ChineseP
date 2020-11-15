@@ -70,7 +70,7 @@
 		"chinese": "都",
 		"pinyin": "dōu",
 		"translation": "all, both, each, even, already",
-		"type": "adjetive",
+		"type": "adjective",
         "level": 1,
         "hsk": 1,
         "pcr": 2,
@@ -790,7 +790,9 @@
 		"pinyin": "zǒu",
 		"translation": "to walk",
 		"type": "verb",
-        "level": 1
+        "level": 1,
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/340713.mp3"
 	},
 	{
 		"chinese": "行",
@@ -808,7 +810,7 @@
 		"chinese": "行",
 		"pinyin": "xíng",
 		"translation": "effective",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "行",
@@ -932,13 +934,13 @@
 		"chinese": "自行",
 		"pinyin": "zì xíng",
 		"translation": "self-",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "先",
 		"pinyin": "xiān",
 		"translation": "first",
-		"type": "adjetive",
+		"type": "adjective",
         "level": 1
 	},
 	{
@@ -1017,7 +1019,7 @@
 		"chinese": "两",
 		"pinyin": "liǎng",
 		"translation": "two",
-		"type": "adjetive",
+		"type": "adjective",
 		"category": "number"
 	},
 	{
@@ -2159,7 +2161,9 @@
 		"pinyin": "lǜ",
 		"translation": "green",
 		"category": "color",
-		"type": "adjective"
+		"type": "adjective",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/343364.mp3"
 	},
 	{
 		"chinese": "黄",
@@ -3560,7 +3564,7 @@
 		"pinyin": "jìn",
 		"translation": "near",
 		"category": "place",
-		"type": "adjetive",
+		"type": "adjective",
         "level": 1
 	},
 	{
@@ -3786,7 +3790,7 @@
 		"chinese": "少",
 		"pinyin": "shǎo",
 		"translation": "few",
-		"type": "adjetive",
+		"type": "adjective",
         "level": 1,
 		"pcr": 15
 	},
@@ -3936,7 +3940,7 @@
 		"chinese": "少",
 		"pinyin": "shǎo",
 		"translation": "young",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "码",
@@ -4472,7 +4476,7 @@
 		"chinese": "医",
 		"pinyin": "yī",
 		"translation": "medical",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "医",
@@ -5058,19 +5062,19 @@
 		"chinese": "快",
 		"pinyin": "kuài",
 		"translation": "happy",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "快乐",
 		"pinyin": "kuài lè",
 		"translation": "happy",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "乐",
 		"pinyin": "lè",
 		"translation": "happy",
-		"type": "adjetive"
+		"type": "adjective"
 	},
 	{
 		"chinese": "边",
@@ -5202,7 +5206,7 @@
 		"pinyin": "zuǒ",
 		"translation": "left (-hand)",
 		"category": "place",
-		"type": "adjetive",
+		"type": "adjective",
         "level": 1
 	},
 	{
@@ -5380,7 +5384,9 @@
 		"pinyin": "jué de",
 		"translation": "to think, to feel",
 		"type": "verb",
-		"level": 2
+		"level": 2,
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/341531.mp3"
 	},
 	{
 		"chinese": "得",
@@ -5458,7 +5464,7 @@
 		"chinese": "新",
 		"pinyin": "xīn",
 		"translation": "new",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 6
 	},
 	{
@@ -5493,7 +5499,7 @@
 		"chinese": "空",
 		"pinyin": "kōng",
 		"translation": "empty",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 2
 	},
 	{
@@ -5664,14 +5670,14 @@
 		"chinese": "已婚",
 		"pinyin": "yǐ hūn",
 		"translation": "married",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 6
 	},
 	{
 		"chinese": "独身",
 		"pinyin": "dú shēn",
 		"translation": "unmarried",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 6
 	},
 	{
@@ -5708,7 +5714,7 @@
 		"chinese": "年轻",
 		"pinyin": "nián qīng",
 		"translation": "young",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 8,
 		"pcr": 15
 	},
@@ -5806,7 +5812,7 @@
 		"chinese": "国外",
 		"pinyin": "guó wài",
 		"translation": "foreign, overseas",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 6
 	},
 	{
@@ -5831,7 +5837,9 @@
 		"translation": "hour",
 		"type": "noun",
         "category": "time",
-		"level": 6
+		"level": 6,
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/341210.mp3"
 	},
 	{
 		"chinese": "分钟",
@@ -5846,7 +5854,7 @@
 		"chinese": "高兴",
 		"pinyin": "gāo xìng",
 		"translation": "happy, glad",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 6,
         "hsk": 1
 	},
@@ -5861,7 +5869,7 @@
 		"chinese": "重要",
 		"pinyin": "zhòng yào",
 		"translation": "important",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 6
 	},
 	{
@@ -5945,7 +5953,7 @@
 		"chinese": "未婚",
 		"pinyin": "wèi hūn",
 		"translation": "unmarried",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 6
 	},
 	{
@@ -6075,7 +6083,7 @@
 		"chinese": "离婚",
 		"pinyin": "lí hūn",
 		"translation": "divorced",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 6
 	},
 	{
@@ -6089,14 +6097,14 @@
 		"chinese": "长",
 		"pinyin": "cháng",
 		"translation": "long",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 6
 	},
 	{
 		"chinese": "半",
 		"pinyin": "bàn",
 		"translation": "half",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 6
 	},
 	{
@@ -6125,7 +6133,7 @@
 		"chinese": "差",
 		"pinyin": "chà",
 		"translation": "wrong, poor, bad, not up to standard",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 6,
         "pcr": 17,
         "sound": "https://chinese.yabla.com/audio/340937.mp3"
@@ -6134,7 +6142,7 @@
 		"chinese": "每",
 		"pinyin": "měi",
 		"translation": "each, every",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 6
 	},
 	{
@@ -6148,7 +6156,7 @@
 		"chinese": "欢",
 		"pinyin": "huān",
 		"translation": "happy",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 6
 	},
 	{
@@ -6169,7 +6177,7 @@
 		"chinese": "错",
 		"pinyin": "cuò",
 		"translation": "wrong, bad",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 6
 	},
 	{
@@ -6197,7 +6205,7 @@
 		"chinese": "英",
 		"pinyin": "yīng",
 		"translation": "excellent",
-		"type": "adjetive",
+		"type": "adjective",
         "level": 6
 	},
 	{
@@ -6246,7 +6254,7 @@
 		"chinese": "现",
 		"pinyin": "xiàn",
 		"translation": "current",
-		"type": "adjetive",
+		"type": "adjective",
         "level": 6
 	},
 	{
@@ -6288,7 +6296,7 @@
 		"chinese": "前",
 		"pinyin": "qián",
 		"translation": "front",
-		"type": "adjetive",
+		"type": "adjective",
 		"category": "place",
         "level": 6
 	},
@@ -6309,7 +6317,7 @@
 		"chinese": "昨",
 		"pinyin": "zuó",
 		"translation": "yesterday",
-		"type": "adjetive",
+		"type": "adjective",
         "category": "time",
         "level": 6
 	},
@@ -6337,21 +6345,21 @@
 		"chinese": "便利",
 		"pinyin": "biàn lì",
 		"translation": "convenient",
-		"type": "adjetive",
+		"type": "adjective",
         "level": 6
 	},
 	{
 		"chinese": "方便",
 		"pinyin": "fāng biàn",
 		"translation": "convenient",
-		"type": "adjetive",
+		"type": "adjective",
         "level": 6
 	},
 	{
 		"chinese": "便宜",
 		"pinyin": "pián yi",
 		"translation": "inexpensive, cheap",
-		"type": "adjetive",
+		"type": "adjective",
         "level": 6,
         "pcr": 17,
         "sound": "https://chinese.yabla.com/audio/343280.mp3"
@@ -6367,21 +6375,21 @@
 		"chinese": "便",
 		"pinyin": "pián",
 		"translation": "convenient",
-		"type": "adjetive",
+		"type": "adjective",
         "level": 6
 	},
 	{
 		"chinese": "亿",
 		"pinyin": "yì",
 		"translation": "100 million",
-		"type": "adjetive",
+		"type": "adjective",
 		"category": "number"
 	},
 	{
 		"chinese": "宜",
 		"pinyin": "yí",
 		"translation": "appropiate",
-		"type": "adjetive",
+		"type": "adjective",
         "level": 6
 	},
 	{
@@ -6480,7 +6488,7 @@
 		"chinese": "公",
 		"pinyin": "gōng",
 		"translation": "public",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 7
 	},
 	{
@@ -6502,7 +6510,7 @@
 		"chinese": "加",
 		"pinyin": "jiā",
 		"translation": "plus",
-		"type": "adjetive",
+		"type": "adjective",
 		"level": 7
 	},
 	{
@@ -6523,14 +6531,14 @@
 		"chinese": "慢",
 		"pinyin": "màn",
 		"translation": "slow",
-		"type": "adjetive",
+		"type": "adjective",
         "level": 7
 	},
 	{
 		"chinese": "曼",
 		"pinyin": "màn",
 		"translation": "handsome, large, long",
-		"type": "adjetive",
+		"type": "adjective",
         "level": 7
 	},
 	{
@@ -6561,7 +6569,7 @@
 		"chinese": "早",
 		"pinyin": "zǎo",
 		"translation": "early",
-		"type": "adjetive",
+		"type": "adjective",
         "level": 7,
         "pcr": 15
 	},
@@ -6711,7 +6719,7 @@
 		"chinese": "中式",
 		"pinyin": "zhōng shì",
 		"translation": "Chinese-style",
-		"type": "adjetive",
+		"type": "adjective",
         "pcr": 17,
         "sound": "https://chinese.yabla.com/audio/454227.mp3"
 	},
@@ -6799,7 +6807,7 @@
 		"chinese": "帅",
 		"pinyin": "shuài",
 		"translation": "handsome, smart",
-		"type": "adjetive",
+		"type": "adjective",
         "pcr": 17,
         "sound": "https://chinese.yabla.com/audio/458302.mp3"
 	},
@@ -6810,6 +6818,95 @@
 		"type": "noun",
         "pcr": 17,
         "sound": "https://chinese.yabla.com/audio/341755.mp3"
+	},
+	{
+		"chinese": "没关系",
+		"pinyin": "méi guān xi",
+		"translation": "never mind, it doesn't matter",
+		"type": "expression",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/362888.mp3"
+	},
+	{
+		"chinese": "公园",
+		"pinyin": "gōng yuán",
+		"translation": "park",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/346427.mp3"
+	},
+	{
+		"chinese": "过去",
+		"pinyin": "guò qù",
+		"translation": "to pass",
+		"type": "verb",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/449169.mp3"
+	},
+	{
+		"chinese": "衬衫",
+		"pinyin": "chèn shān",
+		"translation": "shirt",
+		"type": "noun",
+        "category": "clothes",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/369715.mp3"
+	},
+	{
+		"chinese": "样子",
+		"pinyin": "yàng zi",
+		"translation": "shape, sample, model",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/345561.mp3"
+	},
+	{
+		"chinese": "售货员",
+		"pinyin": "shòu huò yuán",
+		"translation": "salesclerk, shop assistant",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/345561.mp3"
+	},
+	{
+		"chinese": "售",
+		"pinyin": "shòu",
+		"translation": "to sell",
+		"type": "verb",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/342489.mp3"
+	},
+	{
+		"chinese": "货",
+		"pinyin": "huò",
+		"translation": "goods, money, commodity",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/343105.mp3"
+	},
+	{
+		"chinese": "试",
+		"pinyin": "shì",
+		"translation": "to try, to have a try",
+		"type": "verb",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/341832.mp3"
+	},
+	{
+		"chinese": "合适",
+		"pinyin": "hé shì",
+		"translation": "suitable, appropiate, right",
+		"type": "adjective",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/343672.mp3"
+	},
+	{
+		"chinese": "短",
+		"pinyin": "duǎn",
+		"translation": "short",
+		"type": "adjective",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/341269.mp3"
 	}
 ]
 
