@@ -6907,6 +6907,172 @@
 		"type": "adjective",
         "pcr": 17,
         "sound": "https://chinese.yabla.com/audio/341269.mp3"
+	},
+	{
+		"chinese": "高",
+		"pinyin": "gāo",
+		"translation": "high, tall",
+		"type": "adjective",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/340269.mp3"
+	},
+	{
+		"chinese": "公分",
+		"pinyin": "gōng fēn",
+		"translation": "centimeter",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/364970.mp3"
+	},
+	{
+		"chinese": "麻烦",
+		"pinyin": "má fan",
+		"translation": "to bother, to trouble",
+		"type": "verb",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/343941.mp3"
+	},
+	{
+		"chinese": "丝绸",
+		"pinyin": "sī chóu",
+		"translation": "silk",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/355684.mp3"
+	},
+	{
+		"chinese": "西服",
+		"pinyin": "xī fú",
+		"translation": "Western-style clothes",
+		"type": "noun",
+        "category": "clothes",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/367982.mp3"
+	},
+	{
+		"chinese": "双",
+		"pinyin": "shuāng",
+		"translation": "pair",
+		"type": "classifier",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/341308.mp3"
+	},
+	{
+		"chinese": "鞋子",
+		"pinyin": "xié zi",
+		"translation": "shoe",
+		"type": "noun",
+        "category": "clothes",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/367995.mp3"
+	},
+	{
+		"chinese": "鞋",
+		"pinyin": "xié",
+		"translation": "shoe",
+		"type": "noun",
+        "category": "clothes",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/348605.mp3"
+	},
+	{
+		"chinese": "头发",
+		"pinyin": "xié",
+		"translation": "tóu fa",
+		"type": "noun",
+        "category": "body",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/365474.mp3"
+	},
+	{
+		"chinese": "打折",
+		"pinyin": "dǎ zhé",
+		"translation": "to give a discount, to sell at a discount",
+		"type": "verb",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/352232.mp3"
+	},
+	{
+		"chinese": "条",
+		"pinyin": "tiáo",
+		"translation": "classifier for long thin things (ribbon, river, road, trousers etc)",
+		"type": "classifier",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/340499.mp3"
+	},
+	{
+		"chinese": "裤子",
+		"pinyin": "kù zi",
+		"translation": "trousers, pants",
+		"type": "noun",
+        "pcr": 17,
+        "category": "clothes",
+        "sound": "https://chinese.yabla.com/audio/366134.mp3"
+	},
+	{
+		"chinese": "相声",
+		"pinyin": "xiàng sheng",
+		"translation": "comic dialog, repartee",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/367398.mp3"
+	},
+	{
+		"chinese": "了不起",
+		"pinyin": "liǎo bu qǐ",
+		"translation": "amazing, terrific, extraordinary",
+		"type": "expression",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/352988.mp3"
+	},
+	{
+		"chinese": "薄",
+		"pinyin": "báo",
+		"translation": "thin",
+		"type": "adjective",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/343400.mp3"
+	},
+	{
+		"chinese": "页",
+		"pinyin": "yè",
+		"translation": "page",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/340453.mp3"
+	},
+	{
+		"chinese": "料子",
+		"pinyin": "liào zi",
+		"translation": "material for making clothes",
+		"type": "noun",
+        "category": "clothes",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/387738.mp3"
+	},
+	{
+		"chinese": "布",
+		"pinyin": "bù",
+		"translation": "cloth, fabric",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/342448.mp3"
+	},
+	{
+		"chinese": "总是",
+		"pinyin": "zǒng shì",
+		"translation": "always",
+		"type": "adverb",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/341588.mp3"
+	},
+	{
+		"chinese": "表",
+		"pinyin": "biǎo",
+		"translation": "wrist or pocket watch",
+		"type": "noun",
+        "pcr": 17,
+        "sound": "https://chinese.yabla.com/audio/340947.mp3"
 	}
 ]
 
