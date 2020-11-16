@@ -6977,8 +6977,8 @@
 	},
 	{
 		"chinese": "头发",
-		"pinyin": "xié",
-		"translation": "tóu fa",
+		"pinyin": "tóu fa",
+		"translation": "hair",
 		"type": "noun",
         "category": "body",
         "pcr": 17,
